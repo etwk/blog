@@ -59,29 +59,30 @@ Works in IT as administration, architecture, and manager from year 2014, with ex
 
 # Work Experience
 
-**GritWorld**
-2019 ~ 2022, Shanghai
-Senior IT Administrator
-Responsible for IT operations and maintenance, administration, and management.
+**GritWorld**  
+2019 ~ 2022, Shanghai  
+Senior IT Administrator  
+Responsible for IT operations and maintenance, administration, and   management.
 
-**Freelance**
-2019
-BI and web development.
+**Freelance**  
+2019  
+BI and web development.  
 
-**IBM**
-2018 ~ 2019, Shenzhen
-IT Support
-Support DBS HK bank, focused on application and server support.
+**IBM**  
+2018 ~ 2019, Shenzhen  
+IT Support  
+Support DBS HK bank, focused on application and server support.  
 
-**Lost & Found**
-2017 ~ 2018, Beijing
-IT Engineer
-Responsible for construction of their new office and server room. Setup and administration of IT related software and hardware.
+**Lost & Found**  
+2017 ~ 2018, Beijing  
+IT Engineer  
+Responsible for construction of their new office and server room. Setup and administration of IT related software and hardware.  
 
-**S.I.T.**
-2014 ~ 2017, Beijing
-IT Develop Engineer
-Responsible for IT operation, maintenance, and administration. Leading development of a business intelligence project.
+**S.I.T.**  
+2014 ~ 2017, Beijing  
+IT Develop Engineer  
+Responsible for IT operation, maintenance, and administration. Leading development of a business intelligence project.  
 
 # Certificates
+
 - AHA Heardsaver First Aid CPR AED
