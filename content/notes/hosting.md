@@ -81,7 +81,7 @@ Have a custom domain? [Learn how to set it up with Quartz ](notes/custom%20Domai
 ### Ignoring Files
 Only want to publish a subset of all of your notes? Don't worry, Quartz makes this a simple two-step process.
 
-❌ [Excluding pages from being published](notes/ignore%20notes.md)
+❌ [Excluding pages from being published](notes/ignore-+notes.md)
 
 ---
 
