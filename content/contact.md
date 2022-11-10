@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 tags: 
+enableToc: false
 ---
 
 - Gitlab: https://github.com/etwk
