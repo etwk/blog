@@ -1,6 +1,10 @@
 ---
 title: "出中國記 2022"
-tags: travel, Asia, China, Cambodia
+tags: 
+- travel
+- Asia
+- China
+- Cambodia
 ---
 
 筆者在 2022.10 自廣州白雲機場離開中國來到 Cambodia，分享相關經歷。
@@ -39,7 +43,7 @@ tags: travel, Asia, China, Cambodia
 
 ## 出行前
 
-### [Cambodia e-Visa](posts/Cambodia%20Travel)
+### [Cambodia e-Visa](posts/Cambodia%20travel.md)
 
 ### 出行用品
 

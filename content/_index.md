@@ -7,3 +7,4 @@ Welcome to Earthwalker's personal blogging and sharing site.
 
 - [about](about.md)
 - [contact](contact.md)
+- [all posts](posts)
