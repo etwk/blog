@@ -1,2 +1,0 @@
-- [ ] contact page
-- [ ] now page
