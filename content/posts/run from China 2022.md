@@ -44,7 +44,7 @@ tags:
 
 ## 出行前
 
-### [Cambodia e-Visa](posts/Cambodia%20travel.md)
+### [Cambodia e-Visa](./Cambodia%20travel.md)
 
 ### 出行用品
 
