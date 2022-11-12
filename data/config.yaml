@@ -15,9 +15,9 @@ enableGitHubEdit: false
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Blog.
+  Blogging and sharing.
 page_title:
-  "Earthwalker Blog"
+  "Earthwalker"
 links:
   - link_name: Mastodon
     link: https://mastodon.social/web/@earthwalker
