@@ -1,13 +1,13 @@
 name: Earthwalker
 enableToc: true
-openToc: false
-enableLinkPreview: true
+openToc: true
+enableLinkPreview: false
 enableLatex: true
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
-enableFooter: true
+enableFooter: false
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: false
@@ -19,7 +19,5 @@ description:
 page_title:
   "Earthwalker"
 links:
-  - link_name: Mastodon
-    link: https://mastodon.social/web/@earthwalker
   - link_name: Github
     link: https://github.com/etwk
