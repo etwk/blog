@@ -31,9 +31,10 @@ Works in IT as administration, architecture, and manager from year 2014, with ex
 - network
 	- firewall, router, switch, AP, NAC, 802.1X
 	- VPN: tinc, OpenVPN, ocserv (AnyConnect), IPsec
-	- proxy: Squid, naiveproxy, Shadowsocks, V2Ray
+	- proxy: Squid
 	- hardware vendor: MikroTik, Huawei, H3C, Unifi, FortiGate
 	- software: RouterOS, pfSense, OPNsense, Panabit, AppEx, Debian, PacketFence
+	- cross the GFW
 - server hardware: Dell PowerEdge, RAID, customize build
 - software
 	- 3A: FreeRADIUS

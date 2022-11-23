@@ -4,10 +4,8 @@ tags:
 enableToc: false
 ---
 
-Updated Nov. 10, 2022, from a hostel in Cambodia.
-
-## Tutoring in Cambodia
-And volunteering.
+## Tutoring in Thailand
+Bangkok is a developed city like Shanghai, Beijing, but with much more diversity.
 
 ## Reading
 - Under Pressure: Confronting the Epidemic of Stress and Anxiety in Girls
