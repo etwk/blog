@@ -3,24 +3,24 @@ title: "About & Resume"
 tags: personal
 ---
 
-# Profile
+## Profile
 
 Vegan, Vipassana practicer.
 
 Works in IT as administration, architecture, and manager from year 2014, with extensive hands-on experience.
 
-# Interests
+## Interests
 
 - climate change, environment protection
 - education innovation, spiritual development, psychology
 - documentary, film, book
 
-# Languages
+## Languages
 
 - English: B2
 - Chinese: native
 
-# Experiences
+## Experiences
 
 - system
 	- Server: Linux, Windows
@@ -58,7 +58,7 @@ Works in IT as administration, architecture, and manager from year 2014, with ex
 	- Windows Server: AD, DNS, GPO, RemoteApp
 - Cloud: Google, Azure, Alibaba
 
-# Work Experience
+## Work Experience
 
 **GritWorld**  
 2019 ~ 2022, Shanghai  
@@ -84,6 +84,6 @@ Responsible for construction of their new office and server room. Setup and admi
 IT Develop Engineer  
 Responsible for IT operation, maintenance, and administration. Leading development of a business intelligence project.  
 
-# Certificates
+## Certificates
 
 - AHA Heardsaver First Aid CPR AED

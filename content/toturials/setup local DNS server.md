@@ -1,5 +1,5 @@
 ---
-title: "Setuo Local DNS Server"
+title: "Setup Local DNS Server"
 tags: 
 - network
 - China
