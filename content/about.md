@@ -1,5 +1,5 @@
 ---
-title: "About & Requme"
+title: "About & Resume"
 tags: personal
 ---
 

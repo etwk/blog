@@ -55,7 +55,7 @@ DNS resolve to blocked websites such as Google are polluted in public DNS server
 ##### Approach
 A common approach is to set up a private DNS server, for example a network instance in one's own home.
 
-todo: list of tutorial
+- [Setup local DNS server].(toturial/setup%20local%20DNS%20server)
 
 ##### Connection
 
