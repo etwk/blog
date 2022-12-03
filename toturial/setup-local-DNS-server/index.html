@@ -1,0 +1,248 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=description content="Overview This tutorial is about how to get clean, optimized DNS resolve results by set up a local DNS server. Use China as an example."><title>Setuo Local DNS Server</title><meta name=viewport content="width=device-width,initial-scale=1"><link rel="shortcut icon" type=image/png href=https://earthwalker.me//icon.png><link href=https://earthwalker.me/styles.708c2658f93e3a9d323a1f9fded8f4b2.min.css rel=stylesheet><link href=https://earthwalker.me/styles/_light_syntax.86a48a52faebeaaf42158b72922b1c90.min.css rel=stylesheet id=theme-link><script src=https://earthwalker.me/js/darkmode.d640a6d21cbf995a3c5db42ddb4d6d9a.min.js></script>
+<script src=https://earthwalker.me/js/util.9825137f5e7825e8553c68ce39ac9e44.min.js></script>
+<link rel=stylesheet href=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css integrity=sha384-R4558gYOUz8mP9YWpZJjofhk+zx0AS11p36HnD2ZKj/6JR5z27gSSULCNHIRReVs crossorigin=anonymous><script defer src=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js integrity=sha384-z1fJDqw8ZApjGO3/unPWUPsIymfsJmyrDVWC8Tv/a1HeOtGmkwNd/7xUS0Xcnvsx crossorigin=anonymous></script>
+<script defer src=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js integrity=sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR crossorigin=anonymous></script>
+<script defer src=https://cdn.jsdelivr.net/npm/katex@0.16.2/dist/contrib/copy-tex.min.js integrity=sha384-ww/583aHhxWkz5DEVn6OKtNiIaLi2iBRNZXfJRiY1Ai7tnJ9UXpEsyvOITVpTl4A crossorigin=anonymous></script>
+<script src=https://unpkg.com/@floating-ui/core@0.7.3></script>
+<script src=https://unpkg.com/@floating-ui/dom@0.5.4></script>
+<script src=https://earthwalker.me/js/popover.9b72b70bd35617d0635e9d15463662b2.min.js></script>
+<script src=https://earthwalker.me/js/code-title.b35124ad8db0ba37162b886afb711cbc.min.js></script>
+<script src=https://earthwalker.me/js/clipboard.c20857734e53a3fb733b7443879efa61.min.js></script>
+<script src=https://earthwalker.me/js/callouts.7723cac461d613d118ee8bb8216b9838.min.js></script>
+<script>const BASE_URL="https://earthwalker.me/",fetchData=Promise.all([fetch("https://earthwalker.me/indices/linkIndex.e69f029e813f55c7e0d131abea85d6d9.min.json").then(e=>e.json()).then(e=>({index:e.index,links:e.links})),fetch("https://earthwalker.me/indices/contentIndex.d3e7c50cd7e0b42e60b5e0a58391a9df.min.json").then(e=>e.json())]).then(([{index:e,links:t},n])=>({index:e,links:t,content:n})),render=()=>{const e=new URL(BASE_URL),t=e.pathname,n=window.location.pathname,s=t==n;addCopyButtons(),addTitleToCodeBlocks(),addCollapsibleCallouts()},init=(e=document)=>{addCopyButtons(),addTitleToCodeBlocks(),renderMathInElement(e.body,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"$",right:"$",display:!1}],macros:{'’':"'"},throwOnError:!1})}</script><script type=module>
+    import { attachSPARouting } from "https:\/\/earthwalker.me\/js\/router.9d4974281069e9ebb189f642ae1e3ca2.min.js"
+    attachSPARouting(init, render)
+  </script></head><body><div id=search-container><div id=search-space><input autocomplete=off id=search-bar name=search type=text aria-label=Search placeholder="Search for something..."><div id=results-container></div></div></div><script src=https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js integrity="sha256-i3A0NZGkhsKjVMzFxv3ksk0DZh3aXqu0l49Bbh0MdjE=" crossorigin=anonymous defer></script>
+<script defer src=https://earthwalker.me/js/full-text-search.24827f874defbbc6d529926cbfcfb493.min.js></script><div class=singlePage><header><h1 id=page-title><a href=https://earthwalker.me/>Earthwalker</a></h1><div class=spacer></div><div id=search-icon><p>Search</p><svg tabindex="0" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg></div><div class=darkmode><input class=toggle id=darkmode-toggle type=checkbox tabindex=-1>
+<label id=toggle-label-light for=darkmode-toggle tabindex=-1><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="dayIcon" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35"><title>Light Mode</title><path d="M6 17.5C6 16.672 5.328 16 4.5 16h-3C.672 16 0 16.672.0 17.5S.672 19 1.5 19h3C5.328 19 6 18.328 6 17.5zM7.5 26c-.414.0-.789.168-1.061.439l-2 2C4.168 28.711 4 29.086 4 29.5 4 30.328 4.671 31 5.5 31c.414.0.789-.168 1.06-.44l2-2C8.832 28.289 9 27.914 9 27.5 9 26.672 8.329 26 7.5 26zm10-20C18.329 6 19 5.328 19 4.5v-3C19 .672 18.329.0 17.5.0S16 .672 16 1.5v3C16 5.328 16.671 6 17.5 6zm10 3c.414.0.789-.168 1.06-.439l2-2C30.832 6.289 31 5.914 31 5.5 31 4.672 30.329 4 29.5 4c-.414.0-.789.168-1.061.44l-2 2C26.168 6.711 26 7.086 26 7.5 26 8.328 26.671 9 27.5 9zM6.439 8.561C6.711 8.832 7.086 9 7.5 9 8.328 9 9 8.328 9 7.5c0-.414-.168-.789-.439-1.061l-2-2C6.289 4.168 5.914 4 5.5 4 4.672 4 4 4.672 4 5.5c0 .414.168.789.439 1.06l2 2.001zM33.5 16h-3c-.828.0-1.5.672-1.5 1.5s.672 1.5 1.5 1.5h3c.828.0 1.5-.672 1.5-1.5S34.328 16 33.5 16zM28.561 26.439C28.289 26.168 27.914 26 27.5 26c-.828.0-1.5.672-1.5 1.5.0.414.168.789.439 1.06l2 2C28.711 30.832 29.086 31 29.5 31c.828.0 1.5-.672 1.5-1.5.0-.414-.168-.789-.439-1.061l-2-2zM17.5 29c-.829.0-1.5.672-1.5 1.5v3c0 .828.671 1.5 1.5 1.5s1.5-.672 1.5-1.5v-3C19 29.672 18.329 29 17.5 29zm0-22C11.71 7 7 11.71 7 17.5S11.71 28 17.5 28 28 23.29 28 17.5 23.29 7 17.5 7zm0 18c-4.136.0-7.5-3.364-7.5-7.5s3.364-7.5 7.5-7.5 7.5 3.364 7.5 7.5S21.636 25 17.5 25z"/></svg></label><label id=toggle-label-dark for=darkmode-toggle tabindex=-1><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="nightIcon" viewBox="0 0 100 100" style="enable-background='new 0 0 100 100'"><title>Dark Mode</title><path d="M96.76 66.458c-.853-.852-2.15-1.064-3.23-.534-6.063 2.991-12.858 4.571-19.655 4.571C62.022 70.495 50.88 65.88 42.5 57.5 29.043 44.043 25.658 23.536 34.076 6.47c.532-1.08.318-2.379-.534-3.23-.851-.852-2.15-1.064-3.23-.534-4.918 2.427-9.375 5.619-13.246 9.491-9.447 9.447-14.65 22.008-14.65 35.369.0 13.36 5.203 25.921 14.65 35.368s22.008 14.65 35.368 14.65c13.361.0 25.921-5.203 35.369-14.65 3.872-3.871 7.064-8.328 9.491-13.246C97.826 68.608 97.611 67.309 96.76 66.458z"/></svg></label></div></header><article><h1>Setuo Local DNS Server</h1><p class=meta>Last updated
+Dec 3, 2022</p><ul class=tags><li><a href=https://earthwalker.me/tags/network/>Network</a></li><li><a href=https://earthwalker.me/tags/China/>China</a></li><li><a href=https://earthwalker.me/tags/censorship/>Censorship</a></li><li><a href=https://earthwalker.me/tags/GFW/>Gfw</a></li></ul><aside class=mainTOC><details open><summary>Table of Contents</summary><nav id=TableOfContents><ol><li><a href=#overview>Overview</a></li><li><a href=#tech-stack>Tech Stack</a></li><li><a href=#setup>Setup</a><ol><li><a href=#dnsmasq>dnsmasq</a></li><li><a href=#dnscrypt-proxy>dnscrypt-proxy</a></li></ol></li></ol></nav></details></aside><a href=#overview><h2 id=overview><span class=hanchor arialabel=Anchor># </span>Overview</h2></a><p>This tutorial is about how to get clean, optimized DNS resolve results by set up a local DNS server. Use China as an example.</p><a href=#tech-stack><h2 id=tech-stack><span class=hanchor arialabel=Anchor># </span>Tech Stack</h2></a><ul><li>white-list mode: use public DNS server in China to resolve all domain we knew that have servers within China, all others use server outside China.</li><li>dnsmasq</li><li>DNSCrypt</li><li>Debian latest stable (other Linux distributions works also)</li></ul><a href=#setup><h2 id=setup><span class=hanchor arialabel=Anchor># </span>Setup</h2></a><a href=#dnsmasq><h3 id=dnsmasq><span class=hanchor arialabel=Anchor># </span>dnsmasq</h3></a><a href=#install><h4 id=install><span class=hanchor arialabel=Anchor># </span>Install</h4></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>sudo apt update <span class=o>&amp;&amp;</span> sudo apt install dnsmasq
+</span></span></code></pre></td></tr></table></div></div><a href=#change-main-configurations><h4 id=change-main-configurations><span class=hanchor arialabel=Anchor># </span>Change main configurations</h4></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>sudo vi /etc/dnsmasq.conf
+</span></span></code></pre></td></tr></table></div></div><p>Update these configurations below:</p><ol><li>Because the dnsmasq default configuration comes with all configurations commented out, you could just copy these below to the top of the configuration file;</li><li>Replace IP 10.20.30.40 below with IP of this machine that you want to use as the local DNS server.</li></ol><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl><span class=nv>port</span><span class=o>=</span><span class=m>53</span>
+</span></span><span class=line><span class=cl>no-resolv
+</span></span><span class=line><span class=cl>no-poll
+</span></span><span class=line><span class=cl>conf-dir<span class=o>=</span>/etc/dnsmasq.d
+</span></span><span class=line><span class=cl><span class=c1>#server=1.1.1.1</span>
+</span></span><span class=line><span class=cl><span class=nv>server</span><span class=o>=</span>127.0.0.1#15353
+</span></span><span class=line><span class=cl>listen-address<span class=o>=</span>127.0.0.1,10.20.30.40
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># performance improve</span>
+</span></span><span class=line><span class=cl>all-servers
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>cache-size<span class=o>=</span><span class=m>10000</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># Do NOT cache failed search results.</span>
+</span></span><span class=line><span class=cl>no-negcache
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># Do not set too high to reduce DNS cache problems.</span>
+</span></span><span class=line><span class=cl>min-cache-ttl<span class=o>=</span><span class=m>600</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># Clear DNS cache when reloading /etc/resolv.conf.</span>
+</span></span><span class=line><span class=cl>clear-on-reload
+</span></span></code></pre></td></tr></table></div></div><a href=#setup-china-domain-whitelist-mode><h4 id=setup-china-domain-whitelist-mode><span class=hanchor arialabel=Anchor># </span>Setup China domain whitelist mode</h4></a><p>The configuration files is usually located in <code>/etc/dnsmasq.d/</code>, we use script to update it automatically here.</p><p>Create a folder to store related scripts:</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>sudo mkdir -p /opt/network/scripts
+</span></span></code></pre></td></tr></table></div></div><p>Create a script file:</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>cd /opt/network/scripts
+</span></span><span class=line><span class=cl>sudo nano install_dnsmasq-china-list.sh
+</span></span></code></pre></td></tr></table></div></div><p>Add contents below:</p><ol><li>&ldquo;223.5.5.5 119.29.29.29 1.2.4.8&rdquo; are some public DNS servers in China, please update according to your country or if you have more optimized one to use.</li></ol><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span><span class=lnt>22
+</span><span class=lnt>23
+</span><span class=lnt>24
+</span><span class=lnt>25
+</span><span class=lnt>26
+</span><span class=lnt>27
+</span><span class=lnt>28
+</span><span class=lnt>29
+</span><span class=lnt>30
+</span><span class=lnt>31
+</span><span class=lnt>32
+</span><span class=lnt>33
+</span><span class=lnt>34
+</span><span class=lnt>35
+</span><span class=lnt>36
+</span><span class=lnt>37
+</span><span class=lnt>38
+</span><span class=lnt>39
+</span><span class=lnt>40
+</span><span class=lnt>41
+</span><span class=lnt>42
+</span><span class=lnt>43
+</span><span class=lnt>44
+</span><span class=lnt>45
+</span><span class=lnt>46
+</span><span class=lnt>47
+</span><span class=lnt>48
+</span><span class=lnt>49
+</span><span class=lnt>50
+</span><span class=lnt>51
+</span><span class=lnt>52
+</span><span class=lnt>53
+</span><span class=lnt>54
+</span><span class=lnt>55
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl><span class=cp>#!/bin/bash
+</span></span></span><span class=line><span class=cl><span class=cp></span><span class=nb>set</span> -e
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=nv>WORKDIR</span><span class=o>=</span><span class=s2>&#34;</span><span class=k>$(</span>mktemp -d<span class=k>)</span><span class=s2>&#34;</span>
+</span></span><span class=line><span class=cl><span class=nv>SERVERS</span><span class=o>=(</span>223.5.5.5 119.29.29.29 1.2.4.8<span class=o>)</span>
+</span></span><span class=line><span class=cl><span class=c1># Not using best possible CDN pop: 1.2.4.8 210.2.4.8 223.5.5.5 223.6.6.6</span>
+</span></span><span class=line><span class=cl><span class=c1># Dirty cache: 119.29.29.29 182.254.116.116</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=nv>CONF_WITH_SERVERS</span><span class=o>=(</span>accelerated-domains.china<span class=o>)</span>
+</span></span><span class=line><span class=cl><span class=nv>CONF_SIMPLE</span><span class=o>=(</span>bogus-nxdomain.china<span class=o>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=nb>echo</span> <span class=s2>&#34;Downloading latest configurations...&#34;</span>
+</span></span><span class=line><span class=cl><span class=c1>#git clone --depth=1 https://gitee.com/felixonmars/dnsmasq-china-list.git &#34;$WORKDIR&#34;</span>
+</span></span><span class=line><span class=cl>git clone --depth<span class=o>=</span><span class=m>1</span> https://github.com/felixonmars/dnsmasq-china-list.git <span class=s2>&#34;</span><span class=nv>$WORKDIR</span><span class=s2>&#34;</span>
+</span></span><span class=line><span class=cl><span class=c1>#git clone --depth=1 https://pagure.io/dnsmasq-china-list.git &#34;$WORKDIR&#34;</span>
+</span></span><span class=line><span class=cl><span class=c1>#git clone --depth=1 https://github.com/felixonmars/dnsmasq-china-list.git &#34;$WORKDIR&#34;</span>
+</span></span><span class=line><span class=cl><span class=c1>#git clone --depth=1 https://bitbucket.org/felixonmars/dnsmasq-china-list.git &#34;$WORKDIR&#34;</span>
+</span></span><span class=line><span class=cl><span class=c1>#git clone --depth=1 https://gitlab.com/felixonmars/dnsmasq-china-list.git &#34;$WORKDIR&#34;</span>
+</span></span><span class=line><span class=cl><span class=c1>#git clone --depth=1 https://e.coding.net/felixonmars/dnsmasq-china-list.git &#34;$WORKDIR&#34;</span>
+</span></span><span class=line><span class=cl><span class=c1>#git clone --depth=1 https://codehub.devcloud.huaweicloud.com/dnsmasq-china-list00001/dnsmasq-china-list.git &#34;$WORKDIR&#34;</span>
+</span></span><span class=line><span class=cl><span class=c1>#git clone --depth=1 http://repo.or.cz/dnsmasq-china-list.git &#34;$WORKDIR&#34;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=nb>echo</span> <span class=s2>&#34;Removing old configurations...&#34;</span>
+</span></span><span class=line><span class=cl><span class=k>for</span> _conf in <span class=s2>&#34;</span><span class=si>${</span><span class=nv>CONF_WITH_SERVERS</span><span class=p>[@]</span><span class=si>}</span><span class=s2>&#34;</span> <span class=s2>&#34;</span><span class=si>${</span><span class=nv>CONF_SIMPLE</span><span class=p>[@]</span><span class=si>}</span><span class=s2>&#34;</span><span class=p>;</span> <span class=k>do</span>
+</span></span><span class=line><span class=cl>  rm -f /etc/dnsmasq.d/<span class=s2>&#34;</span><span class=nv>$_conf</span><span class=s2>&#34;</span>*.conf
+</span></span><span class=line><span class=cl><span class=k>done</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=nb>echo</span> <span class=s2>&#34;Installing new configurations...&#34;</span>
+</span></span><span class=line><span class=cl><span class=k>for</span> _conf in <span class=s2>&#34;</span><span class=si>${</span><span class=nv>CONF_SIMPLE</span><span class=p>[@]</span><span class=si>}</span><span class=s2>&#34;</span><span class=p>;</span> <span class=k>do</span>
+</span></span><span class=line><span class=cl>  cp <span class=s2>&#34;</span><span class=nv>$WORKDIR</span><span class=s2>/</span><span class=nv>$_conf</span><span class=s2>.conf&#34;</span> <span class=s2>&#34;/etc/dnsmasq.d/</span><span class=nv>$_conf</span><span class=s2>.conf&#34;</span>
+</span></span><span class=line><span class=cl><span class=k>done</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=k>for</span> _server in <span class=s2>&#34;</span><span class=si>${</span><span class=nv>SERVERS</span><span class=p>[@]</span><span class=si>}</span><span class=s2>&#34;</span><span class=p>;</span> <span class=k>do</span>
+</span></span><span class=line><span class=cl>  <span class=k>for</span> _conf in <span class=s2>&#34;</span><span class=si>${</span><span class=nv>CONF_WITH_SERVERS</span><span class=p>[@]</span><span class=si>}</span><span class=s2>&#34;</span><span class=p>;</span> <span class=k>do</span>
+</span></span><span class=line><span class=cl>    cp <span class=s2>&#34;</span><span class=nv>$WORKDIR</span><span class=s2>/</span><span class=nv>$_conf</span><span class=s2>.conf&#34;</span> <span class=s2>&#34;/etc/dnsmasq.d/</span><span class=nv>$_conf</span><span class=s2>.</span><span class=nv>$_server</span><span class=s2>.conf&#34;</span>
+</span></span><span class=line><span class=cl>  <span class=k>done</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>  sed -i <span class=s2>&#34;s|^\(server.*\)/[^/]*</span>$<span class=s2>|\1/</span><span class=nv>$_server</span><span class=s2>|&#34;</span> /etc/dnsmasq.d/*.<span class=s2>&#34;</span><span class=nv>$_server</span><span class=s2>&#34;</span>.conf
+</span></span><span class=line><span class=cl><span class=k>done</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=nb>echo</span> <span class=s2>&#34;Restarting dnsmasq service...&#34;</span>
+</span></span><span class=line><span class=cl><span class=k>if</span> <span class=nb>hash</span> systemctl 2&gt;/dev/null<span class=p>;</span> <span class=k>then</span>
+</span></span><span class=line><span class=cl>  systemctl restart dnsmasq
+</span></span><span class=line><span class=cl><span class=k>elif</span> <span class=nb>hash</span> service 2&gt;/dev/null<span class=p>;</span> <span class=k>then</span>
+</span></span><span class=line><span class=cl>  service dnsmasq restart
+</span></span><span class=line><span class=cl><span class=k>elif</span> <span class=nb>hash</span> rc-service 2&gt;/dev/null<span class=p>;</span> <span class=k>then</span>
+</span></span><span class=line><span class=cl>  rc-service dnsmasq restart
+</span></span><span class=line><span class=cl><span class=k>elif</span> <span class=nb>hash</span> busybox 2&gt;/dev/null <span class=o>&amp;&amp;</span> <span class=o><a class="internal-link broken">span> -d <span class=s2>&</a></span><span class=p>;</span> <span class=k>then</span>
+</span></span><span class=line><span class=cl>  /etc/init.d/dnsmasq restart
+</span></span><span class=line><span class=cl><span class=k>else</span>
+</span></span><span class=line><span class=cl>  <span class=nb>echo</span> <span class=s2>&#34;Now please restart dnsmasq since I don&#39;t know how to do it.&#34;</span>
+</span></span><span class=line><span class=cl><span class=k>fi</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=nb>echo</span> <span class=s2>&#34;Cleaning up...&#34;</span>
+</span></span><span class=line><span class=cl>rm -r <span class=s2>&#34;</span><span class=nv>$WORKDIR</span><span class=s2>&#34;</span>
+</span></span></code></pre></td></tr></table></div></div><p>Setup permission of the script and run once:</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl><span class=nv>script_file</span><span class=o>=</span><span class=s2>&#34;/opt/network/scripts/install_dnsmasq-china-list.sh&#34;</span>
+</span></span><span class=line><span class=cl>sudo chmod +x <span class=s2>&#34;</span><span class=nv>$script_file</span><span class=s2>&#34;</span>
+</span></span><span class=line><span class=cl><span class=s2>&#34;</span><span class=nv>$script_file</span><span class=s2>&#34;</span>
+</span></span></code></pre></td></tr></table></div></div><p>Update the China domain list every week:</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl><span class=nb>echo</span> <span class=m>3</span> <span class=m>3</span> <span class=se>\*</span> <span class=se>\*</span> <span class=m>6</span>   root   <span class=se>\&#34;</span>/opt/network/scripts/install_dnsmasq-china-list.sh<span class=se>\&#34;</span> &gt; /etc/cron.d/dnsmasq
+</span></span></code></pre></td></tr></table></div></div><p>If you want the server itself to use this DNS also, could run this:</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl><span class=nb>echo</span> nameserver 127.0.0.1 &gt; /etc/resolv.conf
+</span></span></code></pre></td></tr></table></div></div><p>Notes: some OS might change the resolve.conf automatically and needs a corresponding way to update DNS setting instead of edit directly.</p><p>Reference:</p><ul><li><a href=https://github.com/felixonmars/dnsmasq-china-list rel=noopener>https://github.com/felixonmars/dnsmasq-china-list</a></li></ul><a href=#dnscrypt-proxy><h3 id=dnscrypt-proxy><span class=hanchor arialabel=Anchor># </span>dnscrypt-proxy</h3></a><a href=#install-1><h4 id=install-1><span class=hanchor arialabel=Anchor># </span>Install</h4></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>sudo apt update <span class=o>&amp;&amp;</span> sudo apt install dnscrypt-proxy
+</span></span></code></pre></td></tr></table></div></div><a href=#setup-profile><h4 id=setup-profile><span class=hanchor arialabel=Anchor># </span>Setup profile</h4></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl><span class=nb>cd</span> /etc/dnscrypt-proxy
+</span></span><span class=line><span class=cl>sudo cp dnscrypt-proxy.toml dnscrypt-proxy.toml.original
+</span></span><span class=line><span class=cl>sudo nano dnscrypt-proxy.toml
+</span></span></code></pre></td></tr></table></div></div><p>Add contents below:</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl><span class=nv>listen_addresses</span> <span class=o>=</span> <span class=o>[</span><span class=s1>&#39;127.0.0.1:15353&#39;</span><span class=o>]</span>
+</span></span><span class=line><span class=cl><span class=nv>server_names</span> <span class=o>=</span> <span class=o>[</span><span class=s1>&#39;cloudflare&#39;</span><span class=o>]</span>
+</span></span><span class=line><span class=cl><span class=nv>cache</span> <span class=o>=</span> <span class=nb>false</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=o>[</span>query_log<span class=o>]</span>
+</span></span><span class=line><span class=cl>  <span class=nv>file</span> <span class=o>=</span> <span class=s1>&#39;/var/log/dnscrypt-proxy/query.log&#39;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=o>[</span>nx_log<span class=o>]</span>
+</span></span><span class=line><span class=cl>  <span class=nv>file</span> <span class=o>=</span> <span class=s1>&#39;/var/log/dnscrypt-proxy/nx.log&#39;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=o>[</span>sources<span class=o>]</span>
+</span></span><span class=line><span class=cl>  <span class=o>[</span>sources.<span class=s1>&#39;public-resolvers&#39;</span><span class=o>]</span>
+</span></span><span class=line><span class=cl>  <span class=nv>url</span> <span class=o>=</span> <span class=s1>&#39;https://download.dnscrypt.info/resolvers-list/v2/public-resolvers.md&#39;</span>
+</span></span><span class=line><span class=cl>  <span class=nv>cache_file</span> <span class=o>=</span> <span class=s1>&#39;/var/cache/dnscrypt-proxy/public-resolvers.md&#39;</span>
+</span></span><span class=line><span class=cl>  <span class=nv>minisign_key</span> <span class=o>=</span> <span class=s1>&#39;RWQf6LRCGA9i53mlYecO4IzT51TGPpvWucNSCh1CBM0QTaLn73Y7GFO3&#39;</span>
+</span></span><span class=line><span class=cl>  <span class=nv>refresh_delay</span> <span class=o>=</span> <span class=m>72</span>
+</span></span><span class=line><span class=cl>  <span class=nv>prefix</span> <span class=o>=</span> <span class=s1>&#39;&#39;</span>
+</span></span></code></pre></td></tr></table></div></div><p>Update startup files and restart:</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span><span class=lnt>6
+</span><span class=lnt>7
+</span><span class=lnt>8
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>sudo systemctl mask dnscrypt-proxy.socket
+</span></span><span class=line><span class=cl>sudo systemctl disable dnscrypt-proxy-resolvconf.service
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># comment out all lines with &#34;.socket&#34;</span>
+</span></span><span class=line><span class=cl>sudo systemctl edit --full dnscrypt-proxy.service
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>sudo systemctl daemon-reload
+</span></span><span class=line><span class=cl>sudo systemctl restart dnscrypt-proxy
+</span></span></code></pre></td></tr></table></div></div><p>References:</p><ul><li><a href=https://wzyboy.im/post/1372.html rel=noopener>https://wzyboy.im/post/1372.html</a></li><li><a href=https://github.com/dnscrypt/dnscrypt-proxy/wiki/Installation-on-Debian-and-Ubuntu rel=noopener>https://github.com/dnscrypt/dnscrypt-proxy/wiki/Installation-on-Debian-and-Ubuntu</a></li></ul></article></div></body></html>
