@@ -55,7 +55,7 @@ DNS resolve to blocked websites such as Google are polluted in public DNS server
 ##### Approach
 A common approach is to set up a private DNS server, for example a network instance in one's own home.
 
-- [Setup local DNS server].(toturial/setup%20local%20DNS%20server)
+- [Setup local DNS server](../toturials/setup%20local%20DNS%20server.md)
 
 ##### Connection
 
@@ -95,3 +95,5 @@ There are different modes depending on how do we route traffic out:
 - (recommend) Route traffic to foreign IP addresses through foreign server; traffic to the current country go out directly or through a server within the current country.
 	- If we have a lot of servers available in different countries, we can route traffic to different country each by servers within that country. This might help improve connectivity.
 - Route all traffic through foreign server.
+#### Linux server optimize
+todo: general toturial

@@ -8,5 +8,5 @@ Welcome to Earthwalker's blogging and sharing site.
 - [about](about.md)
 - [contact](contact.md)
 - [doing now](now.md)
-- [all posts](posts)
+- [posts](posts), [toturials](toturials)
 - [tags](tags)
