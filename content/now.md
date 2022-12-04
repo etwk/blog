@@ -4,7 +4,7 @@ tags:
 enableToc: false
 ---
 
-## Tutoring in Thailand
+## Travel in Thailand
 Bangkok is a developed city like Shanghai, Beijing, but with much more diversity.
 
 ## Reading
