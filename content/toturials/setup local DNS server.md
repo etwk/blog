@@ -15,6 +15,8 @@ This tutorial is about how to get clean, optimized DNS resolve results by set up
 - DNSCrypt
 - Debian latest stable (other Linux distributions works also)
 ## Setup
+### [Debian Server Optimize](../toturials/Debian%20server%20optimize.md)
+
 ### dnsmasq
 #### Install
 ``` bash
