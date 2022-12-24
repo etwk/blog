@@ -9,10 +9,162 @@
 <script src=https://earthwalker.me/js/code-title.b35124ad8db0ba37162b886afb711cbc.min.js></script>
 <script src=https://earthwalker.me/js/clipboard.c20857734e53a3fb733b7443879efa61.min.js></script>
 <script src=https://earthwalker.me/js/callouts.7723cac461d613d118ee8bb8216b9838.min.js></script>
-<script>const BASE_URL="https://earthwalker.me/",fetchData=Promise.all([fetch("https://earthwalker.me/indices/linkIndex.80cf2c512bebe85742f98ed3253951e3.min.json").then(e=>e.json()).then(e=>({index:e.index,links:e.links})),fetch("https://earthwalker.me/indices/contentIndex.07e319c370172ea4fe96f3621a54ef39.min.json").then(e=>e.json())]).then(([{index:e,links:t},n])=>({index:e,links:t,content:n})),render=()=>{const e=new URL(BASE_URL),t=e.pathname,n=window.location.pathname,s=t==n;addCopyButtons(),addTitleToCodeBlocks(),addCollapsibleCallouts()},init=(e=document)=>{addCopyButtons(),addTitleToCodeBlocks(),renderMathInElement(e.body,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"$",right:"$",display:!1}],macros:{'’':"'"},throwOnError:!1})}</script><script type=module>
+<script>const BASE_URL="https://earthwalker.me/",fetchData=Promise.all([fetch("https://earthwalker.me/indices/linkIndex.0c3b0c23be4cfa57863cc1724775fba3.min.json").then(e=>e.json()).then(e=>({index:e.index,links:e.links})),fetch("https://earthwalker.me/indices/contentIndex.74c8dc68787944c7c43594e3a2a17de7.min.json").then(e=>e.json())]).then(([{index:e,links:t},n])=>({index:e,links:t,content:n})),render=()=>{const e=new URL(BASE_URL),t=e.pathname,n=window.location.pathname,s=t==n;addCopyButtons(),addTitleToCodeBlocks(),addCollapsibleCallouts()},init=(e=document)=>{addCopyButtons(),addTitleToCodeBlocks(),renderMathInElement(e.body,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"$",right:"$",display:!1}],macros:{'’':"'"},throwOnError:!1})}</script><script type=module>
     import { attachSPARouting } from "https:\/\/earthwalker.me\/js\/router.9d4974281069e9ebb189f642ae1e3ca2.min.js"
     attachSPARouting(init, render)
   </script></head><body><div id=search-container><div id=search-space><input autocomplete=off id=search-bar name=search type=text aria-label=Search placeholder="Search for something..."><div id=results-container></div></div></div><script src=https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js integrity="sha256-i3A0NZGkhsKjVMzFxv3ksk0DZh3aXqu0l49Bbh0MdjE=" crossorigin=anonymous defer></script>
 <script defer src=https://earthwalker.me/js/full-text-search.24827f874defbbc6d529926cbfcfb493.min.js></script><div class=singlePage><header><h1 id=page-title><a href=https://earthwalker.me/>Earthwalker</a></h1><div class=spacer></div><div id=search-icon><p>Search</p><svg tabindex="0" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg></div><div class=darkmode><input class=toggle id=darkmode-toggle type=checkbox tabindex=-1>
 <label id=toggle-label-light for=darkmode-toggle tabindex=-1><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="dayIcon" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35"><title>Light Mode</title><path d="M6 17.5C6 16.672 5.328 16 4.5 16h-3C.672 16 0 16.672.0 17.5S.672 19 1.5 19h3C5.328 19 6 18.328 6 17.5zM7.5 26c-.414.0-.789.168-1.061.439l-2 2C4.168 28.711 4 29.086 4 29.5 4 30.328 4.671 31 5.5 31c.414.0.789-.168 1.06-.44l2-2C8.832 28.289 9 27.914 9 27.5 9 26.672 8.329 26 7.5 26zm10-20C18.329 6 19 5.328 19 4.5v-3C19 .672 18.329.0 17.5.0S16 .672 16 1.5v3C16 5.328 16.671 6 17.5 6zm10 3c.414.0.789-.168 1.06-.439l2-2C30.832 6.289 31 5.914 31 5.5 31 4.672 30.329 4 29.5 4c-.414.0-.789.168-1.061.44l-2 2C26.168 6.711 26 7.086 26 7.5 26 8.328 26.671 9 27.5 9zM6.439 8.561C6.711 8.832 7.086 9 7.5 9 8.328 9 9 8.328 9 7.5c0-.414-.168-.789-.439-1.061l-2-2C6.289 4.168 5.914 4 5.5 4 4.672 4 4 4.672 4 5.5c0 .414.168.789.439 1.06l2 2.001zM33.5 16h-3c-.828.0-1.5.672-1.5 1.5s.672 1.5 1.5 1.5h3c.828.0 1.5-.672 1.5-1.5S34.328 16 33.5 16zM28.561 26.439C28.289 26.168 27.914 26 27.5 26c-.828.0-1.5.672-1.5 1.5.0.414.168.789.439 1.06l2 2C28.711 30.832 29.086 31 29.5 31c.828.0 1.5-.672 1.5-1.5.0-.414-.168-.789-.439-1.061l-2-2zM17.5 29c-.829.0-1.5.672-1.5 1.5v3c0 .828.671 1.5 1.5 1.5s1.5-.672 1.5-1.5v-3C19 29.672 18.329 29 17.5 29zm0-22C11.71 7 7 11.71 7 17.5S11.71 28 17.5 28 28 23.29 28 17.5 23.29 7 17.5 7zm0 18c-4.136.0-7.5-3.364-7.5-7.5s3.364-7.5 7.5-7.5 7.5 3.364 7.5 7.5S21.636 25 17.5 25z"/></svg></label><label id=toggle-label-dark for=darkmode-toggle tabindex=-1><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="nightIcon" viewBox="0 0 100 100" style="enable-background='new 0 0 100 100'"><title>Dark Mode</title><path d="M96.76 66.458c-.853-.852-2.15-1.064-3.23-.534-6.063 2.991-12.858 4.571-19.655 4.571C62.022 70.495 50.88 65.88 42.5 57.5 29.043 44.043 25.658 23.536 34.076 6.47c.532-1.08.318-2.379-.534-3.23-.851-.852-2.15-1.064-3.23-.534-4.918 2.427-9.375 5.619-13.246 9.491-9.447 9.447-14.65 22.008-14.65 35.369.0 13.36 5.203 25.921 14.65 35.368s22.008 14.65 35.368 14.65c13.361.0 25.921-5.203 35.369-14.65 3.872-3.871 7.064-8.328 9.491-13.246C97.826 68.608 97.611 67.309 96.76 66.458z"/></svg></label></div></header><article><h1>Setup naiveproxy</h1><p class=meta>Last updated
-Dec 4, 2022</p><ul class=tags><li><a href=https://earthwalker.me/tags/network/>Network</a></li><li><a href=https://earthwalker.me/tags/China/>China</a></li><li><a href=https://earthwalker.me/tags/censorship/>Censorship</a></li><li><a href=https://earthwalker.me/tags/GFW/>Gfw</a></li></ul><aside class=mainTOC><details open><summary>Table of Contents</summary><nav id=TableOfContents><ol><li><a href=#overview>Overview</a></li><li><a href=#tech-stack>Tech Stack</a></li><li><a href=#prepare>Prepare</a></li><li><a href=#setup>Setup</a><ol><li><a href=#linux-server-optimize>Linux Server Optimize</a></li><li><a href=#naïve-server>Naïve Server</a></li></ol></li></ol></nav></details></aside><a href=#overview><h2 id=overview><span class=hanchor arialabel=Anchor># </span>Overview</h2></a><p>This tutorial is about how to set up naiveproxy server and client to provide transparent proxy to a local network.</p><a href=#tech-stack><h2 id=tech-stack><span class=hanchor arialabel=Anchor># </span>Tech Stack</h2></a><ul><li>white-list mode: all tcp access to IP addresses outside China goes through naiveproxy, others go direct.</li><li>NaïveProxy</li><li>iptables</li><li>Debian latest stable (other Linux distributions works also)</li></ul><a href=#prepare><h2 id=prepare><span class=hanchor arialabel=Anchor># </span>Prepare</h2></a><ul><li>A VPS server in foreign country:<ul><li>with unrestricted Internet access</li><li>has good network connectivity to your network in China: low package loss, low latency, high bandwidth and stable</li></ul></li><li>A domain name (if you don&rsquo;t already have one, could register one in NameSilo, they have reasonable price and contains privacy protection by default)</li><li>Domain DNS hosting (DigitalOcean and many other providers offer this for free)</li></ul><a href=#setup><h2 id=setup><span class=hanchor arialabel=Anchor># </span>Setup</h2></a><a href=#linux-server-optimize><h3 id=linux-server-optimize><span class=hanchor arialabel=Anchor># </span>Linux Server Optimize</h3></a><p><a href=/toturials/Debian-server-optimize/ rel=noopener class=internal-link data-src=/toturials/Debian-server-optimize/>Debian server optimize</a></p><a href=#naïve-server><h3 id=naïve-server><span class=hanchor arialabel=Anchor># </span>Naïve Server</h3></a><p>todo</p></article></div></body></html>
+Dec 24, 2022</p><ul class=tags><li><a href=https://earthwalker.me/tags/network/>Network</a></li><li><a href=https://earthwalker.me/tags/China/>China</a></li><li><a href=https://earthwalker.me/tags/censorship/>Censorship</a></li><li><a href=https://earthwalker.me/tags/GFW/>Gfw</a></li></ul><aside class=mainTOC><details open><summary>Table of Contents</summary><nav id=TableOfContents><ol><li><a href=#overview>Overview</a></li><li><a href=#tech-stack>Tech Stack</a></li><li><a href=#prepare>Prepare</a></li><li><a href=#setup>Setup</a><ol><li><a href=#debian-server-optimizetoturialsdebian20server20optimizemd><a href=../toturials/Debian%20server%20optimize.md>Debian Server Optimize</a></a></li><li><a href=#naive-server>Naive Server</a></li></ol></li></ol></nav></details></aside><a href=#overview><h2 id=overview><span class=hanchor arialabel=Anchor># </span>Overview</h2></a><p>This tutorial is about how to set up naiveproxy server and client to provide transparent proxy to a local network.</p><a href=#tech-stack><h2 id=tech-stack><span class=hanchor arialabel=Anchor># </span>Tech Stack</h2></a><ul><li>white-list mode: all tcp access to IP addresses outside China goes through naiveproxy, others go direct.</li><li>NaïveProxy</li><li>iptables</li><li>Debian latest stable (other Linux distributions works also)</li></ul><a href=#prepare><h2 id=prepare><span class=hanchor arialabel=Anchor># </span>Prepare</h2></a><ul><li>A VPS server in foreign country:<ul><li>with unrestricted Internet access</li><li>has good network connectivity to your network in China: low package loss, low latency, high bandwidth and stable</li></ul></li><li>A domain name (if you don&rsquo;t already have one, could register one in NameSilo, they have reasonable price and contains privacy protection by default)</li><li>Domain DNS hosting (DigitalOcean and many other providers offer this for free)</li></ul><a href=#setup><h2 id=setup><span class=hanchor arialabel=Anchor># </span>Setup</h2></a><h3 id=debian-server-optimizetoturialsdebian20server20optimizemd><a href=/toturials/Debian-server-optimize/ rel=noopener class=internal-link data-src=/toturials/Debian-server-optimize/>Debian Server Optimize</a></h3><a href=#naive-server><h3 id=naive-server><span class=hanchor arialabel=Anchor># </span>Naive Server</h3></a><p>Please also check official documents for updated information:
+<a href=https://github.com/klzgrad/naiveproxy rel=noopener>https://github.com/klzgrad/naiveproxy</a></p><h4 id=obtain-ssl-certificatessl20certificatemd><a href=/toturials/SSL-certificate/ rel=noopener class=internal-link data-src=/toturials/SSL-certificate/>Obtain SSL Certificate</a></h4><a href=#update-system-settings><h4 id=update-system-settings><span class=hanchor arialabel=Anchor># </span>Update system settings</h4></a><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>sudo vi /etc/sysctl.d/local.conf
+</span></span></code></pre></td></tr></table></div></div><p>Add or update settings below:</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>net.ipv4.tcp_slow_start_after_idle<span class=o>=</span><span class=m>0</span>
+</span></span><span class=line><span class=cl>net.ipv4.tcp_congestion_control <span class=o>=</span> bbr
+</span></span><span class=line><span class=cl>net.ipv4.tcp_notsent_lowat<span class=o>=</span><span class=m>16384</span>
+</span></span><span class=line><span class=cl>net.ipv4.ip_forward <span class=o>=</span> <span class=m>1</span>
+</span></span></code></pre></td></tr></table></div></div><a href=#setup-naive-server><h4 id=setup-naive-server><span class=hanchor arialabel=Anchor># </span>Setup Naive Server</h4></a><p>Install go:
+<a href=https://golang.org/doc/install rel=noopener>https://golang.org/doc/install</a></p><p>Install caddy with Naive:</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span><span class=lnt>3
+</span><span class=lnt>4
+</span><span class=lnt>5
+</span><span class=lnt>6
+</span><span class=lnt>7
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl><span class=c1># go to a folder where you want to store the related files</span>
+</span></span><span class=line><span class=cl>mkdir ~/folder/naive <span class=o>&amp;&amp;</span> <span class=nb>cd</span> <span class=s2>&#34;</span><span class=nv>$_</span><span class=s2>&#34;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>go install github.com/caddyserver/xcaddy/cmd/xcaddy@latest
+</span></span><span class=line><span class=cl>~/go/bin/xcaddy build --with github.com/caddyserver/forwardproxy@caddy2<span class=o>=</span>github.com/klzgrad/forwardproxy@naive
+</span></span><span class=line><span class=cl>sudo setcap <span class=nv>cap_net_bind_service</span><span class=o>=</span>+ep ./caddy
+</span></span><span class=line><span class=cl>mv caddy /usr/local/bin/
+</span></span></code></pre></td></tr></table></div></div><p>Prepare web files the caddy server going to serve:</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>sudo mkdir -p /var/www/html
+</span></span><span class=line><span class=cl>sudo touch /var/www/html/index.html
+</span></span></code></pre></td></tr></table></div></div><p>Prepare caddy configuration file:</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span><span class=lnt>2
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>sudo mkdir /etc/caddy
+</span></span><span class=line><span class=cl>sudo vi /etc/caddy/caddy.conf
+</span></span></code></pre></td></tr></table></div></div><p>Update with below:</p><ol><li>Change settings based on features you need.</li><li>IMPORTANT! Replace:<ol><li>Domain address to your own;</li><li>The 2 path to certificate files;</li><li>basic_auth.</li></ol></li></ol><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span><span class=lnt>22
+</span><span class=lnt>23
+</span><span class=lnt>24
+</span><span class=lnt>25
+</span><span class=lnt>26
+</span><span class=lnt>27
+</span><span class=lnt>28
+</span><span class=lnt>29
+</span><span class=lnt>30
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl><span class=o>{</span>
+</span></span><span class=line><span class=cl>  admin off
+</span></span><span class=line><span class=cl>  log <span class=o>{</span>
+</span></span><span class=line><span class=cl>      output file /var/log/caddy/access.log
+</span></span><span class=line><span class=cl>      level INFO
+</span></span><span class=line><span class=cl>  <span class=o>}</span>
+</span></span><span class=line><span class=cl>  servers :443 <span class=o>{</span>
+</span></span><span class=line><span class=cl>      protocol <span class=o>{</span>
+</span></span><span class=line><span class=cl>          experimental_http3
+</span></span><span class=line><span class=cl>      <span class=o>}</span>
+</span></span><span class=line><span class=cl>  <span class=o>}</span>
+</span></span><span class=line><span class=cl><span class=o>}</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>:80 <span class=o>{</span>
+</span></span><span class=line><span class=cl>  redir https://<span class=o>{</span>host<span class=o>}{</span>uri<span class=o>}</span> permanent
+</span></span><span class=line><span class=cl><span class=o>}</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>:443, abc.someDomain.com
+</span></span><span class=line><span class=cl>tls <span class=s2>&#34;/etc/ssl/cert.d/abc.someDomain.com/fullchain.pem&#34;</span> <span class=s2>&#34;/etc/ssl/cert.d/abc.someDomain.com/privkey.pem&#34;</span>
+</span></span><span class=line><span class=cl>route <span class=o>{</span>
+</span></span><span class=line><span class=cl>  forward_proxy <span class=o>{</span>
+</span></span><span class=line><span class=cl>      basic_auth SPo5lLwplaLe2Nco Aopx3ZN8KqA6kWEtAjbSwiHbxhP1ZyYr
+</span></span><span class=line><span class=cl>      hide_ip
+</span></span><span class=line><span class=cl>      hide_via
+</span></span><span class=line><span class=cl>      probe_resistance
+</span></span><span class=line><span class=cl>  <span class=o>}</span>
+</span></span><span class=line><span class=cl>  file_server <span class=o>{</span>
+</span></span><span class=line><span class=cl>      root /var/www/html
+</span></span><span class=line><span class=cl>  <span class=o>}</span>
+</span></span><span class=line><span class=cl><span class=o>}</span>
+</span></span></code></pre></td></tr></table></div></div><p>Update caddy start file:</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>sudo vi /etc/systemd/system/caddy.service
+</span></span></code></pre></td></tr></table></div></div><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span><span class=lnt>22
+</span><span class=lnt>23
+</span><span class=lnt>24
+</span><span class=lnt>25
+</span><span class=lnt>26
+</span><span class=lnt>27
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl><span class=o>[</span>Unit<span class=o>]</span>
+</span></span><span class=line><span class=cl><span class=nv>Description</span><span class=o>=</span>Caddy HTTP/2 web server
+</span></span><span class=line><span class=cl><span class=nv>After</span><span class=o>=</span>network-online.target
+</span></span><span class=line><span class=cl><span class=nv>Wants</span><span class=o>=</span>network-online.target systemd-networkd-wait-online.service
+</span></span><span class=line><span class=cl><span class=nv>StartLimitIntervalSec</span><span class=o>=</span><span class=m>14400</span>
+</span></span><span class=line><span class=cl><span class=nv>StartLimitBurst</span><span class=o>=</span><span class=m>10</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=o>[</span>Service<span class=o>]</span>
+</span></span><span class=line><span class=cl><span class=nv>User</span><span class=o>=</span>root
+</span></span><span class=line><span class=cl><span class=nv>Group</span><span class=o>=</span>root
+</span></span><span class=line><span class=cl><span class=nv>ExecStart</span><span class=o>=</span>/usr/local/bin/caddy run --config /etc/caddy/caddy.conf --adapter caddyfile
+</span></span><span class=line><span class=cl><span class=nv>ExecReload</span><span class=o>=</span>/usr/bin/kill -USR1 <span class=nv>$MAINPID</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># Do not allow the process to be restarted in a tight loop. If the</span>
+</span></span><span class=line><span class=cl><span class=c1># process fails to start, something critical needs to be fixed.</span>
+</span></span><span class=line><span class=cl><span class=nv>Restart</span><span class=o>=</span>on-abnormal
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># Use graceful shutdown with a reasonable timeout</span>
+</span></span><span class=line><span class=cl><span class=nv>KillMode</span><span class=o>=</span>mixed
+</span></span><span class=line><span class=cl><span class=nv>KillSignal</span><span class=o>=</span>SIGQUIT
+</span></span><span class=line><span class=cl><span class=nv>TimeoutStopSec</span><span class=o>=</span>5s
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=nv>LimitNOFILE</span><span class=o>=</span><span class=m>1048576</span>
+</span></span><span class=line><span class=cl><span class=nv>LimitNPROC</span><span class=o>=</span><span class=m>512</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=o>[</span>Install<span class=o>]</span>
+</span></span><span class=line><span class=cl><span class=nv>WantedBy</span><span class=o>=</span>multi-user.target
+</span></span></code></pre></td></tr></table></div></div><p>Start caddy server and enable auto start:</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre tabindex=0 class=chroma><code><span class=lnt>1
+</span></code></pre></td><td class=lntd><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>sudo systemctl start caddy <span class=o>&amp;&amp;</span> sudo systemctl <span class=nb>enable</span> caddy
+</span></span></code></pre></td></tr></table></div></div></article></div></body></html>
