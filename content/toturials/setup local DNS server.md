@@ -190,3 +190,15 @@ sudo systemctl restart dnscrypt-proxy
 References:
 - https://wzyboy.im/post/1372.html
 - https://github.com/dnscrypt/dnscrypt-proxy/wiki/Installation-on-Debian-and-Ubuntu
+### Check
+Use dig to check DNS resolve status.
+
+Install packages:
+```bash
+sudo apt update && sudo apt install dnsutils
+```
+Check different DNS ports:
+```bash
+dig google.com @127.0.0.1 -p 53
+dig google.com @127.0.0.1 -p 15353
+```

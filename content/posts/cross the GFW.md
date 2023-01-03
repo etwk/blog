@@ -82,7 +82,9 @@ Setup up VPN or proxy server in foreign country and route/redirect traffic out.
 
 Might need to use servers in between to help route traffic in order to improve connectivity.
 
-todo: list of tutorials
+- [Setup NaiveProxy](../toturials/setup%20naiveproxy.md)
+todo: tcp & udp nat server
+
 ##### Connection
 There are different parts to consider:
 - For most website access, TCP redirect is enough.
@@ -95,5 +97,3 @@ There are different modes depending on how do we route traffic out:
 - (recommend) Route traffic to foreign IP addresses through foreign server; traffic to the current country go out directly or through a server within the current country.
 	- If we have a lot of servers available in different countries, we can route traffic to different country each by servers within that country. This might help improve connectivity.
 - Route all traffic through foreign server.
-#### Linux server optimize
-todo: general toturial
