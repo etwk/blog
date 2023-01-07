@@ -8,7 +8,7 @@ enableToc: false
 
 
 ## Reading
-- Under Pressure: Confronting the Epidemic of Stress and Anxiety in Girls
+- How to Stand Up to a Dictator: The Fight for Our Future
 
 ## Learning
 - Violin
