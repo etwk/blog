@@ -4,11 +4,11 @@ tags:
 enableToc: false
 ---
 
-## Travel in Malaysia
+## Travel in Jakarta, Indonesia
 
 
 ## Reading
-- How to Stand Up to a Dictator: The Fight for Our Future
+- 中华秩序: 中原、世界帝国与中国力量的本质
 
 ## Learning
 - Violin
