@@ -36,6 +36,11 @@ net.ipv4.tcp_notsent_lowat=16384
 net.ipv4.ip_forward = 1
 ```
 
+Activation:
+```bash
+sudo sysctl --system
+```
+
 ### Server
 #### [Obtain SSL Certificate](.//SSL%20certificate.md)
 #### Install go
@@ -43,7 +48,7 @@ https://golang.org/doc/install
 #### Install caddy with Naive
 ```bash
 # go to a folder where you want to store the related files
-mkdir ~/folder/naive && cd "$_"
+mkdir -p ~/folder/naive && cd "$_"
 
 go install github.com/caddyserver/xcaddy/cmd/xcaddy@latest
 ~/go/bin/xcaddy build --with github.com/caddyserver/forwardproxy@caddy2=github.com/klzgrad/forwardproxy@naive
@@ -71,16 +76,7 @@ Update with below:
 	3. basic_auth.
 ```bash
 {
-  admin off
-  log {
-      output file /var/log/caddy/access.log
-      level INFO
-  }
-  servers :443 {
-      protocol {
-          experimental_http3
-      }
-  }
+  order forward_proxy before file_server
 }
 
 :80 {
