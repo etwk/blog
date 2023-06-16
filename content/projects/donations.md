@@ -10,6 +10,10 @@ This is part of conscience spending/consumption.
 
 List of my current and history public donations, for reference to others.
 
+## Education
+### Malala Fund
+Donation page: https://malala.org/donate
+Donation purpose: help with girl's education.
 ## Food
 ### Afghanistan Hunger Emergency
 Donation page: https://donatenow.wfp.org/afghanistan-emergency/
