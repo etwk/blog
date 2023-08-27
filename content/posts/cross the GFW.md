@@ -55,7 +55,7 @@ DNS resolve to blocked websites such as Google are polluted in public DNS server
 ##### Approach
 A common approach is to set up a private DNS server, for example a network instance in one's own home.
 
-- [Setup local DNS server](../toturials/setup%20local%20DNS%20server.md)
+- [Setup local DNS server](tutorials/setup%20local%20DNS%20server.md)
 
 ##### Connection
 
@@ -82,7 +82,7 @@ Setup up VPN or proxy server in foreign country and route/redirect traffic out.
 
 Might need to use servers in between to help route traffic in order to improve connectivity.
 
-- [Setup NaiveProxy](../toturials/setup%20naiveproxy.md)
+- [Setup NaiveProxy](tutorials/setup%20naiveproxy.md)
 todo: tcp & udp nat server
 
 ##### Connection

@@ -22,7 +22,7 @@ This tutorial is about how to set up naiveproxy server and client to provide tra
 - Domain DNS hosting (DigitalOcean and many other providers offer this for free)
 ## Setup
 Please also check official documents for updated information: https://github.com/klzgrad/naiveproxy
-### [Debian Server Optimize](../toturials/Debian%20server%20optimize.md)
+### [Debian Server Optimize](tutorials/Debian%20server%20optimize.md)
 #### System settings for naiveproxy
 ```
 sudo vi /etc/sysctl.d/local.conf

@@ -10,5 +10,6 @@ Welcome to Earthwalker's blogging and sharing site.
 - [doing now](now.md)
 - [posts](posts)
 - [projects](projects)
-- [toturials](toturials)
+- [read](read)
+- [tutorials](tutorials)
 - [tags](tags)
