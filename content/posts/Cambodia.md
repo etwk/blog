@@ -1,5 +1,5 @@
 ---
-title: "Cambodia Travel"
+title: "Cambodia"
 tags: 
 - travel
 - Asia
