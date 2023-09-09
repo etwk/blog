@@ -5,7 +5,7 @@ tags: personal
 
 ## Profile
 
-Vegan, Vipassana practicer.
+Vegan.
 
 Works in IT as administration, architecture, and manager from year 2014, with extensive hands-on experience.
 
@@ -27,7 +27,7 @@ Works in IT as administration, architecture, and manager from year 2014, with ex
 	- Desktop: Windows, Linux, Qubes OS
 	- Mobile: GrapheneOS
 - BI development: MS SQL Server + MySQL + PowerBI
-- programming: Bash, Python, SQL, PowerShell
+- programming: Bash, Python, SQL, Go, PowerShell
 - network
 	- firewall, router, switch, AP, NAC, 802.1X
 	- VPN: tinc, OpenVPN, ocserv (AnyConnect), IPsec
@@ -42,18 +42,18 @@ Works in IT as administration, architecture, and manager from year 2014, with ex
 	- assets management: Snipe-IT
 	- backup: Veeam, Sanoid, rsync, rclone
 	- chat: Zulip
-	- CI/CD: Gitlab, DVC, Artifactory, STF (Android remote control), SVN (Subversion + Microsoft AD + IF.SVNadmin), Jenkins
+	- CI/CD: Ansible, Terraform, Gitlab & GitHub, DVC, Artifactory, SVN (Subversion + Microsoft AD + IF.SVNadmin), Jenkins, STF (Android remote control) 
 	- endpoint management & DLP: EndpointProtector, Admin By Request, Digital Guardian, ManageEngine
 	- file share: Seafile, CIFS, Samba, NextCloud
 	- licensing: Sentinel
 	- load balancer: Haproxy, Nginx, iptables
 	- monitoring: Zabbix
-	- office suit: Microsoft 365, Google Apps
+	- office suit: Microsoft 365, Google Workspace
 	- private telephone network: FusionPBX (FreeSwitch)
 	- Zero Trust (Pomerium + Dex + AD)
 	- storage: ZFS, iSCSI, FreeNAS
 	- Virtualization: VMware, Hyper-V, Proxmox (KVM and LXC), Docker
-	- web server: Nginx, Apache
+	- web server: Nginx, Apache, Caddy
 	- wiki: Confluence, BookStack
 	- Windows Server: AD, DNS, GPO, RemoteApp
 - Cloud: Google, Azure, Alibaba
