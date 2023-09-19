@@ -19,7 +19,8 @@ Works in IT as administration, architecture, and manager from year 2014, with ex
 
 - English: B2
 - Chinese: native
-
+## Certificates
+[list of my certificates](certificates.md)
 ## Experiences
 
 - system
@@ -84,6 +85,3 @@ Responsible for construction of their new office and server room. Setup and admi
 IT Develop Engineer  
 Responsible for IT operation, maintenance, and administration. Leading development of a business intelligence project.  
 
-## Certificates
-
-- AHA Heardsaver First Aid CPR AED
