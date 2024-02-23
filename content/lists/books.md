@@ -135,7 +135,8 @@ My book reading list.
 - [ ] Life: My Story Through History (Pope Francis) #must 
 - [ ] Making It So: A Memoir (Patrick Stewart)
 - [ ] Francis of Assisi: The Life #must 
-
+- [ ] Fear No Evil (Natan Sharansky) #must 
+- [ ] 王鼎鈞回憶錄四部曲
 ## Psychology
 ### 1st priority
 - [ ] Mirror Thinking: How Role Models Make Us Human
@@ -199,7 +200,6 @@ My book reading list.
 	- [ ] 天朝的崩溃: 鸦片战争再研究
 	- [ ] 苦命天子：咸丰皇帝奕詝
 	- [ ] 戊戌时期康有为、梁启超的思想
-- [ ] 牛鬼蛇神錄：文革囚禁中的精靈
 - [ ] Prestige, Manipulation, and Coercion: Elite Power Struggles in the Soviet Union and China after Stalin and Mao
 - [ ] 文革前的鄧小平 (鍾延麟)
 - [ ] Seeking Truth and Hiding Facts: Information, Ideology, and Authoritarianism in China
@@ -227,7 +227,7 @@ My book reading list.
 - [ ] 我的回忆 (张国焘) #bumingbai 
 - [ ] 软埋 (方方) #bumingbai 
 - [ ] 晚年周恩来 (高文谦)
-- [ ] 行者思之: 張思之回憶錄 #must 
+- [x] 行者思之: 張思之回憶錄 #must 
 - [ ] 汪政權的開場與收場
 - [ ] 沪上法治梦
 - [ ] 牛鬼蛇神錄——文革囚禁中的精靈 #must 
@@ -267,7 +267,18 @@ My book reading list.
 - [ ] Forty-Five Years in China, Reminiscences
 - [ ] Revolution of the Heart: A Genealogy of Love in China, 1900-1950
 - [ ] My Life in China and America #must 
-
+- [ ] 廬山會議實錄 #must 
+- [ ] 方勵之自傳 #must 
+- [ ] My Country and My People
+- [ ] 熱昏的年代：1949-1965年紅色的大陸 (張萬舒)
+- [ ] 我的辯詞與夢想
+- [ ] 李作鵬回憶錄
+- [ ] 李锐口述往事 #must 
+### Iran
+- [ ] Prison in Iran: A Known Unknown
+- [ ] Prisoner of Tehran: A Memoir #must 
+- [ ] My Life as a Traitor: An Iranian Memoir
+- [ ] Ghosts of Revolution: Rekindled Memories of Imprisonment in Iran
 ### Taiwan
 - [ ] 台灣地方政治讀本: 來自青年世代的提問、實踐與反思
 - 陳柔縉
@@ -277,6 +288,7 @@ My book reading list.
 - [ ] 張繼高與吳心柳
 - [ ] Formosa Betrayed #must 
 - [ ] 齐世英先生访问记录
+- [ ] 常識：一個台灣人最好知道的事
 
 ### Ukraine
 - [ ] The Harvest of Sorrow: Soviet Collectivization and the Terror-Famine
@@ -285,6 +297,7 @@ My book reading list.
 
 ### USA
 - [ ] 此心安處：美國十年
+- [ ] Civilizing Torture: An American Tradition
 
 ## Society
 - [ ] The True Believer: Thoughts on the Nature of Mass Movements 
@@ -373,7 +386,9 @@ My book reading list.
 ### Plays
 - [ ] English / Wish You Were Here: Two Plays #must 
 ### Novel
-- Anna Karenina (Rosamund Bartlett translation version) #bumingbai 
+- [ ] Anna Karenina (Rosamund Bartlett translation version) #bumingbai 
+### Science
+- [ ] The Journeys of Socrates: An Adventure #must 
 
 ## Master
 ### 劉曉波
@@ -427,8 +442,12 @@ My book reading list.
 
 ## Environment
 - [ ] Forests: The Shadow of Civilization
+- [ ] Exposure: Poisoned Water, Corporate Greed, and One Lawyer's Twenty-Year Battle against DuPont #must 
 
-## Booklists
+## Philosophy
+- [ ] The Body in Pain: The Making and Unmaking of the World
+
+## Book-lists
 - https://zh.wikipedia.org/zh-tw/香港遭審查下架書刊 #China
 - 編程隨想書單：https://github.com/programthink/books
 - 食学共读: https://www.douban.com/doulist/135459538/ (食学社读书会往期书单)
