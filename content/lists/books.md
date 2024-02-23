@@ -347,7 +347,6 @@ My book reading list.
 
 ## Self-help
 - [ ] Never Eat Alone, Expanded and Updated: And Other Secrets to Success, One Relationship at a Time
-
 ## Fiction
 - [ ] All Quiet on the Western Front
 - [ ] Beasts of No Nation: A Novel
@@ -367,29 +366,24 @@ My book reading list.
 - [ ] Sympathizer: A Novel #must #bumingbai 
 - [ ] 鹿鼎记 #bumingbai
 - [ ] Silence: A Novel #bumingbai #must 
-
 ### Short Stories
 - [ ] The Lost Salt Gift of Blood (Alistair MacLeod) 
 - [ ] Interpreter of Maladies
 - [ ] Men Without Women (Ernest Miller Hemingway)
-
-### Poetry
-- [ ] On Time and Eternity (Rubem Alves)
-- [ ] Poetry for the Many: An Anthology
-
 ### Society
 - [ ] Brave New World
-
 ### Children & Young Adults
 - [ ] Out of the Hitler Time (trilogy) #must
-
 ### Plays
 - [ ] English / Wish You Were Here: Two Plays #must 
 ### Novel
 - [ ] Anna Karenina (Rosamund Bartlett translation version) #bumingbai 
 ### Science
 - [ ] The Journeys of Socrates: An Adventure #must 
-
+## Poetry
+- [ ] On Time and Eternity (Rubem Alves)
+- [ ] Poetry for the Many: An Anthology
+- [ ] Deaf Republic: Poems
 ## Master
 ### 劉曉波
 - [ ] 末日倖存者的獨白: 關於我和「六・四」
