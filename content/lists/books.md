@@ -134,7 +134,7 @@ My book reading list.
 - [ ] Beyond Evacuation: From the Himalayas to the Statue of Liberty
 - [ ] Life: My Story Through History (Pope Francis) #must 
 - [ ] Making It So: A Memoir (Patrick Stewart)
-- [ ] Francis of Assisi: The Life #must 
+- [ ] Francis of Assisi: A New Biography (Augustine Thompson) #must 
 - [ ] Fear No Evil (Natan Sharansky) #must 
 - [ ] 王鼎鈞回憶錄四部曲
 ## Psychology
@@ -274,6 +274,7 @@ My book reading list.
 - [ ] 我的辯詞與夢想
 - [ ] 李作鵬回憶錄
 - [ ] 李锐口述往事 #must 
+- [ ] Betraying Big Brother: The Feminist Awakening in China
 ### Iran
 - [ ] Prison in Iran: A Known Unknown
 - [ ] Prisoner of Tehran: A Memoir #must 
@@ -294,10 +295,14 @@ My book reading list.
 - [ ] The Harvest of Sorrow: Soviet Collectivization and the Terror-Famine
 - [ ] Red Famine: Stalin's War on Ukraine
 - [ ] The Showman: Inside the Invasion That Shook the World and Made a Leader of Volodymyr Zelensky #must 
+- [ ] The Russo-Ukrainian War: The Return of History
 
 ### USA
 - [ ] 此心安處：美國十年
 - [ ] Civilizing Torture: An American Tradition
+
+### Russia
+- [ ] All the Kremlin's Men: Inside the Court of Vladimir Putin
 
 ## Society
 - [ ] The True Believer: Thoughts on the Nature of Mass Movements 
@@ -336,6 +341,9 @@ My book reading list.
 - [ ] White Torture: Interviews with Iranian Women Prisoners #must 
 - [ ] What Iranians Want: Women, Life, Freedom #must 
 - [ ] Economy and Society (Max Weber)
+
+## Politics
+- [ ] Twilight of Democracy: The Seductive Lure of Authoritarianism #must 
 
 ## Economics
 - [ ] A Culture of Growth: The Origins of the Modern Economy
@@ -390,6 +398,8 @@ My book reading list.
 ### Bruce lee
 - [ ] Bruce Lee Library (https://www.amazon.com/dp/B08B8VS2X7) #must 
 ### Timothy Snyder
+- [ ] On Tyranny #must 
+- [ ] Our Malady #must 
 ### Albert Einstein
 - [ ] The World As I see It #bumingbai 
 ### E. B. White
