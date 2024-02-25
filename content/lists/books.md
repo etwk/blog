@@ -110,6 +110,8 @@ My book reading list.
 - [ ] Against the Grain: A Deep History of the Earliest States
 - [ ] God's Bankers: A History of Money and Power at the Vatican #must 
 - [ ] Church History in Plain Language
+- [ ] The Destruction of the European Jews
+- [ ] KL: A History of the Nazi Concentration Camps
 
 ## Education
 - [ ] Unequal Childhoods: Class, Race, and Family Life
@@ -167,6 +169,7 @@ My book reading list.
 - [ ] The Confidence Code for Girls: Taking Risks, Messing Up, & Becoming Your Amazingly Imperfect, Totally Powerful Self
 - [ ] 是非要溫柔：聖嚴法師的禪式管理學
 - [ ] 100 Jewish Brides: Stories from Around the World
+- [ ] Finding Time: The Economics of Work-Life Conflict
 
 ## Local
 ### China
@@ -275,6 +278,9 @@ My book reading list.
 - [ ] 李作鵬回憶錄
 - [ ] 李锐口述往事 #must 
 - [ ] Betraying Big Brother: The Feminist Awakening in China
+- 王力雄
+	- [ ] 黄祸 #bumingbai 
+	- [ ] 转世 #bumingbai 
 ### Iran
 - [ ] Prison in Iran: A Known Unknown
 - [ ] Prisoner of Tehran: A Memoir #must 
@@ -300,9 +306,15 @@ My book reading list.
 ### USA
 - [ ] 此心安處：美國十年
 - [ ] Civilizing Torture: An American Tradition
+- [ ] 為幸福而生：在法律秩序中追求平等權利的歷程 #bumingbai 
+- [ ] Dreamland: The True Tale of America's Opiate Epidemic #must 
+- [ ] Strangers in Their Own Land: Anger and Mourning on the American Right #must 
+- [ ] Ghosting the News: Local Journalism and the Crisis of American Democracy #must 
 
 ### Russia
 - [ ] All the Kremlin's Men: Inside the Court of Vladimir Putin
+- [ ] Illness and Inhumanity in Stalin's Gulag
+- [ ] Nothing Is True and Everything Is Possible: The Surreal Heart of the New Russia #must 
 
 ## Society
 - [ ] The True Believer: Thoughts on the Nature of Mass Movements 
@@ -341,9 +353,13 @@ My book reading list.
 - [ ] White Torture: Interviews with Iranian Women Prisoners #must 
 - [ ] What Iranians Want: Women, Life, Freedom #must 
 - [ ] Economy and Society (Max Weber)
+- [ ] Humankind: A Hopeful History #must 
+- [ ] Automating Inequality: How High-tech Tools Profile, Police, and Punish the Poor #must 
+- [ ] How Doctors Think (Jerome Groopman)
 
 ## Politics
 - [ ] Twilight of Democracy: The Seductive Lure of Authoritarianism #must 
+- [ ] The Power of the Powerless
 
 ## Economics
 - [ ] A Culture of Growth: The Origins of the Modern Economy
@@ -398,8 +414,20 @@ My book reading list.
 ### Bruce lee
 - [ ] Bruce Lee Library (https://www.amazon.com/dp/B08B8VS2X7) #must 
 ### Timothy Snyder
-- [ ] On Tyranny #must 
-- [ ] Our Malady #must 
+- [ ] On Tyranny: Twenty Lessons from the Twentieth Century  #must 
+- [x] Our Malady #must 
+- [ ] Black Earth: The Holocaust as History and Warning 
+- [ ] Bloodlands: Europe Between Hitler and Stalin
+- [ ] The Road to Unfreedom: Russia, Europe, America #must 
+- [ ] Thinking the Twentieth Century #must 
+- [ ] Stalin and Europe: Imitation and Domination, 1928-1953
+- [ ] The Reconstruction Of Nations: Poland, Ukraine, Lithuania, Belarus, 1569-1999
+- [ ] Sketches from a Secret War: A Polish Artist'S Mission To Liberate Soviet Ukraine
+- [ ] The Red Prince: The Secret Lives of a Habsburg Archduke
+- [ ] Nationalism, Marxism, and Modern Central Europe: A Biography of Kazimierz Kelles-Krauz, 1872-1905
+- [ ] The Wall Around the West: State Borders and Immigration Controls in North America and Europe
+### George Orwell
+- [ ] Politics and the English Language
 ### Albert Einstein
 - [ ] The World As I see It #bumingbai 
 ### E. B. White
@@ -426,10 +454,17 @@ My book reading list.
 - [ ] Conversations With God (Neale Donald Walsch)
 
 ## Technology
+- [ ] The Network State: How To Start a New Country #bumingbai 
+- [ ] Glow Kids: How Screen Addiction Is Hijacking Our Kids-and How to Break the Trance #must 
+- [ ] The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power
+- [ ] Algorithms of Oppression: How Search Engines Reinforce Racism
+- [ ] Ten Arguments for Deleting Your Social Media Accounts Right Now
+
 ### Thinking
 - [ ] Thinking, Fast and Slow #must 
 ### Human
 - [ ] Descartes' Error: Emotion, Reason and the Human Brain
+- [ ] Re-Engineering Humanity
 ### IT
 - [ ] Proof of Stake: The Making of Ethereum and the Philosophy of Blockchains
 - [ ] The Coming Wave: Technology, Power, and the Twenty-first Century's Greatest Dilemma #must 
