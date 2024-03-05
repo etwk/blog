@@ -71,7 +71,6 @@ My book reading list.
 ## Science
 - [ ] Why Animals Talk: The New Science of Animal Communication
 - [ ] Learn to Orgasm in 4 Acts
-- [ ] Ten Things Video Games Can Teach Us: (about life, philosophy and everything) #must 
 
 ## History
 - [ ] How the World Really Works: A Scientist’s Guide to Our Past, Present and Future
@@ -112,6 +111,10 @@ My book reading list.
 - [ ] Church History in Plain Language
 - [ ] The Destruction of the European Jews
 - [ ] KL: A History of the Nazi Concentration Camps
+- [ ] Postwar: A History of Europe Since 1945 #must 
+- [ ] Fascism: A Warning #must 
+- [ ] How to Win an Information War: The Propagandist Who Outwitted Hitler #must 
+- [ ] The Aryan Jesus: Christian Theologians and the Bible in Nazi Germany
 
 ## Education
 - [ ] Unequal Childhoods: Class, Race, and Family Life
@@ -139,6 +142,11 @@ My book reading list.
 - [ ] Francis of Assisi: A New Biography (Augustine Thompson) #must 
 - [ ] Fear No Evil (Natan Sharansky) #must 
 - [ ] 王鼎鈞回憶錄四部曲
+- [ ] Thurgood Marshall: American Revolutionary
+- [ ] Chadwick Boseman: Forever Our King 1976-2020
+- [ ] Hell and Other Destinations: A 21st-Century Memoir
+- [ ] Motherland: A Memoir (Paula Ramón)
+- [ ] The Cave: A Secret Underground Hospital and One Woman's Story of Survival in Syria #must 
 ## Psychology
 ### 1st priority
 - [ ] Mirror Thinking: How Role Models Make Us Human
@@ -152,6 +160,7 @@ My book reading list.
 - [ ] Counselling for Toads: A Psychological Adventure #must 
 - [ ] Studies in the Psychology of Sex #must 
 	- [ ] 性心理学 (霭理士) #must 
+- [ ] Ten Things Video Games Can Teach Us: (about life, philosophy and everything) #must 
 ### 2nd priority
 - [ ] Defining You: Build Your Unique Personal Profile and Unlock Your True Potential
 ### Professional
@@ -281,6 +290,11 @@ My book reading list.
 - 王力雄
 	- [ ] 黄祸 #bumingbai 
 	- [ ] 转世 #bumingbai 
+
+### Europe
+- [ ] This is Europe: The Way We Live Now
+- [ ] The Taste of Ashes: The Afterlife of Totalitarianism in Eastern Europe
+- [ ] The Greengrocer and His TV: The Culture of Communism after the 1968 Prague Spring
 ### Iran
 - [ ] Prison in Iran: A Known Unknown
 - [ ] Prisoner of Tehran: A Memoir #must 
@@ -299,9 +313,12 @@ My book reading list.
 
 ### Ukraine
 - [ ] The Harvest of Sorrow: Soviet Collectivization and the Terror-Famine
-- [ ] Red Famine: Stalin's War on Ukraine
-- [ ] The Showman: Inside the Invasion That Shook the World and Made a Leader of Volodymyr Zelensky #must 
+- [ ] Red Famine: Stalin's War on Ukraine #must 
+- [x] The Showman: Inside the Invasion That Shook the World and Made a Leader of Volodymyr Zelensky #must 
 - [ ] The Russo-Ukrainian War: The Return of History
+- [ ] The Gates of Europe: A History of Ukraine
+- [ ] The Ukrainian Night: An Intimate History of Revolution #must 
+- [ ] Harvest of Despair: Life and Death in Ukraine Under Nazi Rule
 
 ### USA
 - [ ] 此心安處：美國十年
@@ -310,11 +327,32 @@ My book reading list.
 - [ ] Dreamland: The True Tale of America's Opiate Epidemic #must 
 - [ ] Strangers in Their Own Land: Anger and Mourning on the American Right #must 
 - [ ] Ghosting the News: Local Journalism and the Crisis of American Democracy #must 
+- [ ] The Internationalists: THE FIGHT TO RESTORE AMERICAN FOREIGN POLICY AFTER TRUMP #must 
+- [ ] What Happened (H. R. Clinton) #must 
+- [ ] White Rage: The Unspoken Truth of Our Racial Divide #must 
+- [ ] Tales of Two Americas: Stories of Inequality in a Divided Nation
+- [ ] Infinite Jest: A Novel
 
 ### Russia
 - [ ] All the Kremlin's Men: Inside the Court of Vladimir Putin
 - [ ] Illness and Inhumanity in Stalin's Gulag
 - [ ] Nothing Is True and Everything Is Possible: The Surreal Heart of the New Russia #must 
+- [ ] Black Wind, White Snow: The Rise of Russia's New Nationalism #must 
+- [ ] Making Sense of War: The Second World War and the Fate of the Bolshevik Revolution
+- [ ] The Struggle to Save the Soviet Economy: Mikhail Gorbachev and the Collapse of the USSR
+- [ ] Yeltsin: A Life (Timothy J Colton)
+- [ ] The Rise and Fall of Communism (Archie Brown) #must 
+- [ ] The Invention of Russia: The Rise of Putin and the Age of Fake News
+- [ ] The Less You Know, The Better You Sleep: Russia's Road to Terror and Dictatorship under Yeltsin and Putin
+- [ ] A Long Goodbye: The Soviet Withdrawal from Afghanistan
+- [ ] Putin's Kleptocracy: Who Owns Russia?
+- [ ] The Man Without a Face: The Unlikely Rise of Vladimir Putin
+- [ ] The History of the Gulag: From Collectivization to the Great Terror
+- [ ] Gulag: A History (Anne Applebaum) #must 
+- [ ] Governing the World: The History of an Idea, 1815 to the Present
+- [ ] Hitler's Empire: Nazi Rule in Occupied Europe
+- [ ] The Long Hangover: Putin's New Russia and the Ghosts of the Past
+
 
 ## Society
 - [ ] The True Believer: Thoughts on the Nature of Mass Movements 
@@ -356,6 +394,10 @@ My book reading list.
 - [ ] Humankind: A Hopeful History #must 
 - [ ] Automating Inequality: How High-tech Tools Profile, Police, and Punish the Poor #must 
 - [ ] How Doctors Think (Jerome Groopman)
+- [ ] Battle for the Bird: Jack Dorsey, Elon Musk, and the $44 Billion Fight for Twitter's Soul
+- [ ] War in 140 Characters: How Social Media Is Reshaping Conflict in the Twenty-First Century
+- [ ] How Propaganda Works (Jason Stanley)
+- [ ] How Democracies Die
 
 ## Politics
 - [ ] Twilight of Democracy: The Seductive Lure of Authoritarianism #must 
@@ -402,6 +444,7 @@ My book reading list.
 - [ ] English / Wish You Were Here: Two Plays #must 
 ### Novel
 - [ ] Anna Karenina (Rosamund Bartlett translation version) #bumingbai 
+- [ ] Ferdydurke (Witold Gombrowicz) #must 
 ### Science
 - [ ] The Journeys of Socrates: An Adventure #must 
 ## Poetry
@@ -443,6 +486,8 @@ My book reading list.
 - [ ] Mao's Great Famine: The History of China's Most Devastating Catastrophe, 1958-1962 #bumingbai #must 
 - [ ] The Cultural Revolution: A People's History, 1962--1976 #must 
 
+### Stephen King
+- [ ] Night Shift #must 
 ## Feminism
 - [ ] Down Girl: The Logic of Misogyny
 - [ ] Hunger: A Memoir of (My) Body
@@ -459,6 +504,7 @@ My book reading list.
 - [ ] The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power
 - [ ] Algorithms of Oppression: How Search Engines Reinforce Racism
 - [ ] Ten Arguments for Deleting Your Social Media Accounts Right Now
+- [ ] Burn Book: A Tech Love Story #must 
 
 ### Thinking
 - [ ] Thinking, Fast and Slow #must 
@@ -482,6 +528,9 @@ My book reading list.
 ## Environment
 - [ ] Forests: The Shadow of Civilization
 - [ ] Exposure: Poisoned Water, Corporate Greed, and One Lawyer's Twenty-Year Battle against DuPont #must 
+- [ ] Water: The Epic Struggle for Wealth, Power, and Civilization #must 
+## Nature
+- [ ] Biological Exuberance: Animal Homosexuality and Natural Diversity
 
 ## Philosophy
 - [ ] The Body in Pain: The Making and Unmaking of the World
