@@ -19,7 +19,6 @@ My book reading list.
 - [ ] She Said: Breaking the Sexual Harassment Story That Helped Ignite a Movement
 - [ ] In the Wars: A Doctor's Story of Conflict, Survival and Saving Lives
 - [ ] The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power
-- [ ] It's OK to Be Angry About Capitalism
 - [ ] Saving Freud: The Rescuers Who Brought Him to Freedom
 - [ ] The Guns of August (war history)
 - [ ] Hitler and Stalin: The Tyrants and the Second World War (war history)
@@ -36,7 +35,7 @@ My book reading list.
 - [ ] Hijab Butch Blues: A Memoir #memoir 
 - [ ] Living the Good Life: How to Live Sanely and Simply in a Troubled World #work #life
 - [ ] Working: People Talk About What They Do All Day and How They Feel About What They Do #society
-- [ ] The T Guide: Our Trans Experiences and a Celebration of Gender Expression—Man, Woman, Nonbinary, and Beyond #gender
+- [x] The T Guide: Our Trans Experiences and a Celebration of Gender Expression—Man, Woman, Nonbinary, and Beyond #gender
 - [ ] The Parent Trap: How to Stop Overloading Parents and Fix Our Inequality Crisis #education #must #child_care
 - [ ] Fire Weather: A True Story from a Hotter World #must #environment 
 - [ ] The Universe in a Single Atom: The Convergence of Science and Spirituality
@@ -71,6 +70,8 @@ My book reading list.
 ## Science
 - [ ] Why Animals Talk: The New Science of Animal Communication
 - [ ] Learn to Orgasm in 4 Acts
+- [ ] How Life Works: A User's Guide to the New Biology #must 
+- [ ] Gendered Brain (Gina Rippon) #must 
 
 ## History
 - [ ] How the World Really Works: A Scientist’s Guide to Our Past, Present and Future
@@ -111,10 +112,13 @@ My book reading list.
 - [ ] Church History in Plain Language
 - [ ] The Destruction of the European Jews
 - [ ] KL: A History of the Nazi Concentration Camps
-- [ ] Postwar: A History of Europe Since 1945 #must 
 - [ ] Fascism: A Warning #must 
 - [ ] How to Win an Information War: The Propagandist Who Outwitted Hitler #must 
 - [ ] The Aryan Jesus: Christian Theologians and the Bible in Nazi Germany
+- [ ] Rise and Kill First: The Secret History of Israel's Targeted Assassinations #must 
+- [ ] The Achilles Trap: Saddam Hussein, the C.I.A., and the Origins of America's Invasion of Iraq #must 
+- [ ] Memoirs 1925-1950 (George F. Kennan)
+- [ ] Impossible Monsters: Dinosaurs, Darwin and the War Between Science and Religion #must 
 
 ## Education
 - [ ] Unequal Childhoods: Class, Race, and Family Life
@@ -147,6 +151,9 @@ My book reading list.
 - [ ] Hell and Other Destinations: A 21st-Century Memoir
 - [ ] Motherland: A Memoir (Paula Ramón)
 - [ ] The Cave: A Secret Underground Hospital and One Woman's Story of Survival in Syria #must 
+- [ ] Last to Eat, Last to Learn: My Life in Afghanistan Fighting to Educate Women #must 
+- [ ] Al Pacino: In Conversation with Lawrence Grobel
+- [ ] The Liverbirds: Our life in Britain's first female rock 'n' roll band
 ## Psychology
 ### 1st priority
 - [ ] Mirror Thinking: How Role Models Make Us Human
@@ -160,7 +167,6 @@ My book reading list.
 - [ ] Counselling for Toads: A Psychological Adventure #must 
 - [ ] Studies in the Psychology of Sex #must 
 	- [ ] 性心理学 (霭理士) #must 
-- [ ] Ten Things Video Games Can Teach Us: (about life, philosophy and everything) #must 
 ### 2nd priority
 - [ ] Defining You: Build Your Unique Personal Profile and Unlock Your True Potential
 ### Professional
@@ -168,6 +174,10 @@ My book reading list.
 - [ ] Child Development: A Practitioner's Guide (forth edition)
 - [ ] Affect Regulation, Mentalization, and the Development of the Self
 - [ ] Judgment under Uncertainty: Heuristics and Biases
+
+## Health
+- [ ] Chronic Pain Reset: 30 Days of Activities, Practices, and Skills to Help You Thrive
+- [ ] Beyond Satisfied: A Sex Hacker's Guide to Endless Orgasms, Mind-Blowing Connection, and Lasting Confidence #must 
 
 ## Life
 - [ ] How to be a Happier Parent: Raising a Family, Having a Life, and Loving (Almost) Every Minute
@@ -250,7 +260,6 @@ My book reading list.
 	- [ ] 定西孤儿院 #bumingbai #must 
 	- [ ] 甘南纪事
 - [ ] 胡平文集 (博大出版社, 2005年4月)
-- [ ] 國鎮 (野夫) #must 
 - [ ] 游民文化与中国社会
 - [ ] 重探抗戰史
 - 林昭
@@ -300,6 +309,8 @@ My book reading list.
 - [ ] Prisoner of Tehran: A Memoir #must 
 - [ ] My Life as a Traitor: An Iranian Memoir
 - [ ] Ghosts of Revolution: Rekindled Memories of Imprisonment in Iran
+### India
+- [ ] Ants Among Elephants: An Untouchable Family and the Making of Modern India
 ### Taiwan
 - [ ] 台灣地方政治讀本: 來自青年世代的提問、實踐與反思
 - 陳柔縉
@@ -319,11 +330,13 @@ My book reading list.
 - [ ] The Gates of Europe: A History of Ukraine
 - [ ] The Ukrainian Night: An Intimate History of Revolution #must 
 - [ ] Harvest of Despair: Life and Death in Ukraine Under Nazi Rule
-
+- [ ] The Language of War (Oleksandr Mykhed) #must 
+### UK
+- [ ] Error of Judgement: The Birmingham Bombings and the Scandal That Shook Britain
 ### USA
 - [ ] 此心安處：美國十年
 - [ ] Civilizing Torture: An American Tradition
-- [ ] 為幸福而生：在法律秩序中追求平等權利的歷程 #bumingbai 
+- [x] 為幸福而生：在法律秩序中追求平等權利的歷程 #bumingbai 
 - [ ] Dreamland: The True Tale of America's Opiate Epidemic #must 
 - [ ] Strangers in Their Own Land: Anger and Mourning on the American Right #must 
 - [ ] Ghosting the News: Local Journalism and the Crisis of American Democracy #must 
@@ -332,6 +345,11 @@ My book reading list.
 - [ ] White Rage: The Unspoken Truth of Our Racial Divide #must 
 - [ ] Tales of Two Americas: Stories of Inequality in a Divided Nation
 - [ ] Infinite Jest: A Novel
+- [ ] Dear Senator: A Memoir #must 
+- [ ] The Family Roe: An American Story #must 
+- [ ] A Question of Choice (Sarah Weddington)
+- [ ] Outtakes: Stumbling Around the World for NPR
+- [ ] Reset: My Fight for Inclusion and Lasting Change
 
 ### Russia
 - [ ] All the Kremlin's Men: Inside the Court of Vladimir Putin
@@ -352,6 +370,7 @@ My book reading list.
 - [ ] Governing the World: The History of an Idea, 1815 to the Present
 - [ ] Hitler's Empire: Nazi Rule in Occupied Europe
 - [ ] The Long Hangover: Putin's New Russia and the Ghosts of the Past
+- [ ] Putin's People: How the KGB Took Back Russia and Then Took on the West
 
 
 ## Society
@@ -388,7 +407,7 @@ My book reading list.
 - [ ] 洗腦的歷史：禍害世界的極端思想控制術大解析 #must 
 - [ ] The Code of Capital: How the Law Creates Wealth and Inequality #must 
 - [ ] On Palestine (Noam Chomsky, Ilan Pappé) #must 
-- [ ] White Torture: Interviews with Iranian Women Prisoners #must 
+- [x] White Torture: Interviews with Iranian Women Prisoners #must 
 - [ ] What Iranians Want: Women, Life, Freedom #must 
 - [ ] Economy and Society (Max Weber)
 - [ ] Humankind: A Hopeful History #must 
@@ -398,10 +417,14 @@ My book reading list.
 - [ ] War in 140 Characters: How Social Media Is Reshaping Conflict in the Twenty-First Century
 - [ ] How Propaganda Works (Jason Stanley)
 - [ ] How Democracies Die
+- [ ] It's OK to Be Angry About Capitalism #must 
+- [ ] 桑和朵瑪：西藏離散社群的流動與社會韌性
+- [ ] Women on Porn: One hundred stories. One vital conversation #must 
 
 ## Politics
 - [ ] Twilight of Democracy: The Seductive Lure of Authoritarianism #must 
 - [ ] The Power of the Powerless
+- [ ] The Opium of the Intellectuals #bumingbai 
 
 ## Economics
 - [ ] A Culture of Growth: The Origins of the Modern Economy
@@ -442,9 +465,14 @@ My book reading list.
 - [ ] Out of the Hitler Time (trilogy) #must
 ### Plays
 - [ ] English / Wish You Were Here: Two Plays #must 
+- [ ] Samuel Beckett: The Complete Dramatic Works
 ### Novel
 - [ ] Anna Karenina (Rosamund Bartlett translation version) #bumingbai 
 - [ ] Ferdydurke (Witold Gombrowicz) #must 
+- [ ] Schindler's ark
+- [ ] The Child of Ukraine: An absolutely gripping and heart-wrenching historical novel based on a true story
+- [ ] Poor Things: Episodes from the Early Life of Archibald McCandless M.D., Scottish Public Health Officer #must 
+- [ ] Black Butterflies (Priscilla Morris) #must 
 ### Science
 - [ ] The Journeys of Socrates: An Adventure #must 
 ## Poetry
@@ -461,7 +489,7 @@ My book reading list.
 - [x] Our Malady #must 
 - [ ] Black Earth: The Holocaust as History and Warning 
 - [ ] Bloodlands: Europe Between Hitler and Stalin
-- [ ] The Road to Unfreedom: Russia, Europe, America #must 
+- [x] The Road to Unfreedom: Russia, Europe, America #must 
 - [ ] Thinking the Twentieth Century #must 
 - [ ] Stalin and Europe: Imitation and Domination, 1928-1953
 - [ ] The Reconstruction Of Nations: Poland, Ukraine, Lithuania, Belarus, 1569-1999
@@ -485,15 +513,40 @@ My book reading list.
 - [ ] The Tragedy of Liberation: A History of the Chinese Revolution, 1945-57 #bumingbai #must 
 - [ ] Mao's Great Famine: The History of China's Most Devastating Catastrophe, 1958-1962 #bumingbai #must 
 - [ ] The Cultural Revolution: A People's History, 1962--1976 #must 
-
 ### Stephen King
 - [ ] Night Shift #must 
+### Toni Morrison
+- [ ] Sula
+### Tony Judt
+- [ ] Postwar: A History of Europe Since 1945 #must 
+- [ ] The Memory Chalet #must 
+- [ ] When the Facts Change: Essays, 1995-2010 #must 
+- [ ] The Burden of Responsibility: Blum, Camus, Aron, and the French Twentieth Century
+### Yuval Noah Harari
+- [ ] Unstoppable Us (Volume 1, 2) #must 
+
+### 野夫
+- [ ] 國鎮 #must 
+- [ ] 江上的母亲
+- [ ] 父亲的战争
 ## Feminism
 - [ ] Down Girl: The Logic of Misogyny
 - [ ] Hunger: A Memoir of (My) Body
 - [ ] Self-Made Man: One Woman's Year Disguised as a Man
 - [ ] Dear Life: Stories (Alice Munro)
 - [ ] Material Girls: Why Reality Matters for Feminism #must 
+- [ ] The Story of Art without Men #must 
+- Dr. Jen Gunter
+	- [ ] The Vagina Bible: The Vulva and the Vagina: Separating the Myth from the Medicine #must 
+	- [ ] The Menopause Manifesto: Own Your Health with Facts and Feminism
+	- [ ] Blood: The Science, Medicine, and Mythology of Menstruation
+- [ ] The Patriarchs: How Men Came to Rule
+- [ ] A History of Women in 101 Objects: A walk through female history
+- [ ] Emotional Labor: The Invisible Work Shaping Our Lives and How to Claim Our Power #must 
+- Angela Saini
+	- [ ] Inferior: The true power of women and the science that shows it #must 
+	- [ ] Superior: The Return of Race Science
+	- [ ] The Patriarchs: How Men Came to Rule #must 
 
 ## Religion
 - [ ] Conversations With God (Neale Donald Walsch)
@@ -531,10 +584,15 @@ My book reading list.
 - [ ] Water: The Epic Struggle for Wealth, Power, and Civilization #must 
 ## Nature
 - [ ] Biological Exuberance: Animal Homosexuality and Natural Diversity
+- [ ] Ten Birds That Changed the World
 
 ## Philosophy
 - [ ] The Body in Pain: The Making and Unmaking of the World
-
+- [ ] Meditations (Marcus Aurelius)
+- [ ] Ten Things Video Games Can Teach Us: (about life, philosophy and everything) #must 
+## Business & Economics
+- [ ] The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you #must 
+- [ ] Keynes Hayek: The Clash that Defined Modern Economics #bumingbai 
 ## Book-lists
 - https://zh.wikipedia.org/zh-tw/香港遭審查下架書刊 #China
 - 編程隨想書單：https://github.com/programthink/books
@@ -564,7 +622,6 @@ My book reading list.
 - "Catcher in the Rye" by J.D. Salinger - This book deals with complex issues of innocence, identity, belonging, loss, and connection.
 - "To Kill a Mockingbird" by Harper Lee - A timeless novel about the injustices of racial inequality and the loss of innocence.
 - "The Alchemist" by Paulo Coelho - This novel talks about following your dreams and listening to your heart.
-- "Meditations" by Marcus Aurelius - A personal diary of the Roman emperor, full of his ideas on Stoic philosophy.
 - 第一个十年有李锐的《庐山会议实录》；[4]第二个十年有李志绥的《毛泽东私人医生回忆录》；第三个十年就是张戎夫妇的《毛泽东：鲜为人知的故事》。这是具有里程碑意义的。”[2][5]
 
 Iran
