@@ -29,10 +29,9 @@ My book reading list.
 - [ ] Advanced Parenting: Advice for Helping Kids Through Diagnoses, Differences, and Mental Health Challenges
 - [ ] The Better Angels of Our Nature: Why Violence Has Declined #must 
 - [ ] Chip War: The Fight for the World's Most Critical Technology
-- [ ] The Rise and Fall of the EAST: How Exams, Autocracy, Stability, and Technology Brought China Success, and Why They Might Lead to Its Decline #must 
 - [ ] When the Hood Comes Off: Racism and Resistance in the Digital Age #communication #media
 - [ ] No Ordinary Assignment #memoir
-- [ ] Hijab Butch Blues: A Memoir #memoir 
+- [ ] Hijab Butch Blues: A Memoir #memoir #must 
 - [ ] Living the Good Life: How to Live Sanely and Simply in a Troubled World #work #life
 - [ ] Working: People Talk About What They Do All Day and How They Feel About What They Do #society
 - [x] The T Guide: Our Trans Experiences and a Celebration of Gender Expression—Man, Woman, Nonbinary, and Beyond #gender
@@ -72,6 +71,10 @@ My book reading list.
 - [ ] Learn to Orgasm in 4 Acts
 - [ ] How Life Works: A User's Guide to the New Biology #must 
 - [ ] Gendered Brain (Gina Rippon) #must 
+- [ ] How to Create a Mind: The Secret of Human Thought Revealed
+- [ ] An Immense World: How Animal Senses Reveal the Hidden Realms Around Us #must 
+### Hypnotists
+- [ ] 
 
 ## History
 - [ ] How the World Really Works: A Scientist’s Guide to Our Past, Present and Future
@@ -119,6 +122,12 @@ My book reading list.
 - [ ] The Achilles Trap: Saddam Hussein, the C.I.A., and the Origins of America's Invasion of Iraq #must 
 - [ ] Memoirs 1925-1950 (George F. Kennan)
 - [ ] Impossible Monsters: Dinosaurs, Darwin and the War Between Science and Religion #must 
+- [ ] The Pursuit of Italy: A History of a Land, its Regions and their Peoples
+- [ ] Judgment at Tokyo: World War II on Trial and the Making of Modern Asia
+- [ ] Open: The Story of Human Progress
+- [ ] The Fighters: Americans In Combat
+- [ ] Sisters of the War: Two Remarkable True Stories of Survival and Hope in Syria
+- [ ] Eat the Buddha: Life and Death in a Tibetan Town #must 
 
 ## Education
 - [ ] Unequal Childhoods: Class, Race, and Family Life
@@ -154,6 +163,16 @@ My book reading list.
 - [ ] Last to Eat, Last to Learn: My Life in Afghanistan Fighting to Educate Women #must 
 - [ ] Al Pacino: In Conversation with Lawrence Grobel
 - [ ] The Liverbirds: Our life in Britain's first female rock 'n' roll band
+- Julie Andrews
+	- [ ] Home: A Memoir of My Early Years
+	- [ ] Home Work: A Memoir of My Hollywood Years #must 
+- [ ] Wifedom: Mrs Orwell’s Invisible Life #must 
+- [ ] Hayek: A Life, 1899–1950 #must 
+- [ ] The Dead Are Arising: The Life of Malcolm X #must 
+- [ ] Genghis Khan and the Making of the Modern World
+- [ ] Camera Man: Buster Keaton, the Dawn of Cinema, and the Invention of the Twentieth Century
+- [ ] My Life, My Love, My Legacy #must 
+- [ ] Autobiography of a Yogi (Paramahansa Yogananda)
 ## Psychology
 ### 1st priority
 - [ ] Mirror Thinking: How Role Models Make Us Human
@@ -166,7 +185,9 @@ My book reading list.
 - [ ] A Mindfulness-Based Stress Reduction Workbook
 - [ ] Counselling for Toads: A Psychological Adventure #must 
 - [ ] Studies in the Psychology of Sex #must 
-	- [ ] 性心理学 (霭理士) #must 
+- Lisa Feldman Barrett
+	- [ ] Seven and a Half Lessons About the Brain #must 
+	- [ ] How Emotions Are Made: The Secret Life of the Brain #must 
 ### 2nd priority
 - [ ] Defining You: Build Your Unique Personal Profile and Unlock Your True Potential
 ### Professional
@@ -189,6 +210,10 @@ My book reading list.
 - [ ] 是非要溫柔：聖嚴法師的禪式管理學
 - [ ] 100 Jewish Brides: Stories from Around the World
 - [ ] Finding Time: The Economics of Work-Life Conflict
+- [ ] The Best Minds: A Story of Friendship, Madness, and the Tragedy of Good Intentions #must 
+- [ ] Persepolis #must 
+- [ ] Learning to Think.: The inspiring memoir about family, poverty, and the power of education
+- [ ] 視障者的機智生活
 
 ## Local
 ### China
@@ -273,7 +298,9 @@ My book reading list.
 - Ian Johnson
 	- [ ] Sparks: China's Underground Historians and Their Battle for the Future #bumingbai #must 
 	- [ ] The Souls of China: The Return of Religion After Mao
-- [ ] 墓碑 (杨继绳)  #bumingbai 
+- 杨继绳
+	- [ ] 墓碑  #bumingbai #must 
+	- [ ] 天地翻覆: 中国文化大革命历史
 - [ ] 尋找家園 (高爾泰) #bumingbai #must 
 - [ ] 殺劫：不可碰觸的記憶禁區，鏡頭下的西藏文革，第一次披露（2023年全新修訂版） 
 - [ ] 毛澤東的大饑荒：中國浩劫史1958-1962
@@ -299,6 +326,15 @@ My book reading list.
 - 王力雄
 	- [ ] 黄祸 #bumingbai 
 	- [ ] 转世 #bumingbai 
+	- [ ] 天葬——西藏的命运 #must 
+	- [ ] 我的西域，你的東土
+- [ ] 杀劫 (唯色) #must 
+- [ ] 沒有墓碑的草原：內蒙古的文革大屠殺實錄
+- [ ] The Sentinel State: Surveillance and the Survival of Dictatorship in China #bumingbai 
+- [ ] The Rise and Fall of the EAST: How Exams, Autocracy, Stability, and Technology Brought China Success, and Why They Might Lead to Its Decline #must #bumingbai 
+- [ ] 兄弟 (余华) #bumingbai 
+- [ ] 庐山会议实录
+- [ ] 毛泽东私人医生回忆录
 
 ### Europe
 - [ ] This is Europe: The Way We Live Now
@@ -309,8 +345,11 @@ My book reading list.
 - [ ] Prisoner of Tehran: A Memoir #must 
 - [ ] My Life as a Traitor: An Iranian Memoir
 - [ ] Ghosts of Revolution: Rekindled Memories of Imprisonment in Iran
+- [ ] The Enlightenment of the Greengage Tree #fiction
 ### India
 - [ ] Ants Among Elephants: An Untouchable Family and the Making of Modern India
+### Nepal
+- [ ] Nepal: A History from the Earliest Times to the Present
 ### Taiwan
 - [ ] 台灣地方政治讀本: 來自青年世代的提問、實踐與反思
 - 陳柔縉
@@ -350,6 +389,13 @@ My book reading list.
 - [ ] A Question of Choice (Sarah Weddington)
 - [ ] Outtakes: Stumbling Around the World for NPR
 - [ ] Reset: My Fight for Inclusion and Lasting Change
+- [ ] Soul by Soul: Life Inside the Antebellum Slave Market #history
+- [ ] The Fiery Trial: Abraham Lincoln and American Slavery #history 
+- [ ] Goldberger's War: The Life and Work of a Public Health Crusader #history 
+- [ ] An American Dilemma (Gunnar Myrdal)
+- [ ] Who Are We?: The Challenges to America's National Identity
+- [ ] How the South Won the Civil War: Oligarchy, Democracy, and the Continuing Fight for the Soul of America
+
 
 ### Russia
 - [ ] All the Kremlin's Men: Inside the Court of Vladimir Putin
@@ -420,11 +466,15 @@ My book reading list.
 - [ ] It's OK to Be Angry About Capitalism #must 
 - [ ] 桑和朵瑪：西藏離散社群的流動與社會韌性
 - [ ] Women on Porn: One hundred stories. One vital conversation #must 
-
+- [ ] 制度基因：中国制度与极权主义制度的起源 (Institutional Genes: The Origins of China's Institutions and Totalitarianism) #must 
+- [ ] The Different Drum: Community-making and peace #must 
+- [ ] The New Odyssey (Patrick Kingsley)
+- [ ] Innocents Lost: When Child Soldiers Go To War
 ## Politics
 - [ ] Twilight of Democracy: The Seductive Lure of Authoritarianism #must 
 - [ ] The Power of the Powerless
 - [ ] The Opium of the Intellectuals #bumingbai 
+- [ ] The Washington Book: How to Read Politics and Politicians
 
 ## Economics
 - [ ] A Culture of Growth: The Origins of the Modern Economy
@@ -455,6 +505,7 @@ My book reading list.
 - [ ] Sympathizer: A Novel #must #bumingbai 
 - [ ] 鹿鼎记 #bumingbai
 - [ ] Silence: A Novel #bumingbai #must 
+- [ ] The Alchemist: A Fable About Following Your Dream #must 
 ### Short Stories
 - [ ] The Lost Salt Gift of Blood (Alistair MacLeod) 
 - [ ] Interpreter of Maladies
@@ -479,6 +530,7 @@ My book reading list.
 - [ ] On Time and Eternity (Rubem Alves)
 - [ ] Poetry for the Many: An Anthology
 - [ ] Deaf Republic: Poems
+- [ ] Selected Poems of Langston Hughes
 ## Master
 ### 劉曉波
 - [ ] 末日倖存者的獨白: 關於我和「六・四」
@@ -509,12 +561,15 @@ My book reading list.
 - [ ] War's Unwomanly Face
 - [ ] Zinky Boys: Soviet Voices from the Afghanistan War
 - [ ] Last Witnesses: An Oral History of the Children of World War II
+- [ ] The Unwomanly Face of War: An Oral History of Women in World War II #must 
 ### Frank Dikotter
 - [ ] The Tragedy of Liberation: A History of the Chinese Revolution, 1945-57 #bumingbai #must 
 - [ ] Mao's Great Famine: The History of China's Most Devastating Catastrophe, 1958-1962 #bumingbai #must 
 - [ ] The Cultural Revolution: A People's History, 1962--1976 #must 
 ### Stephen King
 - [ ] Night Shift #must 
+### Thich Nhat Hanh
+- [ ] No Mud, No Lotus: The Art of Transforming Suffering #must 
 ### Toni Morrison
 - [ ] Sula
 ### Tony Judt
@@ -526,7 +581,7 @@ My book reading list.
 - [ ] Unstoppable Us (Volume 1, 2) #must 
 
 ### 野夫
-- [ ] 國鎮 #must 
+- [x] 國鎮 #must 
 - [ ] 江上的母亲
 - [ ] 父亲的战争
 ## Feminism
@@ -540,14 +595,21 @@ My book reading list.
 	- [ ] The Vagina Bible: The Vulva and the Vagina: Separating the Myth from the Medicine #must 
 	- [ ] The Menopause Manifesto: Own Your Health with Facts and Feminism
 	- [ ] Blood: The Science, Medicine, and Mythology of Menstruation
-- [ ] The Patriarchs: How Men Came to Rule
 - [ ] A History of Women in 101 Objects: A walk through female history
 - [ ] Emotional Labor: The Invisible Work Shaping Our Lives and How to Claim Our Power #must 
 - Angela Saini
 	- [ ] Inferior: The true power of women and the science that shows it #must 
 	- [ ] Superior: The Return of Race Science
 	- [ ] The Patriarchs: How Men Came to Rule #must 
-
+- Andrea Dworkin
+	- [ ] Last Days at Hot Slit: The Radical Feminism of Andrea Dworkin #must 
+	- [ ] Intercourse
+	- [ ] Heartbreak : The Political Memoir Of A Feminist Militant
+- bell hooks
+	- [ ] All About Love: New Visions #must 
+	- [ ] bell hooks: The Last Interview: and Other Conversations
+	- [ ] Bone Black: Memories of Girlhood
+- [ ] The Baby on the Fire Escape: Creativity, Motherhood, and the Mind-Baby Problem #must 
 ## Religion
 - [ ] Conversations With God (Neale Donald Walsch)
 
@@ -557,7 +619,7 @@ My book reading list.
 - [ ] The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power
 - [ ] Algorithms of Oppression: How Search Engines Reinforce Racism
 - [ ] Ten Arguments for Deleting Your Social Media Accounts Right Now
-- [ ] Burn Book: A Tech Love Story #must 
+- [x] Burn Book: A Tech Love Story #must 
 
 ### Thinking
 - [ ] Thinking, Fast and Slow #must 
@@ -593,11 +655,13 @@ My book reading list.
 ## Business & Economics
 - [ ] The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you #must 
 - [ ] Keynes Hayek: The Clash that Defined Modern Economics #bumingbai 
-## Book-lists
+## Lists
+### Book
 - https://zh.wikipedia.org/zh-tw/香港遭審查下架書刊 #China
 - 編程隨想書單：https://github.com/programthink/books
 - 食学共读: https://www.douban.com/doulist/135459538/ (食学社读书会往期书单)
-
+### Awards
+- List of awards in Chinese: https://tpml.gov.taipei/News_Content.aspx?Create=1&n=E5E37C9048A83EB3&state=F5D336F102ACBC68&s=BF9949D8402E6AB9&sms=7D4B7120B494353E
 ### Princeton Pre-read
 - [ ] 2013 — “The Honor Code: How Moral Revolutions Happen” by Kwame Anthony Appiah
 - [ ] 2014 — “Meaning in Life and Why It Matters” by Susan Wolf
@@ -609,42 +673,10 @@ My book reading list.
 - [ ] 2020 — “This America” by Jill Lepore
 - [ ] 2021 — “Moving Up Without Losing Your Way” by Jennifer Morton
 - [ ] 2022 — “Every Day the River Changes” by Jordan Salama
-
-### series
+### Series
 - [ ] Why It Matters (https://www.amazon.com/dp/B08BF9MK61)
 - [ ] 向下扎根！德國最受歡迎的思辨讀本系列 1～7
 
 ## Magazines
 - [ ] 中国民主季刊 #China 
 - [ ] 小鸟文学
-
-## To Process
-- "Catcher in the Rye" by J.D. Salinger - This book deals with complex issues of innocence, identity, belonging, loss, and connection.
-- "To Kill a Mockingbird" by Harper Lee - A timeless novel about the injustices of racial inequality and the loss of innocence.
-- "The Alchemist" by Paulo Coelho - This novel talks about following your dreams and listening to your heart.
-- 第一个十年有李锐的《庐山会议实录》；[4]第二个十年有李志绥的《毛泽东私人医生回忆录》；第三个十年就是张戎夫妇的《毛泽东：鲜为人知的故事》。这是具有里程碑意义的。”[2][5]
-
-Iran
-```
-书籍
-
-《我在伊朗长大》(Persepolis)作者:Marjane Satrapi
-
-《在德黑兰读<洛丽塔>》作者:Azar Nafisi
-
-《伊朗琐罗亚斯德教村落》作者:玛丽·博伊斯
-
-电影
-
-《樱桃的滋味》(Taste of Cherry)1997
-
-《小鞋子》又名《天堂的孩子》(Children of Heaven)1997
-
-《黑板》(The Blackboard)2000
-
-《我在伊朗长大》(Persepolis)2007
-
-《一次别离》(A Separation)2011
-
-《逃离德黑兰》(Argo)2012
-```
