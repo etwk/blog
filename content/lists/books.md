@@ -73,8 +73,7 @@ My book reading list.
 - [ ] Gendered Brain (Gina Rippon) #must 
 - [ ] How to Create a Mind: The Secret of Human Thought Revealed
 - [ ] An Immense World: How Animal Senses Reveal the Hidden Realms Around Us #must 
-### Hypnotists
-- [ ] 
+- [ ] Fearfully and Wonderfully: The Marvel of Bearing God's Image #must 
 
 ## History
 - [ ] How the World Really Works: A Scientist’s Guide to Our Past, Present and Future
@@ -105,7 +104,7 @@ My book reading list.
 - [ ] The Quiet Before: On the Unexpected Origins of Radical Ideas #bumingbai #must 
 - [ ] Killers of the Flower Moon: The Osage Murders and the Birth of the FBI
 - [ ] Judgment at Tokyo: World War II on Trial and the Making of Modern Asia
-- [ ] Marriage, a History: How Love Conquered Marriage
+- [ ] Marriage, a History: How Love Conquered Marriage #must 
 - [ ] The Coming of the Book: The Impact of Printing, 1450-1800
 - [ ] Rome and China : Comparative Perspectives on Ancient World Empires: Comparative Perspectives on Ancient World Empires
 - [ ] Bad Year Economics: Cultural Responses to Risk and Uncertainty
@@ -128,6 +127,8 @@ My book reading list.
 - [ ] The Fighters: Americans In Combat
 - [ ] Sisters of the War: Two Remarkable True Stories of Survival and Hope in Syria
 - [ ] Eat the Buddha: Life and Death in a Tibetan Town #must 
+- [ ] Debt: The First 5,000 Years #must 
+- [ ] The Gift: The Form and Reason for Exchange in Archaic Societies
 
 ## Education
 - [ ] Unequal Childhoods: Class, Race, and Family Life
@@ -173,8 +174,8 @@ My book reading list.
 - [ ] Camera Man: Buster Keaton, the Dawn of Cinema, and the Invention of the Twentieth Century
 - [ ] My Life, My Love, My Legacy #must 
 - [ ] Autobiography of a Yogi (Paramahansa Yogananda)
+- [ ] Letters from the Field, 1925-1975 (Margaret Mead)
 ## Psychology
-### 1st priority
 - [ ] Mirror Thinking: How Role Models Make Us Human
 - [ ] The Emotional Lives of Teenagers: Raising Connected, Capable, and Compassionate Adolescents #must 
 - [ ] Untangled: Guiding Teenage Girls Through the Seven Transitions into Adulthood
@@ -188,8 +189,9 @@ My book reading list.
 - Lisa Feldman Barrett
 	- [ ] Seven and a Half Lessons About the Brain #must 
 	- [ ] How Emotions Are Made: The Secret Life of the Brain #must 
-### 2nd priority
 - [ ] Defining You: Build Your Unique Personal Profile and Unlock Your True Potential
+- [ ] How to Knit a Human: A memoir
+- [ ] The War for Kindness: Building Empathy in a Fractured World #must 
 ### Professional
 - [ ] Maybe You Should Talk to Someone: A Therapist, HER Therapist, and Our Lives Revealed #must 
 - [ ] Child Development: A Practitioner's Guide (forth edition)
@@ -199,6 +201,7 @@ My book reading list.
 ## Health
 - [ ] Chronic Pain Reset: 30 Days of Activities, Practices, and Skills to Help You Thrive
 - [ ] Beyond Satisfied: A Sex Hacker's Guide to Endless Orgasms, Mind-Blowing Connection, and Lasting Confidence #must 
+- [ ] Period (Emma Barnett)
 
 ## Life
 - [ ] How to be a Happier Parent: Raising a Family, Having a Life, and Loving (Almost) Every Minute
@@ -395,6 +398,9 @@ My book reading list.
 - [ ] An American Dilemma (Gunnar Myrdal)
 - [ ] Who Are We?: The Challenges to America's National Identity
 - [ ] How the South Won the Civil War: Oligarchy, Democracy, and the Continuing Fight for the Soul of America
+- [ ] They Were Her Property: White Women as Slave Owners in the American South #must #history 
+- [ ] Forced to Care: Coercion and Caregiving in America
+- [ ] Tipping: An American Social History of Gratuities
 
 
 ### Russia
@@ -470,6 +476,9 @@ My book reading list.
 - [ ] The Different Drum: Community-making and peace #must 
 - [ ] The New Odyssey (Patrick Kingsley)
 - [ ] Innocents Lost: When Child Soldiers Go To War
+- [ ] The Power Broker: Robert Moses and the Fall of New York #history 
+- [ ] Emotional Justice: A Roadmap for Racial Healing #must 
+- [ ] Cold Intimacies: The Making of Emotional Capitalism
 ## Politics
 - [ ] Twilight of Democracy: The Seductive Lure of Authoritarianism #must 
 - [ ] The Power of the Powerless
@@ -610,6 +619,11 @@ My book reading list.
 	- [ ] bell hooks: The Last Interview: and Other Conversations
 	- [ ] Bone Black: Memories of Girlhood
 - [ ] The Baby on the Fire Escape: Creativity, Motherhood, and the Mind-Baby Problem #must 
+- Wednesday Martin
+	- [ ] Untrue: Why Nearly Everything We Believe About Women, Lust, and Infidelity Is Wrong and How the New Science Can Set Us Free #must 
+	- [ ] Primates of Park Avenue: A Memoir
+- [ ] Counting for Nothing: What Men Value and What Women are Worth
+- [ ] Invisible Women: Data Bias in a World Designed for Men #must 
 ## Religion
 - [ ] Conversations With God (Neale Donald Walsch)
 
