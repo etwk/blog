@@ -65,6 +65,7 @@ My book reading list.
 ## Art
 - [ ] Vivian Maier: The Color Work
 - [ ] Bruegel: The Complete Paintings
+- [ ] Timeless Paris (Marin Montagut)
 
 ## Science
 - [ ] Why Animals Talk: The New Science of Animal Communication
@@ -129,6 +130,14 @@ My book reading list.
 - [ ] Eat the Buddha: Life and Death in a Tibetan Town #must 
 - [ ] Debt: The First 5,000 Years #must 
 - [ ] The Gift: The Form and Reason for Exchange in Archaic Societies
+- [ ] How to Feed a Dictator
+- [ ] Iron Curtain: The Crushing of Eastern Europe, 1944-1956
+- [ ] Disputed Inheritance: The Battle over Mendel and the Future of Biology
+- [ ] Time, Love, Memory: A Great Biologist and His Quest for the Origins of Behavior
+- [ ] SCOOPS (Sam McAlister)
+- [ ] Berlin Diary (William L. Shirer)
+- [ ] Soldaten: On Fighting, Killing and Dying
+- [ ] Aftermath: Life in the Fallout of the Third Reich, 1945-1955
 
 ## Education
 - [ ] Unequal Childhoods: Class, Race, and Family Life
@@ -175,6 +184,8 @@ My book reading list.
 - [ ] My Life, My Love, My Legacy #must 
 - [ ] Autobiography of a Yogi (Paramahansa Yogananda)
 - [ ] Letters from the Field, 1925-1975 (Margaret Mead)
+- [ ] Wollstonecraft: Philosophy, Passion, and Politics
+- [ ] Curriculum Vitae: A Volume of Autobiography
 ## Psychology
 - [ ] Mirror Thinking: How Role Models Make Us Human
 - [ ] The Emotional Lives of Teenagers: Raising Connected, Capable, and Compassionate Adolescents #must 
@@ -202,7 +213,8 @@ My book reading list.
 - [ ] Chronic Pain Reset: 30 Days of Activities, Practices, and Skills to Help You Thrive
 - [ ] Beyond Satisfied: A Sex Hacker's Guide to Endless Orgasms, Mind-Blowing Connection, and Lasting Confidence #must 
 - [ ] Period (Emma Barnett)
-
+- [ ] Break Free from Maternal Anxiety: A Self-Help Guide for Pregnancy, Birth and the First Postnatal Year
+- [ ] This Is Assisted Dying: A Doctor's Story of Empowering Patients at the End of Life #must 
 ## Life
 - [ ] How to be a Happier Parent: Raising a Family, Having a Life, and Loving (Almost) Every Minute
 - [ ] Arriving at Your Own Door: 108 Lessons in Mindfulness
@@ -217,7 +229,16 @@ My book reading list.
 - [ ] Persepolis #must 
 - [ ] Learning to Think.: The inspiring memoir about family, poverty, and the power of education
 - [ ] 視障者的機智生活
-
+- [ ] The Master of Disguise: My Secret Life in the CIA #must 
+- [ ] No One Talks About This Stuff: Twenty-Two Stories of Almost Parenthood #must 
+- [ ] Heartwood: The Art of Living with the End in Mind
+- Wang Gungwu
+	- [ ] Home is Not Here
+	- [ ] Home is Where We Are
+- [ ] It Chooses You (Miranda July)
+- Sefton Delmer
+	- [ ] Trail Sinister
+	- [ ] Black Boomerang
 ## Local
 ### China
 - [ ] Red Roulette: An Insider's Story of Wealth, Power, Corruption, and Vengeance in Today's China
@@ -261,7 +282,7 @@ My book reading list.
 - [ ] Deadly Quiet City: Stories From Wuhan, COVID Ground Zero
 - [ ] Indelible City: Dispossession and Defiance in Hong Kong
 - [ ] Cadre Country: How China became the Chinese Communist Party
-- [ ] Surveillance State: Inside China's Quest to Launch a New Era of Social Control
+- [ ] Surveillance State: Inside China's Quest to Launch a New Era of Social Control (監控國家：中國全力打造的數位烏托邦，一座不斷進化、從上到下集體共構的全景監獄)
 - [ ] 张医生与王医生
 - [ ] Out of Mao's shadow
 - [ ] Red Memory: Living, Remembering and Forgetting China's Cultural Revolution
@@ -338,6 +359,14 @@ My book reading list.
 - [ ] 兄弟 (余华) #bumingbai 
 - [ ] 庐山会议实录
 - [ ] 毛泽东私人医生回忆录
+- [ ] 踏跡尋中: 四十年華南田野之旅 #bumingbai #must 
+- [ ] Terror Capitalism: Uyghur Dispossession and Masculinity in a Chinese City
+- [ ] In the Camps: China's High-Tech Penal Colony
+- [ ] 高耀潔憶往昔 #must 
+- [ ] 重返天安門 (林慕蓮) #must 
+- [ ] 人民解放軍的真相：中共200萬私軍的威脅、腐敗與野心
+- [ ] 敲鐘者言: 朱耀明牧師回憶錄 #must 
+- [ ] 被中國拘禁的2279日
 
 ### Europe
 - [ ] This is Europe: The Way We Live Now
@@ -351,6 +380,8 @@ My book reading list.
 - [ ] The Enlightenment of the Greengage Tree #fiction
 ### India
 - [ ] Ants Among Elephants: An Untouchable Family and the Making of Modern India
+- [ ] The Anarchy: The East India Company, Corporate Violence, and the Pillage of an Empire #history 
+- [ ] Geek Nation: How Indian Science is Taking Over the World
 ### Nepal
 - [ ] Nepal: A History from the Earliest Times to the Present
 ### Taiwan
@@ -363,7 +394,9 @@ My book reading list.
 - [ ] Formosa Betrayed #must 
 - [ ] 齐世英先生访问记录
 - [ ] 常識：一個台灣人最好知道的事
-
+- [ ] 移工築起的地下社會：跨國勞動在臺灣
+- [ ] 靈魂與灰燼：臺灣白色恐怖散文選
+- [ ] 臺灣總統選舉: 台灣認同的成長與爭奪 #must 
 ### Ukraine
 - [ ] The Harvest of Sorrow: Soviet Collectivization and the Terror-Famine
 - [ ] Red Famine: Stalin's War on Ukraine #must 
@@ -401,8 +434,7 @@ My book reading list.
 - [ ] They Were Her Property: White Women as Slave Owners in the American South #must #history 
 - [ ] Forced to Care: Coercion and Caregiving in America
 - [ ] Tipping: An American Social History of Gratuities
-
-
+- [ ] The Trickster: A Study in American Indian Mythology
 ### Russia
 - [ ] All the Kremlin's Men: Inside the Court of Vladimir Putin
 - [ ] Illness and Inhumanity in Stalin's Gulag
@@ -423,9 +455,7 @@ My book reading list.
 - [ ] Hitler's Empire: Nazi Rule in Occupied Europe
 - [ ] The Long Hangover: Putin's New Russia and the Ghosts of the Past
 - [ ] Putin's People: How the KGB Took Back Russia and Then Took on the West
-
-
-## Society
+## Social
 - [ ] The True Believer: Thoughts on the Nature of Mass Movements 
 - [ ] 真相製造：從聖戰士媽媽、極權政府、網軍教練、境外勢力、打假部隊、內容農場主人到政府小編
 - [ ] Athena Unbound: Why and How Scholarly Knowledge Should Be Free for All #must #copyright
@@ -479,17 +509,31 @@ My book reading list.
 - [ ] The Power Broker: Robert Moses and the Fall of New York #history 
 - [ ] Emotional Justice: A Roadmap for Racial Healing #must 
 - [ ] Cold Intimacies: The Making of Emotional Capitalism
+- [ ] A Necessary Kindness: Stories From the Frontline of Abortion Care
+- [ ] 思辨是我們的義務：那些瑞典老師教我的事
+- [ ] We've Got This: Stories by Disabled Parents #must 
+- [ ] All That Moves Us: A Pediatric Neurosurgeon, His Young Patients, and Their Stories of Grace and Resilience
+- [ ] No Visible Bruises: What We Don’t Know About Domestic Violence Can Kill Us #must 
+- [ ] Home, Land, Security: Deradicalization and the Journey Back from Extremism
+- [ ] A Death in Malta: An assassination and a family’s quest for justice
+- [ ] How to Win the War on Truth: An Illustrated Guide to How Mistruths Are Sold, Why They Stick, and How to Reclaim Reality
+- [ ] Trickster Makes This World: Mischief, Myth, and Art #must 
 ## Politics
 - [ ] Twilight of Democracy: The Seductive Lure of Authoritarianism #must 
 - [ ] The Power of the Powerless
 - [ ] The Opium of the Intellectuals #bumingbai 
 - [ ] The Washington Book: How to Read Politics and Politicians
+- [ ] If We Burn: The Mass Protest Decade and the Missing Revolution
+- [ ] New Cold Wars: China's Rise, Russia's Invasion, and America's Struggle to Defend the West #must 
+- [ ] This Is Not Propaganda: Adventures in the War Against Reality
+- [ ] The Origins of Totalitarianism (Hannah Arendt) #must 
 
 ## Economics
 - [ ] A Culture of Growth: The Origins of the Modern Economy
 - [ ] Manias, Panics, and Crashes: A History of Financial Crises #must 
 - [ ] The Great Leveler: Violence and the History of Inequality from the Stone Age to the Twenty-First Century
-
+## Language
+- [ ] Sympathy for the Traitor: A Translation Manifesto
 ## Picture Books
 - [ ] Strong Is the New Pretty: A Celebration of Girls Being Themselves #must 
 
@@ -519,6 +563,7 @@ My book reading list.
 - [ ] The Lost Salt Gift of Blood (Alistair MacLeod) 
 - [ ] Interpreter of Maladies
 - [ ] Men Without Women (Ernest Miller Hemingway)
+- [ ] No One Belongs Here More Than You: Stories #must 
 ### Society
 - [ ] Brave New World
 ### Children & Young Adults
@@ -533,6 +578,8 @@ My book reading list.
 - [ ] The Child of Ukraine: An absolutely gripping and heart-wrenching historical novel based on a true story
 - [ ] Poor Things: Episodes from the Early Life of Archibald McCandless M.D., Scottish Public Health Officer #must 
 - [ ] Black Butterflies (Priscilla Morris) #must 
+- [ ] The Actual Star: A Novel #sci-fi
+- [ ] I Kick and I Fly #must 
 ### Science
 - [ ] The Journeys of Socrates: An Adventure #must 
 ## Poetry
@@ -575,6 +622,7 @@ My book reading list.
 - [ ] The Tragedy of Liberation: A History of the Chinese Revolution, 1945-57 #bumingbai #must 
 - [ ] Mao's Great Famine: The History of China's Most Devastating Catastrophe, 1958-1962 #bumingbai #must 
 - [ ] The Cultural Revolution: A People's History, 1962--1976 #must 
+- [ ] China After Mao: The Rise of a Superpower
 ### Stephen King
 - [ ] Night Shift #must 
 ### Thich Nhat Hanh
@@ -588,11 +636,11 @@ My book reading list.
 - [ ] The Burden of Responsibility: Blum, Camus, Aron, and the French Twentieth Century
 ### Yuval Noah Harari
 - [ ] Unstoppable Us (Volume 1, 2) #must 
-
 ### 野夫
 - [x] 國鎮 #must 
 - [ ] 江上的母亲
 - [ ] 父亲的战争
+- [ ] 大地呻吟 #must 
 ## Feminism
 - [ ] Down Girl: The Logic of Misogyny
 - [ ] Hunger: A Memoir of (My) Body
@@ -605,7 +653,7 @@ My book reading list.
 	- [ ] The Menopause Manifesto: Own Your Health with Facts and Feminism
 	- [ ] Blood: The Science, Medicine, and Mythology of Menstruation
 - [ ] A History of Women in 101 Objects: A walk through female history
-- [ ] Emotional Labor: The Invisible Work Shaping Our Lives and How to Claim Our Power #must 
+- [x] Emotional Labor: The Invisible Work Shaping Our Lives and How to Claim Our Power #must 
 - Angela Saini
 	- [ ] Inferior: The true power of women and the science that shows it #must 
 	- [ ] Superior: The Return of Race Science
@@ -624,6 +672,14 @@ My book reading list.
 	- [ ] Primates of Park Avenue: A Memoir
 - [ ] Counting for Nothing: What Men Value and What Women are Worth
 - [ ] Invisible Women: Data Bias in a World Designed for Men #must 
+- [ ] The Women I Think About at Night: Traveling the Paths of My Heroes #must 
+- [ ] On Our Best Behavior: The Seven Deadly Sins and the Price Women Pay to Be Good
+- [ ] Lady Doctors: The Untold Stories of India's First Women in Medicine #must 
+- Gloria Steinem
+	- [ ] My Life on the Road #must 
+	- [ ] The Truth Will Set You Free, But First It Will Piss You Off!: Thoughts on Life, Love, and Rebellion #must 
+- [ ] 50 Years of Ms.: The Best of the Pathfinding Magazine That Ignited a Revolution #must 
+
 ## Religion
 - [ ] Conversations With God (Neale Donald Walsch)
 
