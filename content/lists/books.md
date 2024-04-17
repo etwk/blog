@@ -75,6 +75,7 @@ My book reading list.
 - [ ] How to Create a Mind: The Secret of Human Thought Revealed
 - [ ] An Immense World: How Animal Senses Reveal the Hidden Realms Around Us #must 
 - [ ] Fearfully and Wonderfully: The Marvel of Bearing God's Image #must 
+- [ ] Adventures in Volcanoland: What Volcanoes Tell Us About the World and Ourselves
 
 ## History
 - [ ] How the World Really Works: A Scientist’s Guide to Our Past, Present and Future
@@ -239,6 +240,9 @@ My book reading list.
 - Sefton Delmer
 	- [ ] Trail Sinister
 	- [ ] Black Boomerang
+- [ ] Knife: Meditations After an Attempted Murder
+## Teaching
+- [ ] Reading Lessons: The books we read at school, the conversations they spark and why they matter #must 
 ## Local
 ### China
 - [ ] Red Roulette: An Insider's Story of Wealth, Power, Corruption, and Vengeance in Today's China
@@ -378,6 +382,11 @@ My book reading list.
 - [ ] My Life as a Traitor: An Iranian Memoir
 - [ ] Ghosts of Revolution: Rekindled Memories of Imprisonment in Iran
 - [ ] The Enlightenment of the Greengage Tree #fiction
+- [x]  What Iranians Want: Women, Life, Freedom #must 
+- [ ] The Shadow Commander: Soleimani, the US, and Iran's Global Ambitions
+- [ ] Whisper Tapes: Kate Millett in Iran
+### Middle East
+- [ ] Life as Politics: How Ordinary People Change the Middle East
 ### India
 - [ ] Ants Among Elephants: An Untouchable Family and the Making of Modern India
 - [ ] The Anarchy: The East India Company, Corporate Violence, and the Pillage of an Empire #history 
@@ -489,8 +498,7 @@ My book reading list.
 - [ ] 洗腦的歷史：禍害世界的極端思想控制術大解析 #must 
 - [ ] The Code of Capital: How the Law Creates Wealth and Inequality #must 
 - [ ] On Palestine (Noam Chomsky, Ilan Pappé) #must 
-- [x] White Torture: Interviews with Iranian Women Prisoners #must 
-- [ ] What Iranians Want: Women, Life, Freedom #must 
+- [x] White Torture: Interviews with Iranian Women Prisoners #must
 - [ ] Economy and Society (Max Weber)
 - [ ] Humankind: A Hopeful History #must 
 - [ ] Automating Inequality: How High-tech Tools Profile, Police, and Punish the Poor #must 
@@ -517,7 +525,7 @@ My book reading list.
 - [ ] Home, Land, Security: Deradicalization and the Journey Back from Extremism
 - [ ] A Death in Malta: An assassination and a family’s quest for justice
 - [ ] How to Win the War on Truth: An Illustrated Guide to How Mistruths Are Sold, Why They Stick, and How to Reclaim Reality
-- [ ] Trickster Makes This World: Mischief, Myth, and Art #must 
+- [ ] Trickster Makes This World: Mischief, Myth, and Art
 ## Politics
 - [ ] Twilight of Democracy: The Seductive Lure of Authoritarianism #must 
 - [ ] The Power of the Powerless
@@ -717,6 +725,7 @@ My book reading list.
 ## Nature
 - [ ] Biological Exuberance: Animal Homosexuality and Natural Diversity
 - [ ] Ten Birds That Changed the World
+- [ ] Animal Rights: The Abolitionist Approach #must 
 
 ## Philosophy
 - [ ] The Body in Pain: The Making and Unmaking of the World
