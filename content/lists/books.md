@@ -38,13 +38,11 @@ My book reading list.
 - [ ] The Parent Trap: How to Stop Overloading Parents and Fix Our Inequality Crisis #education #must #child_care
 - [ ] Fire Weather: A True Story from a Hotter World #must #environment 
 - [ ] The Universe in a Single Atom: The Convergence of Science and Spirituality
-- [ ] Our House Is on Fire: Scenes of a Family and a Planet in Crisis Audible #environment 
 - [ ] On Liberty
 - [ ] Reading Lolita in Tehran: A Memoir in Books #must 
 - [ ] The Road to Serfdom #must #bumingbai 
 - [ ] The Art of Loving (Erich Fromm) #must 
 - [ ] The Knife’s Edge: The Heart and Mind of a Cardiac Surgeon
-- [ ] The Climate Book #must 
 - [ ] Out of Egypt: A Memoir #bumingbai 
 - [ ] Speak, Memory: An Autobiography Revisited #bumingbai 
 - [ ] The Roots of Romanticism #bumingbai 
@@ -61,12 +59,12 @@ My book reading list.
 - [ ] Strategy:The Indirect Approach
 - [ ] Three Cups of Tea: One Man's Mission to Promote Peace - One School at a Time
 - [ ] Ultrasociety: How 10,000 Years of War Made Humans the Greatest Cooperators on Earth
-
 ## Art
 - [ ] Vivian Maier: The Color Work
 - [ ] Bruegel: The Complete Paintings
 - [ ] Timeless Paris (Marin Montagut)
-
+## Anthropology
+- [ ] Living Color: The Biological and Social Meaning of Skin Color
 ## Science
 - [ ] Why Animals Talk: The New Science of Animal Communication
 - [ ] Learn to Orgasm in 4 Acts
@@ -76,6 +74,17 @@ My book reading list.
 - [ ] An Immense World: How Animal Senses Reveal the Hidden Realms Around Us #must 
 - [ ] Fearfully and Wonderfully: The Marvel of Bearing God's Image #must 
 - [ ] Adventures in Volcanoland: What Volcanoes Tell Us About the World and Ourselves
+- [ ] Across the Bridge: Understanding the Origin of the Vertebrates #must 
+- [ ] Brains Through Time: A Natural History of Vertebrates
+- [ ] The Accidental Species: Misunderstandings of Human Evolution
+- [ ] Biology as Ideology: The Doctrine of DNA
+- Stuart Firestein
+	- [ ] Failure: Why Science Is So Successful
+	- [ ] Ignorance: How It Drives Science
+- [ ] The Blank Slate: The Modern Denial of Human Nature #must 
+- [ ] Surfing Uncertainty: Prediction, Action, and the Embodied Mind
+- [ ] What Makes Biology Unique?: Considerations on the Autonomy of a Scientific Discipline
+- [ ] Catching Fire: How Cooking Made Us Human #must 
 
 ## History
 - [ ] How the World Really Works: A Scientist’s Guide to Our Past, Present and Future
@@ -199,16 +208,19 @@ My book reading list.
 - [ ] Counselling for Toads: A Psychological Adventure #must 
 - [ ] Studies in the Psychology of Sex #must 
 - Lisa Feldman Barrett
-	- [ ] Seven and a Half Lessons About the Brain #must 
+	- [x] Seven and a Half Lessons About the Brain #must 
 	- [ ] How Emotions Are Made: The Secret Life of the Brain #must 
 - [ ] Defining You: Build Your Unique Personal Profile and Unlock Your True Potential
 - [ ] How to Knit a Human: A memoir
 - [ ] The War for Kindness: Building Empathy in a Fractured World #must 
+- [ ] The Philosophical Baby: What Children's Minds Tell Us About Truth, Love, and the Meaning of Life #must 
+- [ ] The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter
 ### Professional
 - [ ] Maybe You Should Talk to Someone: A Therapist, HER Therapist, and Our Lives Revealed #must 
 - [ ] Child Development: A Practitioner's Guide (forth edition)
 - [ ] Affect Regulation, Mentalization, and the Development of the Self
 - [ ] Judgment under Uncertainty: Heuristics and Biases
+- [ ] Darwin's Unfinished Symphony: How Culture Made the Human Mind
 
 ## Health
 - [ ] Chronic Pain Reset: 30 Days of Activities, Practices, and Skills to Help You Thrive
@@ -371,6 +383,8 @@ My book reading list.
 - [ ] 人民解放軍的真相：中共200萬私軍的威脅、腐敗與野心
 - [ ] 敲鐘者言: 朱耀明牧師回憶錄 #must 
 - [ ] 被中國拘禁的2279日
+- [ ] 官場現形記
+- [ ] 老殘游記
 
 ### Europe
 - [ ] This is Europe: The Way We Live Now
@@ -526,6 +540,7 @@ My book reading list.
 - [ ] A Death in Malta: An assassination and a family’s quest for justice
 - [ ] How to Win the War on Truth: An Illustrated Guide to How Mistruths Are Sold, Why They Stick, and How to Reclaim Reality
 - [ ] Trickster Makes This World: Mischief, Myth, and Art
+- [ ] Our House Is on Fire: Scenes of a Family and a Planet in Crisis #must 
 ## Politics
 - [ ] Twilight of Democracy: The Seductive Lure of Authoritarianism #must 
 - [ ] The Power of the Powerless
@@ -544,6 +559,7 @@ My book reading list.
 - [ ] Sympathy for the Traitor: A Translation Manifesto
 ## Picture Books
 - [ ] Strong Is the New Pretty: A Celebration of Girls Being Themselves #must 
+- [ ] What It Is (Lynda Barry)
 
 ## Self-help
 - [ ] Never Eat Alone, Expanded and Updated: And Other Secrets to Success, One Relationship at a Time
@@ -726,6 +742,7 @@ My book reading list.
 - [ ] Biological Exuberance: Animal Homosexuality and Natural Diversity
 - [ ] Ten Birds That Changed the World
 - [ ] Animal Rights: The Abolitionist Approach #must 
+- [ ] The Climate Book (Greta Thunberg)
 
 ## Philosophy
 - [ ] The Body in Pain: The Making and Unmaking of the World
