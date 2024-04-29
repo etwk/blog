@@ -21,7 +21,6 @@ My book reading list.
 - [ ] The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power
 - [ ] Saving Freud: The Rescuers Who Brought Him to Freedom
 - [ ] The Guns of August (war history)
-- [ ] Hitler and Stalin: The Tyrants and the Second World War (war history)
 - [ ] The Fight of Our Lives: My Time with Zelenskyy, Ukraine's Battle for Democracy, and What It Means for the World
 - [ ] The Ukrainian Night: An Intimate History of Revolution
 - [ ] Honey, Baby, Mine: A Mother and Daughter Talk Life, Death, Love (and Banana Pudding)
@@ -65,6 +64,9 @@ My book reading list.
 - [ ] Timeless Paris (Marin Montagut)
 ## Anthropology
 - [ ] Living Color: The Biological and Social Meaning of Skin Color
+- [ ] The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World #must #history 
+- [ ] A Short History of Humanity: A New History of Old Europe
+- [ ] Captives: How Stolen People Changed the World
 ## Science
 - [ ] Why Animals Talk: The New Science of Animal Communication
 - [ ] Learn to Orgasm in 4 Acts
@@ -85,7 +87,15 @@ My book reading list.
 - [ ] Surfing Uncertainty: Prediction, Action, and the Embodied Mind
 - [ ] What Makes Biology Unique?: Considerations on the Autonomy of a Scientific Discipline
 - [ ] Catching Fire: How Cooking Made Us Human #must 
-
+- Randall Munroe
+	- [ ] What If?: Serious Scientific Answers to Absurd Hypothetical Questions #must 
+	- [ ] What If? 2: Additional Serious Scientific Answers to Absurd Hypothetical Questions
+	- [ ] How To: Absurd Scientific Advice for Common Real-World Problems
+- [ ] Tamed: Ten Species that Changed our World
+- [ ] Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past #must 
+- [ ] Different: Gender Through the Eyes of a Primatologist #must 
+## Math
+- [ ] How Not to Be Wrong: The Power of Mathematical Thinking
 ## History
 - [ ] How the World Really Works: A Scientist’s Guide to Our Past, Present and Future
 - [ ] IBM and the Holocaust: The Strategic Alliance Between Nazi Germany and America's Most Powerful Corporation
@@ -148,6 +158,20 @@ My book reading list.
 - [ ] Berlin Diary (William L. Shirer)
 - [ ] Soldaten: On Fighting, Killing and Dying
 - [ ] Aftermath: Life in the Fallout of the Third Reich, 1945-1955
+- [ ] Undelivered: The Never-Heard Speeches That Would Have Rewritten History
+- [ ] An African History of Africa: From the Dawn of Civilization to Independence #must 
+- [ ] Everything Must Go: The Stories We Tell About The End of the World #must 
+- [ ] A Brief History Of Everyone Ever Lived #must 
+- [ ] Hitler and Stalin: The Tyrants and the Second World War #must 
+- [ ] The Dawn of Everything: A New History of Humanity
+- [ ] Affluence Without Abundance: What We Can Learn from the World's Most Successful Civilisation #must 
+- [ ] The Chalice and the Blade: Our History, Our Future
+- [ ] The Superhero Reader (University Press of Mississippi) #must 
+- [ ] Hammer And Tickle: A History Of Communism Told Through Communist Jokes
+- [ ] Against the Grain: A Deep History of the Earliest States
+- [ ] The Spartans: A Very Short Introduction (Andrew J. Bayliss)
+- [ ] Bury the Chains: Prophets and Rebels in the Fight to Free an Empire's Slaves #slavery
+- [ ] The Rise and Fall of Communism (Archie Brown)
 
 ## Education
 - [ ] Unequal Childhoods: Class, Race, and Family Life
@@ -196,6 +220,12 @@ My book reading list.
 - [ ] Letters from the Field, 1925-1975 (Margaret Mead)
 - [ ] Wollstonecraft: Philosophy, Passion, and Politics
 - [ ] Curriculum Vitae: A Volume of Autobiography
+- [ ] Hite Report on Shere Hite: Voice of a Daughter in Exile #must 
+- [ ] Just as I Am: A Memoir (Cicely Tyson) #must 
+- [ ] Finding Me (Viola Davis)
+- [ ] The Rulebreaker: The Life and Times of Barbara Walters
+- [ ] Women Warriors: An Unexpected History #must 
+- [ ] Free Thinker: Sex, Suffrage, and the Extraordinary Life of Helen Hamilton Gardener
 ## Psychology
 - [ ] Mirror Thinking: How Role Models Make Us Human
 - [ ] The Emotional Lives of Teenagers: Raising Connected, Capable, and Compassionate Adolescents #must 
@@ -253,11 +283,14 @@ My book reading list.
 	- [ ] Trail Sinister
 	- [ ] Black Boomerang
 - [ ] Knife: Meditations After an Attempted Murder
+- [ ] The Years Paperback (Annie Ernaux) #must 
+- [ ] How to Say Babylon: A Memoir #must 
+
 ## Teaching
 - [ ] Reading Lessons: The books we read at school, the conversations they spark and why they matter #must 
-## Local
+## Areas
 ### China
-- [ ] Red Roulette: An Insider's Story of Wealth, Power, Corruption, and Vengeance in Today's China
+- [ ] Red Roulette: An Insider's Story of Wealth, Power, Corruption, and Vengeance in Today's China #must 
 - [ ] Selling China: Foreign Direct Investment during the Reform Era (Cambridge Modern China Series)
 - [ ] 中國：潰而不崩
 - [ ] Party of One: The Rise of Xi Jinping and China's Superpower Future
@@ -369,7 +402,6 @@ My book reading list.
 	- [ ] 天葬——西藏的命运 #must 
 	- [ ] 我的西域，你的東土
 - [ ] 杀劫 (唯色) #must 
-- [ ] 沒有墓碑的草原：內蒙古的文革大屠殺實錄
 - [ ] The Sentinel State: Surveillance and the Survival of Dictatorship in China #bumingbai 
 - [ ] The Rise and Fall of the EAST: How Exams, Autocracy, Stability, and Technology Brought China Success, and Why They Might Lead to Its Decline #must #bumingbai 
 - [ ] 兄弟 (余华) #bumingbai 
@@ -385,11 +417,28 @@ My book reading list.
 - [ ] 被中國拘禁的2279日
 - [ ] 官場現形記
 - [ ] 老殘游記
-
+- [ ] China's Party Congress: Power, Legitimacy, and Institutional Manipulation (Guoguang Wu)
+- [ ] 中國民運反思 (胡平)
+- [ ] The Avoidable War: The Dangers of a Catastrophic Conflict between the US and Xi Jinping's China
+- [ ] 滿洲國的實相與幻象 #Manchukuo
+- Jonathan D. Spence
+	- [ ] The Gate of Heavenly Peace #must #history 
+	- [ ] The Search for Modern China
+	- [ ] Chinese Roundabout: Essays in History and Culture
+	- [ ] The Chinese Century: A Photographic History of the Last Hundred Years
+- [ ] The Kingdom of Women: Life, Love and Death in China's Hidden Mountains
+### Mongolia
+- [ ] 沒有墓碑的草原：內蒙古的文革大屠殺實錄
+- [ ] 內蒙文革實錄：「民族分裂」與「挖肅」運動
+- [ ] The Secret History of the Mongols (Urgunge Onon)
+- [ ] Genghis Khan: His Conquests, His Empire, His Legacy #must 
 ### Europe
 - [ ] This is Europe: The Way We Live Now
 - [ ] The Taste of Ashes: The Afterlife of Totalitarianism in Eastern Europe
 - [ ] The Greengrocer and His TV: The Culture of Communism after the 1968 Prague Spring
+- [ ] Goddesses, Whores, Wives, and Slaves: Women in Classical Antiquity #history #must 
+## Greece
+- [ ] Women in Ancient Greece: A Sourcebook
 ### Iran
 - [ ] Prison in Iran: A Known Unknown
 - [ ] Prisoner of Tehran: A Memoir #must 
@@ -399,12 +448,18 @@ My book reading list.
 - [x]  What Iranians Want: Women, Life, Freedom #must 
 - [ ] The Shadow Commander: Soleimani, the US, and Iran's Global Ambitions
 - [ ] Whisper Tapes: Kate Millett in Iran
+- [ ] Days of God: The Revolution in Iran and Its Consequences (James Buchan)
+- [ ] Women in Mongol Iran: The Khatuns, 1206-1335
+- [ ] The Wind in My Hair: My Fight for Freedom in Modern Iran #must #memoir 
+- [ ] Until We Are Free: My Fight for Human Rights in Iran #must #memoir 
 ### Middle East
 - [ ] Life as Politics: How Ordinary People Change the Middle East
 ### India
 - [ ] Ants Among Elephants: An Untouchable Family and the Making of Modern India
 - [ ] The Anarchy: The East India Company, Corporate Violence, and the Pillage of an Empire #history 
 - [ ] Geek Nation: How Indian Science is Taking Over the World
+- [ ] The Ivory Throne: Chronicles of the House of Travancore
+- [ ] The White Tiger: A Novel #fiction 
 ### Nepal
 - [ ] Nepal: A History from the Earliest Times to the Present
 ### Taiwan
@@ -420,6 +475,14 @@ My book reading list.
 - [ ] 移工築起的地下社會：跨國勞動在臺灣
 - [ ] 靈魂與灰燼：臺灣白色恐怖散文選
 - [ ] 臺灣總統選舉: 台灣認同的成長與爭奪 #must 
+- [ ] Made in Taiwan: Recipes and Stories from the Island Nation
+- [ ] 時代如何轉了彎：蔡英文與臺灣轉型八年
+- [ ] 台灣經濟四百年 #must 
+- [ ] 謝雪紅評傳
+- [ ] U.S.-Taiwan Relations (Ryan Hass)
+- [ ] 後中共的中國：當中共政權解體，所有台灣人不可不知的天下大勢全推演
+### Turkey
+- [ ] The Architect's Apprentice (Elif Shafak) #fiction 
 ### Ukraine
 - [ ] The Harvest of Sorrow: Soviet Collectivization and the Terror-Famine
 - [ ] Red Famine: Stalin's War on Ukraine #must 
@@ -438,7 +501,7 @@ My book reading list.
 - [ ] Dreamland: The True Tale of America's Opiate Epidemic #must 
 - [ ] Strangers in Their Own Land: Anger and Mourning on the American Right #must 
 - [ ] Ghosting the News: Local Journalism and the Crisis of American Democracy #must 
-- [ ] The Internationalists: THE FIGHT TO RESTORE AMERICAN FOREIGN POLICY AFTER TRUMP #must 
+- [ ] The Internationalists: The Fight to Restore American Foreign Policy After Trump #must 
 - [ ] What Happened (H. R. Clinton) #must 
 - [ ] White Rage: The Unspoken Truth of Our Racial Divide #must 
 - [ ] Tales of Two Americas: Stories of Inequality in a Divided Nation
@@ -458,6 +521,7 @@ My book reading list.
 - [ ] Forced to Care: Coercion and Caregiving in America
 - [ ] Tipping: An American Social History of Gratuities
 - [ ] The Trickster: A Study in American Indian Mythology
+- [ ] Woman: The American History of an Idea #history 
 ### Russia
 - [ ] All the Kremlin's Men: Inside the Court of Vladimir Putin
 - [ ] Illness and Inhumanity in Stalin's Gulag
@@ -478,7 +542,7 @@ My book reading list.
 - [ ] Hitler's Empire: Nazi Rule in Occupied Europe
 - [ ] The Long Hangover: Putin's New Russia and the Ghosts of the Past
 - [ ] Putin's People: How the KGB Took Back Russia and Then Took on the West
-## Social
+## Society
 - [ ] The True Believer: Thoughts on the Nature of Mass Movements 
 - [ ] 真相製造：從聖戰士媽媽、極權政府、網軍教練、境外勢力、打假部隊、內容農場主人到政府小編
 - [ ] Athena Unbound: Why and How Scholarly Knowledge Should Be Free for All #must #copyright
@@ -541,6 +605,8 @@ My book reading list.
 - [ ] How to Win the War on Truth: An Illustrated Guide to How Mistruths Are Sold, Why They Stick, and How to Reclaim Reality
 - [ ] Trickster Makes This World: Mischief, Myth, and Art
 - [ ] Our House Is on Fire: Scenes of a Family and a Planet in Crisis #must 
+- [ ] Seed Money: Monsanto's Past and Our Food Future #must 
+- [ ] Headscarves and Hymens: Why the Middle East Needs a Sexual Revolution
 ## Politics
 - [ ] Twilight of Democracy: The Seductive Lure of Authoritarianism #must 
 - [ ] The Power of the Powerless
@@ -550,11 +616,14 @@ My book reading list.
 - [ ] New Cold Wars: China's Rise, Russia's Invasion, and America's Struggle to Defend the West #must 
 - [ ] This Is Not Propaganda: Adventures in the War Against Reality
 - [ ] The Origins of Totalitarianism (Hannah Arendt) #must 
+- [ ] How We Survived Communism & Even Laughed #memoir 
 
 ## Economics
 - [ ] A Culture of Growth: The Origins of the Modern Economy
 - [ ] Manias, Panics, and Crashes: A History of Financial Crises #must 
 - [ ] The Great Leveler: Violence and the History of Inequality from the Stone Age to the Twenty-First Century
+## Law
+- [ ] The Prosecutor: One Man’s Pursuit of Justice for the Voiceless
 ## Language
 - [ ] Sympathy for the Traitor: A Translation Manifesto
 ## Picture Books
@@ -595,6 +664,7 @@ My book reading list.
 ### Plays
 - [ ] English / Wish You Were Here: Two Plays #must 
 - [ ] Samuel Beckett: The Complete Dramatic Works
+- [ ] Nora: A Doll's House
 ### Novel
 - [ ] Anna Karenina (Rosamund Bartlett translation version) #bumingbai 
 - [ ] Ferdydurke (Witold Gombrowicz) #must 
@@ -604,6 +674,7 @@ My book reading list.
 - [ ] Black Butterflies (Priscilla Morris) #must 
 - [ ] The Actual Star: A Novel #sci-fi
 - [ ] I Kick and I Fly #must 
+- [ ] White Nights (Fyodor Dostoevsky)
 ### Science
 - [ ] The Journeys of Socrates: An Adventure #must 
 ## Poetry
@@ -659,12 +730,17 @@ My book reading list.
 - [ ] When the Facts Change: Essays, 1995-2010 #must 
 - [ ] The Burden of Responsibility: Blum, Camus, Aron, and the French Twentieth Century
 ### Yuval Noah Harari
-- [ ] Unstoppable Us (Volume 1, 2) #must 
+- [ ] Unstoppable Us (Volume 1, 2)
+- [ ] Sapiens: A Brief History of Humankind #must 
+- [ ] Homo Deus: A Brief History of Tomorrow #must 
 ### 野夫
 - [x] 國鎮 #must 
 - [ ] 江上的母亲
 - [ ] 父亲的战争
 - [ ] 大地呻吟 #must 
+### 余英時
+- [ ] 余英時回憶錄 #must 
+- [ ] 余英時談話錄
 ## Feminism
 - [ ] Down Girl: The Logic of Misogyny
 - [ ] Hunger: A Memoir of (My) Body
@@ -681,7 +757,7 @@ My book reading list.
 - Angela Saini
 	- [ ] Inferior: The true power of women and the science that shows it #must 
 	- [ ] Superior: The Return of Race Science
-	- [ ] The Patriarchs: How Men Came to Rule #must 
+	- [x] The Patriarchs: How Men Came to Rule #must 
 - Andrea Dworkin
 	- [ ] Last Days at Hot Slit: The Radical Feminism of Andrea Dworkin #must 
 	- [ ] Intercourse
@@ -690,6 +766,7 @@ My book reading list.
 	- [ ] All About Love: New Visions #must 
 	- [ ] bell hooks: The Last Interview: and Other Conversations
 	- [ ] Bone Black: Memories of Girlhood
+	- [ ] The Will to Change: Men, Masculinity, and Love #must 
 - [ ] The Baby on the Fire Escape: Creativity, Motherhood, and the Mind-Baby Problem #must 
 - Wednesday Martin
 	- [ ] Untrue: Why Nearly Everything We Believe About Women, Lust, and Infidelity Is Wrong and How the New Science Can Set Us Free #must 
@@ -702,8 +779,20 @@ My book reading list.
 - Gloria Steinem
 	- [ ] My Life on the Road #must 
 	- [ ] The Truth Will Set You Free, But First It Will Piss You Off!: Thoughts on Life, Love, and Rebellion #must 
-- [ ] 50 Years of Ms.: The Best of the Pathfinding Magazine That Ignited a Revolution #must 
-
+- [ ] 50 Years of Ms.: The Best of the Pathfinding Magazine That Ignited a Revolution
+- [ ] Bananas, Beaches and Bases: Making Feminist Sense of International Politics
+- Fatima Mernissi
+	- [ ] Dreams of Trespass: Tales of a Harem Girlhood
+	- [ ] The Veil And The Male Elite: A Feminist Interpretation Of Women's Rights In Islam
+- [ ] White Tears/Brown Scars: How White Feminism Betrays Women of Color
+- [ ] When God Was a Woman (Merlin Stone) #must #history 
+- [ ] The Creation of Patriarchy (Gerda Lerner) #history 
+- [ ] We Are Not Born Submissive: How Patriarchy Shapes Women's Lives
+- [ ] Woman at Point Zero #fiction 
+- [ ] The Living Goddesses (Marija Gimbutas)
+- [ ] The Feminine Mystique (Betty Friedan) #must 
+- [ ] The Handmaid’s Tale #fiction 
+- [ ] Against White Feminism: Notes on Disruption
 ## Religion
 - [ ] Conversations With God (Neale Donald Walsch)
 
@@ -738,16 +827,19 @@ My book reading list.
 - [ ] Forests: The Shadow of Civilization
 - [ ] Exposure: Poisoned Water, Corporate Greed, and One Lawyer's Twenty-Year Battle against DuPont #must 
 - [ ] Water: The Epic Struggle for Wealth, Power, and Civilization #must 
+- [ ] The Book of Hope: A Survival Guide for Trying Times #must 
 ## Nature
 - [ ] Biological Exuberance: Animal Homosexuality and Natural Diversity
 - [ ] Ten Birds That Changed the World
 - [ ] Animal Rights: The Abolitionist Approach #must 
-- [ ] The Climate Book (Greta Thunberg)
+- [ ] The Climate Book (Greta Thunberg) #must 
+- [ ] The Underworld: Journeys to the Depths of the Ocean
 
 ## Philosophy
 - [ ] The Body in Pain: The Making and Unmaking of the World
 - [ ] Meditations (Marcus Aurelius)
 - [ ] Ten Things Video Games Can Teach Us: (about life, philosophy and everything) #must 
+- [ ] The Little Book of Humanism: Universal lessons on finding purpose, meaning and joy
 ## Business & Economics
 - [ ] The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you #must 
 - [ ] Keynes Hayek: The Clash that Defined Modern Economics #bumingbai 
@@ -776,3 +868,10 @@ My book reading list.
 ## Magazines
 - [ ] 中国民主季刊 #China 
 - [ ] 小鸟文学
+
+## Tags
+- #must: personal must read
+- #China-geopolitics: geopolitics around China, including:
+	- inside: Tibet, Xinjiang, Inner Mongolia, Hong Kong
+	- border: Afghanistan, Bhutan, India, Kazakhstan, Kyrgyzstan, Laos, Mongolia, Myanmar, Nepal, North Korea, Pakistan, Russia, Tajikistan, Vietnam
+	- sea border: Brunei, Indonesia, Japan, Malaysia, Philippines, South Korea, Taiwan, Vietnam
