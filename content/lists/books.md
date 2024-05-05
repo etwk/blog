@@ -94,6 +94,9 @@ My book reading list.
 - [ ] Tamed: Ten Species that Changed our World
 - [ ] Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past #must 
 - [ ] Different: Gender Through the Eyes of a Primatologist #must 
+- [ ] Nano: The Spectacular Science of the Very (Very) Small #children
+### Neuroscience
+- [ ] Seeing the Mind: Spectacular Images from Neuroscience, and What They Reveal about Our Neuronal Selves #must 
 ## Math
 - [ ] How Not to Be Wrong: The Power of Mathematical Thinking
 ## History
@@ -172,7 +175,8 @@ My book reading list.
 - [ ] The Spartans: A Very Short Introduction (Andrew J. Bayliss)
 - [ ] Bury the Chains: Prophets and Rebels in the Fight to Free an Empire's Slaves #slavery
 - [ ] The Rise and Fall of Communism (Archie Brown)
-
+- [ ] Maoism: A Global History #must 
+- [ ] Night (Elie Wiesel)
 ## Education
 - [ ] Unequal Childhoods: Class, Race, and Family Life
 - [ ] How Children Succeed: Grit, Curiosity, and the Hidden Power of Character
@@ -226,6 +230,7 @@ My book reading list.
 - [ ] The Rulebreaker: The Life and Times of Barbara Walters
 - [ ] Women Warriors: An Unexpected History #must 
 - [ ] Free Thinker: Sex, Suffrage, and the Extraordinary Life of Helen Hamilton Gardener
+- [ ] Chess Queens (Jennifer Shahade)
 ## Psychology
 - [ ] Mirror Thinking: How Role Models Make Us Human
 - [ ] The Emotional Lives of Teenagers: Raising Connected, Capable, and Compassionate Adolescents #must 
@@ -245,6 +250,7 @@ My book reading list.
 - [ ] The War for Kindness: Building Empathy in a Fractured World #must 
 - [ ] The Philosophical Baby: What Children's Minds Tell Us About Truth, Love, and the Meaning of Life #must 
 - [ ] The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter
+- [ ] Three Women (Lisa Taddeo)
 ### Professional
 - [ ] Maybe You Should Talk to Someone: A Therapist, HER Therapist, and Our Lives Revealed #must 
 - [ ] Child Development: A Practitioner's Guide (forth edition)
@@ -285,6 +291,7 @@ My book reading list.
 - [ ] Knife: Meditations After an Attempted Murder
 - [ ] The Years Paperback (Annie Ernaux) #must 
 - [ ] How to Say Babylon: A Memoir #must 
+- [ ] I'm Black So You Don't Have to Be: A Memoir in Eight Lives #must 
 
 ## Teaching
 - [ ] Reading Lessons: The books we read at school, the conversations they spark and why they matter #must 
@@ -374,8 +381,7 @@ My book reading list.
 - 杨继绳
 	- [ ] 墓碑  #bumingbai #must 
 	- [ ] 天地翻覆: 中国文化大革命历史
-- [ ] 尋找家園 (高爾泰) #bumingbai #must 
-- [ ] 殺劫：不可碰觸的記憶禁區，鏡頭下的西藏文革，第一次披露（2023年全新修訂版） 
+- [ ] 尋找家園 (高爾泰) #bumingbai #must  
 - [ ] 毛澤東的大饑荒：中國浩劫史1958-1962
 - [ ] 上海生與死 (Life and Death in Shanghai)
 - [ ] I Have No Enemies: The Life and Legacy of Liu Xiaobo #must 
@@ -404,7 +410,7 @@ My book reading list.
 - [ ] 杀劫 (唯色) #must 
 - [ ] The Sentinel State: Surveillance and the Survival of Dictatorship in China #bumingbai 
 - [ ] The Rise and Fall of the EAST: How Exams, Autocracy, Stability, and Technology Brought China Success, and Why They Might Lead to Its Decline #must #bumingbai 
-- [ ] 兄弟 (余华) #bumingbai 
+- [ ] 兄弟 (余华) #bumingbai #censor
 - [ ] 庐山会议实录
 - [ ] 毛泽东私人医生回忆录
 - [ ] 踏跡尋中: 四十年華南田野之旅 #bumingbai #must 
@@ -427,18 +433,35 @@ My book reading list.
 	- [ ] Chinese Roundabout: Essays in History and Culture
 	- [ ] The Chinese Century: A Photographic History of the Last Hundred Years
 - [ ] The Kingdom of Women: Life, Love and Death in China's Hidden Mountains
+- [ ] 一百個人的十年 #Cultural-Revolution
+- [ ] 草根蝉鸣 (刘国凯) #Cultural-Revolution  #must 
+- 喻智官
+	- [ ] 福民公寓 #must #Cultural-Revolution #fiction 
+	- [ ] 獨一無二的反叛者：王若望
+- [ ] 革後餘生：從牛津大學到北京市第一看守所
+- [ ] 文革大屠杀 (宋永毅) #Cultural-Revolution 
+#### Xinjiang
+- [ ] The Uyghurs: Strangers in Their Own Land
 ### Mongolia
-- [ ] 沒有墓碑的草原：內蒙古的文革大屠殺實錄
+- 楊海英
+	- [x] 沒有墓碑的草原：內蒙古的文革大屠殺實錄
+	- [ ] 蒙古與伊斯蘭中國：一段貼近民族心靈的旅程
+	- [ ] 在中國與蒙古的夾縫之間：一個蒙古人未竟的民族自決之夢
 - [ ] 內蒙文革實錄：「民族分裂」與「挖肅」運動
 - [ ] The Secret History of the Mongols (Urgunge Onon)
 - [ ] Genghis Khan: His Conquests, His Empire, His Legacy #must 
+- [ ] 內蒙文革風雷 ── 一位造反派領袖的口述史 #Cultural-Revolution 
+- [ ] 顛覆世界史的蒙古 (杉山正明) #history 
+
 ### Europe
 - [ ] This is Europe: The Way We Live Now
 - [ ] The Taste of Ashes: The Afterlife of Totalitarianism in Eastern Europe
 - [ ] The Greengrocer and His TV: The Culture of Communism after the 1968 Prague Spring
 - [ ] Goddesses, Whores, Wives, and Slaves: Women in Classical Antiquity #history #must 
-## Greece
+### Greece
 - [ ] Women in Ancient Greece: A Sourcebook
+### Hong Kong
+- [ ] 在夾縫中抵抗：從依法治國與司法抗爭的比較經驗看香港
 ### Iran
 - [ ] Prison in Iran: A Known Unknown
 - [ ] Prisoner of Tehran: A Memoir #must 
@@ -460,6 +483,8 @@ My book reading list.
 - [ ] Geek Nation: How Indian Science is Taking Over the World
 - [ ] The Ivory Throne: Chronicles of the House of Travancore
 - [ ] The White Tiger: A Novel #fiction 
+- [ ] Lab Hopping: Women Scientists in India #must 
+- [ ] The Good Girls: An Ordinary Killing #history 
 ### Nepal
 - [ ] Nepal: A History from the Earliest Times to the Present
 ### Taiwan
@@ -469,7 +494,8 @@ My book reading list.
 	- [ ] 台灣西方文明初體驗
 	- [ ] 人人身上都是一個時代
 - [ ] 張繼高與吳心柳
-- [ ] Formosa Betrayed #must 
+- [ ] Formosa Betrayed (George H. Kerr) #must 
+- [ ] 島國知音：台灣問題專家葛超智其人其事
 - [ ] 齐世英先生访问记录
 - [ ] 常識：一個台灣人最好知道的事
 - [ ] 移工築起的地下社會：跨國勞動在臺灣
@@ -481,6 +507,8 @@ My book reading list.
 - [ ] 謝雪紅評傳
 - [ ] U.S.-Taiwan Relations (Ryan Hass)
 - [ ] 後中共的中國：當中共政權解體，所有台灣人不可不知的天下大勢全推演
+### Tibet
+- [ ] 殺劫：不可碰觸的記憶禁區，鏡頭下的西藏文革，第一次披露 #must 
 ### Turkey
 - [ ] The Architect's Apprentice (Elif Shafak) #fiction 
 ### Ukraine
@@ -494,6 +522,7 @@ My book reading list.
 - [ ] The Language of War (Oleksandr Mykhed) #must 
 ### UK
 - [ ] Error of Judgement: The Birmingham Bombings and the Scandal That Shook Britain
+- [ ] Empireworld: How British Imperialism Has Shaped the Globe #history 
 ### USA
 - [ ] 此心安處：美國十年
 - [ ] Civilizing Torture: An American Tradition
@@ -522,6 +551,7 @@ My book reading list.
 - [ ] Tipping: An American Social History of Gratuities
 - [ ] The Trickster: A Study in American Indian Mythology
 - [ ] Woman: The American History of an Idea #history 
+- [ ] The Good Immigrant: 26 Writers Reflect on America #must 
 ### Russia
 - [ ] All the Kremlin's Men: Inside the Court of Vladimir Putin
 - [ ] Illness and Inhumanity in Stalin's Gulag
@@ -607,6 +637,9 @@ My book reading list.
 - [ ] Our House Is on Fire: Scenes of a Family and a Planet in Crisis #must 
 - [ ] Seed Money: Monsanto's Past and Our Food Future #must 
 - [ ] Headscarves and Hymens: Why the Middle East Needs a Sexual Revolution
+- [ ] Everyday Utopia: What 2,000 Years of Wild Experiments Can Teach Us About the Good Life
+- [ ] Me and White Supremacy: Combat Racism, Change the World, and Become a Good Ancestor
+- [ ] Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do #must 
 ## Politics
 - [ ] Twilight of Democracy: The Seductive Lure of Authoritarianism #must 
 - [ ] The Power of the Powerless
@@ -617,6 +650,7 @@ My book reading list.
 - [ ] This Is Not Propaganda: Adventures in the War Against Reality
 - [ ] The Origins of Totalitarianism (Hannah Arendt) #must 
 - [ ] How We Survived Communism & Even Laughed #memoir 
+- [ ] Trump and Hitler: A Comparative Study in Lying #must 
 
 ## Economics
 - [ ] A Culture of Growth: The Origins of the Modern Economy
@@ -624,6 +658,7 @@ My book reading list.
 - [ ] The Great Leveler: Violence and the History of Inequality from the Stone Age to the Twenty-First Century
 ## Law
 - [ ] The Prosecutor: One Man’s Pursuit of Justice for the Voiceless
+- [ ] Sex Is as Sex Does: Governing Transgender Identity
 ## Language
 - [ ] Sympathy for the Traitor: A Translation Manifesto
 ## Picture Books
@@ -675,6 +710,7 @@ My book reading list.
 - [ ] The Actual Star: A Novel #sci-fi
 - [ ] I Kick and I Fly #must 
 - [ ] White Nights (Fyodor Dostoevsky)
+- [ ] The First Bad Man: A Novel #must #Miranda-July
 ### Science
 - [ ] The Journeys of Socrates: An Adventure #must 
 ## Poetry
@@ -682,9 +718,16 @@ My book reading list.
 - [ ] Poetry for the Many: An Anthology
 - [ ] Deaf Republic: Poems
 - [ ] Selected Poems of Langston Hughes
-## Master
+- [ ] States of the Body Produced by Love
+- [ ] Romanzero (Heinrich Heine) #Germany
+## Thinker
 ### 劉曉波
 - [ ] 末日倖存者的獨白: 關於我和「六・四」
+- [ ] 刘晓波纪念文集
+	- [ ] The Journey of Liu Xiaobo: From Dark Horse to Nobel Laureate
+### 席慕蓉
+- [ ] 英雄時代 #must #poetry
+- [ ] 寫給海日汗的21封信 #must 
 ### Bruce lee
 - [ ] Bruce Lee Library (https://www.amazon.com/dp/B08B8VS2X7) #must 
 ### Timothy Snyder
@@ -702,6 +745,11 @@ My book reading list.
 - [ ] The Wall Around the West: State Borders and Immigration Controls in North America and Europe
 ### George Orwell
 - [ ] Politics and the English Language
+- [ ] 1984 #must 
+### Karl Jaspers
+- [ ] The Question of German Guilt #must 
+- [ ] Socrates, Buddha, Confucius, Jesus : the paradigmatic individuals #must 
+- [ ] Way to Wisdom: An Introduction to Philosophy
 ### Albert Einstein
 - [ ] The World As I see It #bumingbai 
 ### E. B. White
@@ -784,7 +832,7 @@ My book reading list.
 - Fatima Mernissi
 	- [ ] Dreams of Trespass: Tales of a Harem Girlhood
 	- [ ] The Veil And The Male Elite: A Feminist Interpretation Of Women's Rights In Islam
-- [ ] White Tears/Brown Scars: How White Feminism Betrays Women of Color
+- [ ] White Tears/Brown Scars: How White Feminism Betrays Women of Color #must 
 - [ ] When God Was a Woman (Merlin Stone) #must #history 
 - [ ] The Creation of Patriarchy (Gerda Lerner) #history 
 - [ ] We Are Not Born Submissive: How Patriarchy Shapes Women's Lives
@@ -793,6 +841,13 @@ My book reading list.
 - [ ] The Feminine Mystique (Betty Friedan) #must 
 - [ ] The Handmaid’s Tale #fiction 
 - [ ] Against White Feminism: Notes on Disruption
+- [ ] Killing the Black Body: Race, Reproduction, and the Meaning of Liberty #must 
+- [ ] The Female Turn: How Evolutionary Science Shifted Perceptions About Females
+- [ ] Entitled: How Male Privilege Hurts Women
+- [ ] Mediocre (Ijeoma Oluo)
+- [ ] It's Not About the Burqa: Muslim Women on Faith, Feminism, Sexuality and Race
+- [ ] Invisible Women: Data Bias in a World Designed for Men
+
 ## Religion
 - [ ] Conversations With God (Neale Donald Walsch)
 
@@ -822,12 +877,18 @@ My book reading list.
 ## Food
 - [ ] Eat Like The Animals: What Nature Teaches Us About the Science of Healthy Eating
 - [ ] Salt Sugar Fat: How the Food Giants Hooked Us
+- [ ] The Blue Revolution: Hunting, Harvesting, and Farming Seafood in the Information Age
+- [ ] The Future of Nutrition: An Insider’s Look at the Science, Why We Keep Getting It Wrong, and How to Start Getting It Right #must 
+- [ ] Eating to Extinction: The World's Rarest Foods and Why We Need to Save Them #must 
 
 ## Environment
 - [ ] Forests: The Shadow of Civilization
 - [ ] Exposure: Poisoned Water, Corporate Greed, and One Lawyer's Twenty-Year Battle against DuPont #must 
 - [ ] Water: The Epic Struggle for Wealth, Power, and Civilization #must 
 - [ ] The Book of Hope: A Survival Guide for Trying Times #must 
+- [ ] Fresh Banana Leaves: Healing Indigenous Landscapes through Indigenous Science #must 
+- [ ] Underland: A Deep Time Journey
+- [ ] The Uninhabitable Earth: Life After Warming
 ## Nature
 - [ ] Biological Exuberance: Animal Homosexuality and Natural Diversity
 - [ ] Ten Birds That Changed the World
@@ -840,9 +901,12 @@ My book reading list.
 - [ ] Meditations (Marcus Aurelius)
 - [ ] Ten Things Video Games Can Teach Us: (about life, philosophy and everything) #must 
 - [ ] The Little Book of Humanism: Universal lessons on finding purpose, meaning and joy
+- [ ] Unconditional Equals (Anne Phillips)
+- [ ] Racism, Not Race: Answers to Frequently Asked Questions #must 
 ## Business & Economics
 - [ ] The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you #must 
 - [ ] Keynes Hayek: The Clash that Defined Modern Economics #bumingbai 
+- [ ] Inclusion on Purpose: An Intersectional Approach to Creating a Culture of Belonging at Work #must 
 ## Lists
 ### Book
 - https://zh.wikipedia.org/zh-tw/香港遭審查下架書刊 #China
@@ -850,6 +914,7 @@ My book reading list.
 - 食学共读: https://www.douban.com/doulist/135459538/ (食学社读书会往期书单)
 ### Awards
 - List of awards in Chinese: https://tpml.gov.taipei/News_Content.aspx?Create=1&n=E5E37C9048A83EB3&state=F5D336F102ACBC68&s=BF9949D8402E6AB9&sms=7D4B7120B494353E
+- Hughes Prize: https://www.bshs.org.uk/prizes/hughes-prize
 ### Princeton Pre-read
 - [ ] 2013 — “The Honor Code: How Moral Revolutions Happen” by Kwame Anthony Appiah
 - [ ] 2014 — “Meaning in Life and Why It Matters” by Susan Wolf
@@ -875,3 +940,4 @@ My book reading list.
 	- inside: Tibet, Xinjiang, Inner Mongolia, Hong Kong
 	- border: Afghanistan, Bhutan, India, Kazakhstan, Kyrgyzstan, Laos, Mongolia, Myanmar, Nepal, North Korea, Pakistan, Russia, Tajikistan, Vietnam
 	- sea border: Brunei, Indonesia, Japan, Malaysia, Philippines, South Korea, Taiwan, Vietnam
+- #censor : might be a result under censorship
