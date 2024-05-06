@@ -47,7 +47,6 @@ My book reading list.
 - [ ] The Roots of Romanticism #bumingbai 
 - [ ] The Prince (Niccolo Machiavelli) #bumingbai #must 
 - [ ] The Dictator's Handbook #bumingbai #must 
-
 #### 2nd priority
 - [ ] The Daughters of Kobani: A Story of Rebellion, Courage, and Justice
 - [ ] Facebook: The Inside Story
@@ -62,6 +61,7 @@ My book reading list.
 - [ ] Vivian Maier: The Color Work
 - [ ] Bruegel: The Complete Paintings
 - [ ] Timeless Paris (Marin Montagut)
+- [ ] Divine Gardens: Mayumi Oda and the San Francisco Zen Center #must #essay
 ## Anthropology
 - [ ] Living Color: The Biological and Social Meaning of Skin Color
 - [ ] The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World #must #history 
@@ -180,6 +180,7 @@ My book reading list.
 ## Education
 - [ ] Unequal Childhoods: Class, Race, and Family Life
 - [ ] How Children Succeed: Grit, Curiosity, and the Hidden Power of Character
+- [ ] Happy Teachers Change the World: A Guide for Cultivating Mindfulness in Education #must #mindfulness 
 
 ## People
 - [ ] I am Malala
@@ -231,6 +232,8 @@ My book reading list.
 - [ ] Women Warriors: An Unexpected History #must 
 - [ ] Free Thinker: Sex, Suffrage, and the Extraordinary Life of Helen Hamilton Gardener
 - [ ] Chess Queens (Jennifer Shahade)
+- [ ] We Are One: A Celebration of Tribal Peoples #must 
+- [ ] Learning True Love: Practicing Buddhism in a Time of War #religion #female #Buddhism #must 
 ## Psychology
 - [ ] Mirror Thinking: How Role Models Make Us Human
 - [ ] The Emotional Lives of Teenagers: Raising Connected, Capable, and Compassionate Adolescents #must 
@@ -251,13 +254,13 @@ My book reading list.
 - [ ] The Philosophical Baby: What Children's Minds Tell Us About Truth, Love, and the Meaning of Life #must 
 - [ ] The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter
 - [ ] Three Women (Lisa Taddeo)
+- [ ] Worlds in Harmony: Compassionate Action for a Better World #Buddhism 
 ### Professional
 - [ ] Maybe You Should Talk to Someone: A Therapist, HER Therapist, and Our Lives Revealed #must 
 - [ ] Child Development: A Practitioner's Guide (forth edition)
 - [ ] Affect Regulation, Mentalization, and the Development of the Self
 - [ ] Judgment under Uncertainty: Heuristics and Biases
 - [ ] Darwin's Unfinished Symphony: How Culture Made the Human Mind
-
 ## Health
 - [ ] Chronic Pain Reset: 30 Days of Activities, Practices, and Skills to Help You Thrive
 - [ ] Beyond Satisfied: A Sex Hacker's Guide to Endless Orgasms, Mind-Blowing Connection, and Lasting Confidence #must 
@@ -292,7 +295,7 @@ My book reading list.
 - [ ] The Years Paperback (Annie Ernaux) #must 
 - [ ] How to Say Babylon: A Memoir #must 
 - [ ] I'm Black So You Don't Have to Be: A Memoir in Eight Lives #must 
-
+- [ ] Healing: A Woman's Journey from Doctor to Nun #spirituality
 ## Teaching
 - [ ] Reading Lessons: The books we read at school, the conversations they spark and why they matter #must 
 ## Areas
@@ -407,7 +410,6 @@ My book reading list.
 	- [ ] 转世 #bumingbai 
 	- [ ] 天葬——西藏的命运 #must 
 	- [ ] 我的西域，你的東土
-- [ ] 杀劫 (唯色) #must 
 - [ ] The Sentinel State: Surveillance and the Survival of Dictatorship in China #bumingbai 
 - [ ] The Rise and Fall of the EAST: How Exams, Autocracy, Stability, and Technology Brought China Success, and Why They Might Lead to Its Decline #must #bumingbai 
 - [ ] 兄弟 (余华) #bumingbai #censor
@@ -421,8 +423,8 @@ My book reading list.
 - [ ] 人民解放軍的真相：中共200萬私軍的威脅、腐敗與野心
 - [ ] 敲鐘者言: 朱耀明牧師回憶錄 #must 
 - [ ] 被中國拘禁的2279日
-- [ ] 官場現形記
-- [ ] 老殘游記
+- [ ] 官場現形記 #fiction 
+- [ ] 老殘游記 #fiction 
 - [ ] China's Party Congress: Power, Legitimacy, and Institutional Manipulation (Guoguang Wu)
 - [ ] 中國民運反思 (胡平)
 - [ ] The Avoidable War: The Dangers of a Catastrophic Conflict between the US and Xi Jinping's China
@@ -440,8 +442,6 @@ My book reading list.
 	- [ ] 獨一無二的反叛者：王若望
 - [ ] 革後餘生：從牛津大學到北京市第一看守所
 - [ ] 文革大屠杀 (宋永毅) #Cultural-Revolution 
-#### Xinjiang
-- [ ] The Uyghurs: Strangers in Their Own Land
 ### Mongolia
 - 楊海英
 	- [x] 沒有墓碑的草原：內蒙古的文革大屠殺實錄
@@ -509,6 +509,7 @@ My book reading list.
 - [ ] 後中共的中國：當中共政權解體，所有台灣人不可不知的天下大勢全推演
 ### Tibet
 - [ ] 殺劫：不可碰觸的記憶禁區，鏡頭下的西藏文革，第一次披露 #must 
+- [ ] 圖博千年：一個旅人的雪域凝視
 ### Turkey
 - [ ] The Architect's Apprentice (Elif Shafak) #fiction 
 ### Ukraine
@@ -572,6 +573,8 @@ My book reading list.
 - [ ] Hitler's Empire: Nazi Rule in Occupied Europe
 - [ ] The Long Hangover: Putin's New Russia and the Ghosts of the Past
 - [ ] Putin's People: How the KGB Took Back Russia and Then Took on the West
+### Xinjiang
+- [ ] The Uyghurs: Strangers in Their Own Land
 ## Society
 - [ ] The True Believer: Thoughts on the Nature of Mass Movements 
 - [ ] 真相製造：從聖戰士媽媽、極權政府、網軍教練、境外勢力、打假部隊、內容農場主人到政府小編
@@ -640,6 +643,7 @@ My book reading list.
 - [ ] Everyday Utopia: What 2,000 Years of Wild Experiments Can Teach Us About the Good Life
 - [ ] Me and White Supremacy: Combat Racism, Change the World, and Become a Good Ancestor
 - [ ] Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do #must 
+- [ ] Being Arab (Samir Kassir) #Islamic #history 
 ## Politics
 - [ ] Twilight of Democracy: The Seductive Lure of Authoritarianism #must 
 - [ ] The Power of the Powerless
@@ -651,7 +655,6 @@ My book reading list.
 - [ ] The Origins of Totalitarianism (Hannah Arendt) #must 
 - [ ] How We Survived Communism & Even Laughed #memoir 
 - [ ] Trump and Hitler: A Comparative Study in Lying #must 
-
 ## Economics
 - [ ] A Culture of Growth: The Origins of the Modern Economy
 - [ ] Manias, Panics, and Crashes: A History of Financial Crises #must 
@@ -659,14 +662,17 @@ My book reading list.
 ## Law
 - [ ] The Prosecutor: One Man’s Pursuit of Justice for the Voiceless
 - [ ] Sex Is as Sex Does: Governing Transgender Identity
+- [ ] The Future of Human Rights (Alison Brysk) #human-rights
+- [ ] Inventing Human Rights: A History #human-rights #history 
 ## Language
 - [ ] Sympathy for the Traitor: A Translation Manifesto
 ## Picture Books
 - [ ] Strong Is the New Pretty: A Celebration of Girls Being Themselves #must 
 - [ ] What It Is (Lynda Barry)
 
-## Self-help
+## Relationship
 - [ ] Never Eat Alone, Expanded and Updated: And Other Secrets to Success, One Relationship at a Time
+- [ ] Seeking Soulmate: Ditch the Dating Game and Find Real Connection #must #psychology #dating
 ## Fiction
 - [ ] All Quiet on the Western Front
 - [ ] Beasts of No Nation: A Novel
@@ -691,11 +697,12 @@ My book reading list.
 - [ ] The Lost Salt Gift of Blood (Alistair MacLeod) 
 - [ ] Interpreter of Maladies
 - [ ] Men Without Women (Ernest Miller Hemingway)
-- [ ] No One Belongs Here More Than You: Stories #must 
+- [x] No One Belongs Here More Than You: Stories #must 
 ### Society
 - [ ] Brave New World
 ### Children & Young Adults
 - [ ] Out of the Hitler Time (trilogy) #must
+- [ ] The Coconut Monk
 ### Plays
 - [ ] English / Wish You Were Here: Two Plays #must 
 - [ ] Samuel Beckett: The Complete Dramatic Works
@@ -720,6 +727,7 @@ My book reading list.
 - [ ] Selected Poems of Langston Hughes
 - [ ] States of the Body Produced by Love
 - [ ] Romanzero (Heinrich Heine) #Germany
+- [ ] First Buddhist Women: Poems and Stories of Awakening #Buddhism #history #must 
 ## Thinker
 ### 劉曉波
 - [ ] 末日倖存者的獨白: 關於我和「六・四」
@@ -769,7 +777,17 @@ My book reading list.
 ### Stephen King
 - [ ] Night Shift #must 
 ### Thich Nhat Hanh
-- [ ] No Mud, No Lotus: The Art of Transforming Suffering #must 
+- [x] No Mud, No Lotus: The Art of Transforming Suffering #must #mindfulness
+- [ ] Happiness: Essential Mindfulness Practices
+- [ ] Love Letter to the Earth
+- [ ] The Mindfulness Survival Kit: Five Essential Practices
+- [ ] Present Moment Wonderful Moment: Mindfulness Verses for Daily Living #must 
+- [ ] Understanding Our Mind: 50 Verses on Buddhist Psychology #must 
+- [ ] Call Me By My True Names: The Collected Poems of Thich Nhat Hanh #must 
+- [ ] Vietnam: Lotus in a Sea of Fire: A Buddhist Proposal for Peace #history 
+- [ ] Stepping into Freedom: An Introduction to Buddhist Monastic Training #must #practice
+- [ ] At Home in the World: Stories and Essential Teachings from a Monk’s Life #must 
+- [ ] Old Path White Clouds: Walking in the Footsteps of the Buddha #Buddhism #must 
 ### Toni Morrison
 - [ ] Sula
 ### Tony Judt
@@ -847,10 +865,9 @@ My book reading list.
 - [ ] Mediocre (Ijeoma Oluo)
 - [ ] It's Not About the Burqa: Muslim Women on Faith, Feminism, Sexuality and Race
 - [ ] Invisible Women: Data Bias in a World Designed for Men
-
 ## Religion
 - [ ] Conversations With God (Neale Donald Walsch)
-
+- [ ] Tell Me Something about Buddhism: Questions and Answers for the Curious Beginner #must #Buddhism #Zen
 ## Technology
 - [ ] The Network State: How To Start a New Country #bumingbai 
 - [ ] Glow Kids: How Screen Addiction Is Hijacking Our Kids-and How to Break the Trance #must 
@@ -880,6 +897,8 @@ My book reading list.
 - [ ] The Blue Revolution: Hunting, Harvesting, and Farming Seafood in the Information Age
 - [ ] The Future of Nutrition: An Insider’s Look at the Science, Why We Keep Getting It Wrong, and How to Start Getting It Right #must 
 - [ ] Eating to Extinction: The World's Rarest Foods and Why We Need to Save Them #must 
+- [ ] The Berkeley Bowl Cookbook: Recipes Inspired by the Extraordinary Produce of California's Most Iconic Market #recipe
+- [ ] Things I Did When I Was Hangry: Navigating a Peaceful Relationship with Food #mindfulness #must 
 
 ## Environment
 - [ ] Forests: The Shadow of Civilization
@@ -889,13 +908,17 @@ My book reading list.
 - [ ] Fresh Banana Leaves: Healing Indigenous Landscapes through Indigenous Science #must 
 - [ ] Underland: A Deep Time Journey
 - [ ] The Uninhabitable Earth: Life After Warming
+- [ ] Pass it On: Five Stories That Can Change the World #must 
+- [ ] Radical Love: From Separation to Connection with the Earth, Each Other, and Ourselves (Satish Kumar)
+- [ ] World as Lover, World as Self: Courage for Global Justice and Planetary Renewal
 ## Nature
 - [ ] Biological Exuberance: Animal Homosexuality and Natural Diversity
 - [ ] Ten Birds That Changed the World
 - [ ] Animal Rights: The Abolitionist Approach #must 
 - [ ] The Climate Book (Greta Thunberg) #must 
 - [ ] The Underworld: Journeys to the Depths of the Ocean
-
+## Travel
+- [ ] Ocean of Insight: A Sailor's Voyage from Despair to Hope
 ## Philosophy
 - [ ] The Body in Pain: The Making and Unmaking of the World
 - [ ] Meditations (Marcus Aurelius)
@@ -903,10 +926,22 @@ My book reading list.
 - [ ] The Little Book of Humanism: Universal lessons on finding purpose, meaning and joy
 - [ ] Unconditional Equals (Anne Phillips)
 - [ ] Racism, Not Race: Answers to Frequently Asked Questions #must 
+## Photography
+- [ ] I Am Home: Portraits of Immigrant Teenagers
+## Spirituality & Meditation
+- [ ] Not Quite Nirvana: A Skeptic's Journey to Mindfulness #must #memoir 
+- [ ] Solid Ground: Buddhist Wisdom for Difficult Times
+- [ ] Ten Breaths to Happiness: Touching Life in its Fullness
+- [ ] A Fierce Heart: Finding Strength, Courage, and Wisdom in Any Moment
+
 ## Business & Economics
 - [ ] The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you #must 
 - [ ] Keynes Hayek: The Clash that Defined Modern Economics #bumingbai 
 - [ ] Inclusion on Purpose: An Intersectional Approach to Creating a Culture of Belonging at Work #must 
+## Finance & Wealth
+- [ ] The Algebra of Wealth: A Simple Formula for Financial Security #must 
+## Work
+- [ ] The Idealist's Survival Kit: 75 Simple Ways to Avoid Burnout #social-work
 ## Lists
 ### Book
 - https://zh.wikipedia.org/zh-tw/香港遭審查下架書刊 #China
@@ -926,9 +961,20 @@ My book reading list.
 - [ ] 2020 — “This America” by Jill Lepore
 - [ ] 2021 — “Moving Up Without Losing Your Way” by Jennifer Morton
 - [ ] 2022 — “Every Day the River Changes” by Jordan Salama
-### Series
+## Series
 - [ ] Why It Matters (https://www.amazon.com/dp/B08BF9MK61)
 - [ ] 向下扎根！德國最受歡迎的思辨讀本系列 1～7
+
+- Mindfulness Essentials - How To
+	- [ ] How to Sit #must 
+	- [ ] How to Eat
+	- [ ] How to Love #must 
+	- [ ] How to Walk #must 
+	- [ ] How to Relax
+	- [ ] How to Fight
+	- [ ] How to See
+	- [ ] How to Connect
+	- [ ] How to Focus
 
 ## Magazines
 - [ ] 中国民主季刊 #China 
