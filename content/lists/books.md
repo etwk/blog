@@ -27,6 +27,9 @@ My book reading list.
 ### Australia
 - [ ] Wild Dog Dreaming: Love and Extinction #nature #indigenous
 
+### Belarus
+- [ ] Ribwort (Hanna Komar) #poetry #politics 
+
 ### China
 - [ ] Red Roulette: An Insider's Story of Wealth, Power, Corruption, and Vengeance in Today's China #must 
 - [ ] Selling China: Foreign Direct Investment during the Reform Era (Cambridge Modern China Series)
@@ -173,7 +176,13 @@ My book reading list.
 - [ ] 認同而不出櫃：中國同性戀者的生存困境
 - [ ] Remembering Shanghai: A Memoir of Socialites, Scholars and Scoundrels #must #history
 - [ ] Private Revolutions: Coming of Age in a New China #female #people 
-
+- 譚松
+	- [ ] 血紅的土地：中共土改採訪錄 #oral-history #must 
+	- [ ] 长寿湖：一九五七年重慶長壽湖右派采訪錄
+- 宋永毅
+	- [ ] 毛澤東和文化大革命：政治心理與文化基因的新闡釋 #must 
+	- [ ] 中外學者談文革
+	- [ ] 洗腦：毛澤東和後毛時代的中國與世界
 ### Europe
 - [ ] This is Europe: The Way We Live Now
 - [ ] The Taste of Ashes: The Afterlife of Totalitarianism in Eastern Europe
@@ -185,6 +194,7 @@ My book reading list.
 	- [ ] To Hell and Back: Europe 1914-1949
 	- [ ] Roller-Coaster: Europe, 1950-2017
 - [ ] Iron Curtain: The Crushing of Eastern Europe, 1944-1956 #history #must 
+- [ ] Blood of Others: Stalin's Crimean Atrocity and the Poetics of Solidarity #literary-criticism #history #must 
 
 ### Germany
 - [ ] 歐洲的心臟：德國如何改變自己
@@ -234,6 +244,7 @@ My book reading list.
 - [ ] Life as Politics: How Ordinary People Change the Middle East
 - [ ] The Fall of the Ottomans: The Great War in the Middle East #history #Turkey
 - [ ] The Damascus Events: The 1860 Massacre and the Making of the Modern Middle East #history #must #Turkey
+- [ ] The Siege of Mecca: The 1979 Uprising at Islam's Holiest Shrine #history #terrorism
 
 ### Mongolia
 - 楊海英
@@ -284,6 +295,8 @@ My book reading list.
 	- [ ] What's Cooking in the Kremlin: A Modern History of Russia Through the Kitchen Door #history 
 - [ ] I Love Russia: Reporting from a Lost Country #history #journalist #must 
 
+### Spain
+- [ ] Spain in Our Hearts: Americans in the Spanish Civil War, 1936–1939 #history #fascism #politics #must 
 ### Syria
 - [ ] The Daughters of Kobani: A Story of Rebellion, Courage, and Justice #war #Islamic #female #must 
 ### Taiwan
@@ -357,6 +370,13 @@ My book reading list.
 - [ ] 向日葵的季節 (Igor T. Miecik) #documentary #translation 
 - [ ] 戰火下我們依然喝咖啡：烏克蘭人的抵抗故事 #documentary #war
 - [ ] The Rooster House: My Ukrainian Family Story: A Memoir #history 
+- [ ] The Ukraine (Artem Chapeye) #fiction #short-stories #must 
+- [ ] Our Enemies Will Vanish: The Russian Invasion and Ukraine's War of Independence #reporting #must 
+- [ ] The Death of a Soldier Told by His Sister #memoir #war
+- [ ] Ukraine 22: Ukrainian Writers Respond to War #anthology #must 
+- [ ] Ivan and Phoebe: A Novel (Oksana Lutsysyna) #novel #fiction #revolution #female 
+- [ ] Sky Above Kharkiv: Dispatches from the Ukrainian Front (Serhiy Zhadan) #reporting #war
+- [ ] The War Came To Us: Life and Death in Ukraine #must 
 
 ### USA
 - [ ] Civilizing Torture: An American Tradition
@@ -394,9 +414,11 @@ My book reading list.
 - [ ] Ill Winds: Saving Democracy from Russian Rage, Chinese Ambition, and American Complacency #democracy #history 
 - [ ] Black Like Me #racism #history #liberty #must 
 - [ ] Merchants of the Right: Gun Sellers and the Crisis of American Democracy
+- [ ] Stamped from the Beginning: The Definitive History of Racist Ideas in America #racism #history #must 
 
 ### Vietnam
 - [ ] 越南現代小說選 (羅漪文 譯) #fiction #novel #must 
+- [ ] Dispatches (Michael Herr) #war #history 
 
 ### Xinjiang
 - [ ] The Uyghurs: Strangers in Their Own Land
@@ -551,11 +573,13 @@ My book reading list.
 - [ ] The First Bad Man: A Novel #must #Miranda-July
 - [ ] The Joy Luck Club: A Novel (Amy Tan)
 - [ ] Stone Butch Blues (Leslie Feinberg) #autobiography #transgender
+- [ ] Forgottenness: A Novel (Tanja Maljartschuk) #time #trauma #identity
 
 ### Plays
 - [ ] English / Wish You Were Here: Two Plays #must 
 - [ ] Samuel Beckett: The Complete Dramatic Works
 - [ ] Nora: A Doll's House
+- [ ] Antigone (Jean Anouilh) #translation #French #tyranny #must 
 
 ### Science
 - [ ] The Journeys of Socrates: An Adventure #must 
@@ -610,7 +634,6 @@ My book reading list.
 - [ ] A Guest in My Own Country: A Hungarian Life #bumingbai 
 - [ ] In Our Image: America's Empire in the Philippines
 - [ ] Fascism: A Warning #must 
-- [ ] The Power of the Powerless #must #bumingbai 
 - [ ] Midnight's Furies: The Deadly Legacy of India's Partition #must #bumingbai 
 - [ ] The Great Influenza: The Story of the Deadliest Pandemic in History #must #bumingbai 
 - [ ] 技术与文明 (张笑宇) #bumingbai 
@@ -675,6 +698,7 @@ My book reading list.
 
 ## Journalism
 - [ ] No Ordinary Assignment #memoir #war #female #must 
+- [ ] Snapshots Sent Home: From Afghanistan, Iraq, Ukraine―A Memoir (JT Blatty) #war #must 
 
 ## Language
 - [ ] Sympathy for the Traitor: A Translation Manifesto
@@ -741,6 +765,7 @@ My book reading list.
 - [ ] The Climate Book (Greta Thunberg) #must 
 - [ ] The Underworld: Journeys to the Depths of the Ocean
 - [ ] Every Living Thing: The Great and Deadly Race to Know All Life #history 
+- [ ] Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures #must 
 
 ## Parenting
 - [ ] There Are Moms Way Worse Than You: Irrefutable Proof That You Are Indeed a Fantastic Parent #picture
@@ -751,6 +776,10 @@ My book reading list.
 	- [ ] Untangled: Guiding Teenage Girls Through the Seven Transitions into Adulthood #girl #psychology #must 
 	- [x] Under Pressure: Confronting the Epidemic of Stress and Anxiety in Girls #girl #psychology #must 
 	- [ ] The Emotional Lives of Teenagers: Raising Connected, Capable, and Compassionate Adolescents #psychology #must 
+- Sarah Blaffer Hrdy
+	- [ ] Father Time: A Natural History of Men and Babies #sociobiology #must
+	- [ ] Mothers and Others: The Evolutionary Origins of Mutual Understanding #sociobiology #must 
+	- [ ] Mother Nature: Maternal Instincts and How They Shape the Human Species
 
 ## People
 - [ ] I am Malala
@@ -837,6 +866,7 @@ My book reading list.
 - [ ] Strong Is the New Pretty: A Celebration of Girls Being Themselves #must 
 - [ ] What It Is (Lynda Barry)
 - [ ] Gender Queer: A Memoir #gender 
+- [ ] Democracy (Alecos Papadatos, Abraham Kawa, Annie Di Donna) #novel #politics 
 
 ## Poetry
 - [ ] On Time and Eternity (Rubem Alves)
@@ -856,7 +886,6 @@ My book reading list.
 - [ ] If We Burn: The Mass Protest Decade and the Missing Revolution
 - [ ] New Cold Wars: China's Rise, Russia's Invasion, and America's Struggle to Defend the West #must 
 - [ ] This Is Not Propaganda: Adventures in the War Against Reality
-- [ ] The Origins of Totalitarianism (Hannah Arendt) #must 
 - [ ] How We Survived Communism & Even Laughed #memoir 
 - [ ] Trump and Hitler: A Comparative Study in Lying #must 
 - [ ] The Great Delusion: Liberal Dreams and International Realities #history #democracy 
@@ -873,6 +902,8 @@ My book reading list.
 - [ ] The Prince (Niccolo Machiavelli) #leadership #bumingbai #must 
 - [ ] The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics #bumingbai #must 
 - [ ] Outsider in the White House (Bernie Sanders) #memoir #people #must 
+- [ ] The Power of the Powerless #must #bumingbai #history 
+- [ ] The Insiders’ Game: How Elites Make War and Peace #academy 
 
 ## Psychology
 - [ ] Mirror Thinking: How Role Models Make Us Human
@@ -913,6 +944,9 @@ My book reading list.
 
 ## Religion
 - [ ] Conversations With God (Neale Donald Walsch)
+### Islam
+- [ ] Faith at War: A Journey on the Frontlines of Islam, from Baghdad to Timbuktu (Yaroslav Trofimov) #history 
+- [ ] A History of the Muslim World: From Its Origins to the Dawn of Modernity #history 
 
 ## Science
 - [ ] Why Animals Talk: The New Science of Animal Communication
@@ -1113,6 +1147,7 @@ My book reading list.
 ### George Orwell
 - [ ] Politics and the English Language
 - [ ] 1984 #must 
+- [ ] Homage to Catalonia #must 
 
 ### Hannah Arendt
 - [ ] The Origins of Totalitarianism #must 
@@ -1208,6 +1243,7 @@ My book reading list.
 - [ ] The Idealist's Survival Kit: 75 Simple Ways to Avoid Burnout #social-work
 - [ ] Inclusion on Purpose: An Intersectional Approach to Creating a Culture of Belonging at Work #must 
 - [ ] Working: People Talk About What They Do All Day and How They Feel About What They Do #must 
+- [ ] Private Government: How Employers Rule Our Lives (and Why We Don't Talk about It) #politics  #must 
 
 ## Writers
 ### Alice Walker
@@ -1217,6 +1253,8 @@ My book reading list.
 ### Dalai Lama
 - [ ] The Universe in a Single Atom: The Convergence of Science and Spirituality #must 
 
+### Margaret Atwood
+- [ ] The Handmaid's Tale #fiction #novel #dystopian #feminism 
 ### Kazuo Ishiguro
 - [ ] The Remains of the Day #fiction 
 
@@ -1240,6 +1278,8 @@ My book reading list.
 ### Awards
 - List of awards in Chinese: https://tpml.gov.taipei/News_Content.aspx?Create=1&n=E5E37C9048A83EB3&state=F5D336F102ACBC68&s=BF9949D8402E6AB9&sms=7D4B7120B494353E
 - Hughes Prize: https://www.bshs.org.uk/prizes/hughes-prize
+- Ukraine:
+	- BBC Ukrainian Book of the Year (Ukrainian language)
 
 ### Princeton Pre-read
 - [ ] 2013 — “The Honor Code: How Moral Revolutions Happen” by Kwame Anthony Appiah
@@ -1260,6 +1300,9 @@ My book reading list.
 - [ ] Penguin Great Ideas: https://www.penguin.co.uk/series/PEN02/penguin-great-ideas
 - [ ] The Last Interview: https://www.amazon.com/dp/B084R7T3JZ
 - [ ] Very Short Introductions (OUP): https://global.oup.com/academic/content/series/v/very-short-introductions-vsi
+- [ ] Harvard Library of Ukrainian Literature: https://books.huri.harvard.edu/series/harvard-library-of-ukrainian-literature
+- Princeton
+	- [ ] The University Center for Human Values Series
 
 - Mindfulness Essentials - How To
 	- [ ] How to Sit #must 
