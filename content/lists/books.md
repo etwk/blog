@@ -24,6 +24,11 @@ My book reading list.
 - [ ] Ultrasociety: How 10,000 Years of War Made Humans the Greatest Cooperators on Earth
 
 ## Areas
+### Afghanistan
+- [ ] Kabul: Final Call: The inside story of the withdrawal from Afghanistan August 2021
+- Åsne Seierstad
+	- [ ] The Afghans: Three lives through war, love and revolt
+	- [ ] The Bookseller Of Kabul #biography
 ### Australia
 - [ ] Wild Dog Dreaming: Love and Extinction #nature #indigenous
 
@@ -40,13 +45,19 @@ My book reading list.
 - [ ] June Fourth: The Tiananmen Protests and Beijing Massacre of 1989 (Jeremy Brown)
 - [ ] Coalitions of the Weak (Cambridge Studies in Comparative Politics)
 - [ ] Red Capitalism: The Fragile Financial Foundation of China's Extraordinary Rise
-- [ ] 六四事件全程實錄 #must 
-- [ ] 六四屠殺內幕解密：六四事件中的戒嚴部隊 #must 
+- 吳仁華
+	- [ ] 六四事件全程實錄 #must 
+	- [ ] 六四屠殺內幕解密：六四事件中的戒嚴部隊 #must 
+	- [ ] 六四天安門血腥清場內幕
 - [ ] 改革历程 / 国家的囚徒：赵紫阳的秘密录音 #memoir 
-- [ ] The China Order: Centralia, World Empire, and the Nature of Chinese Power
-- [ ] The Hong Kong Diaries #must
+- Fei-Ling Wang
+	- [ ] The China Order: Centralia, World Empire, and the Nature of Chinese Power #dasheng 
+	- [ ] The China Record: An Assessment of the People’s Republic #dasheng 
+- [ ] The Hong Kong Diaries (Chris Patten) #dasheng #must
 - [ ] 中國農民反行為研究(1950-1980)
-- [ ] 暴政史：20 世紀的權力與民眾
+- 徐賁
+	- [ ] 暴政史：20 世紀的權力與民眾 #dasheng 
+	- [ ] 犬儒與玩笑：假面社會的政治幽默 #dasheng 
 - [ ] 毛泽东私人医生回忆录 #must 
 - [ ] China at War: Triumph and Tragedy in the Emergence of the New China
 - [ ] 出賣中國：權貴資本主義的起源與共產黨政權的潰敗
@@ -61,6 +72,7 @@ My book reading list.
 	- [ ] 天朝的崩溃: 鸦片战争再研究
 	- [ ] 苦命天子：咸丰皇帝奕詝
 	- [ ] 戊戌时期康有为、梁启超的思想
+	- [ ] 戊戌变法史事考 #bumingbai #must 
 - [ ] Prestige, Manipulation, and Coercion: Elite Power Struggles in the Soviet Union and China after Stalin and Mao
 - [ ] 文革前的鄧小平 (鍾延麟)
 - [ ] Seeking Truth and Hiding Facts: Information, Ideology, and Authoritarianism in China
@@ -117,13 +129,18 @@ My book reading list.
 	- [ ] 天地翻覆: 中国文化大革命历史
 - [ ] 尋找家園 (高爾泰) #bumingbai #must  
 - [ ] 毛澤東的大饑荒：中國浩劫史1958-1962
-- [ ] 上海生與死 (Life and Death in Shanghai)
+- [ ] Life and Death in Shanghai (Nien Cheng) #dasheng 
 - [ ] I Have No Enemies: The Life and Legacy of Liu Xiaobo #must 
-- [ ] 血殇 (高耀洁) #must 
+- 高耀洁
+	- [ ] 血殇 #must 
+	- [ ] 高潔的靈魂 #bumingbai #must 
+	- [ ] 疫症病案一百例 (高耀潔)
+	- [ ] 鏡頭下的真相—記中國愛滋病實況 #bumingbai #must 
+	- [ ] 悲惨时代 #dasheng 
+	- [ ] 高耀洁回忆与随想 #dasheng 
+	- [ ] 高耀洁行医往事 #dasheng #must 
+	- [ ] 一萬封信︰我所見聞的艾滋病、性病患者生存現狀 #dasheng 
 - [ ] The Great Exodus from China: Trauma, Memory, and Identity in Modern Taiwan
-- [ ] 高潔的靈魂 #bumingbai #must 
-- [ ] 疫症病案一百例 (高耀潔)
-- [ ] 鏡頭下的真相—記中國愛滋病實況 #bumingbai #must 
 - [ ] The Woman Back from Moscow: In Pursuit of Beauty: A Novel #bumingbai
 - [ ] Forty-Five Years in China, Reminiscences
 - [ ] Revolution of the Heart: A Genealogy of Love in China, 1900-1950
@@ -136,11 +153,6 @@ My book reading list.
 - [ ] 李作鵬回憶錄
 - [ ] 李锐口述往事 #must 
 - [ ] Betraying Big Brother: The Feminist Awakening in China
-- 王力雄
-	- [ ] 黄祸 #bumingbai 
-	- [ ] 转世 #bumingbai 
-	- [ ] 天葬——西藏的命运 #must 
-	- [ ] 我的西域，你的東土
 - [ ] The Sentinel State: Surveillance and the Survival of Dictatorship in China #bumingbai 
 - [ ] The Rise and Fall of the EAST: How Exams, Autocracy, Stability, and Technology Brought China Success, and Why They Might Lead to Its Decline #must #bumingbai 
 - [ ] 兄弟 (余华) #bumingbai #censor
@@ -148,14 +160,12 @@ My book reading list.
 - [ ] 毛泽东私人医生回忆录
 - [ ] 踏跡尋中: 四十年華南田野之旅 #bumingbai #must 
 - [ ] Terror Capitalism: Uyghur Dispossession and Masculinity in a Chinese City
-- [ ] In the Camps: China's High-Tech Penal Colony
+- [ ] In the Camps: China's High-Tech Penal Colony (Darren Byler) #dasheng 
 - [ ] 高耀潔憶往昔 #must 
-- [ ] 重返天安門 (林慕蓮) #must 
+- [ ] 重返天安門：在失憶的人民共和國，追尋六四的歷史真相 (林慕蓮) #bumingbai #must 
 - [ ] 人民解放軍的真相：中共200萬私軍的威脅、腐敗與野心
 - [ ] 敲鐘者言: 朱耀明牧師回憶錄 #must 
 - [ ] 被中國拘禁的2279日
-- [ ] 官場現形記 #fiction 
-- [ ] 老殘游記 #fiction 
 - [ ] China's Party Congress: Power, Legitimacy, and Institutional Manipulation (Guoguang Wu)
 - [ ] 中國民運反思 (胡平)
 - [ ] The Avoidable War: The Dangers of a Catastrophic Conflict between the US and Xi Jinping's China
@@ -183,6 +193,58 @@ My book reading list.
 	- [ ] 毛澤東和文化大革命：政治心理與文化基因的新闡釋 #must 
 	- [ ] 中外學者談文革
 	- [ ] 洗腦：毛澤東和後毛時代的中國與世界
+- 丁学良
+	- [ ] 革命與反革命追憶
+	- [ ] 我读天下无字书
+	- [ ] 液體的回憶
+- [ ] The United States and China (John King Fairbank) #must #bumingbai 
+- [ ] 尋找塵封的記憶: 抗戰時期民國空軍赴美受訓歷史及空難探秘 #people #history 
+- [ ] 李慎之与美国所 #history #people #must #bumingbai 
+- Roderick MacFarquhar (马若德)
+	- [ ] Mao's Last Revolution #Cultural-Revolution #history #bumingbai #must 
+- [ ] 堂堂正正做公民：我的自由中國 (許志永) #dasheng 
+- [ ] 江平先生法學思想述論：九十華誕祝賀文集 #dasheng #law 
+- 江平
+	- [ ] 沉浮与枯荣：八十自述 #dasheng 
+	- [ ] 法治天下：江平访谈录 #dasheng 
+- 汪精衛
+	- [ ] 此生何所為：汪精衛亂世抉擇
+	- [ ] 雲煙散憶：汪精衛女婿回顧動盪時代 (何孟恆)
+	- [ ] 汪精衛與現代中國 #dasheng 
+- [ ] 方勵之自傳：天體物理的開拓者，民主的啟蒙者 #dasheng #autobiography #must 
+- [ ] 國家VS農民：廣西大饑荒 #history #dasheng 
+- [ ] 閒話中國人 (易中天)
+- [ ] 黎安友论中国 #dasheng 
+- [ ] The Rise of Modern China (Immanuel C. Y. Hsu) #dasheng 
+- [ ] 弄潮兒：中國崛起中的行動者和推動者 (查建英) #dasheng 
+- [ ] A Force So Swift: Mao, Truman, and the Birth of Modern China, 1949 (Kevin Peraino) #history #dasheng 
+- [ ] 趙紫陽還說過什麼？：杜導正日記 #dasheng #must 
+- [ ] The People's Republic of Amnesia: Tiananmen Revisited (Louisa Lim) #dasheng #must #89-64
+- [ ] 人民不會忘記——八九民運實錄 #dasheng 
+- [ ] 一滴淚：從肅反到文革的回憶 (巫寧坤) #dasheng #must 
+- [ ] 毛澤東私人醫生回憶錄 #dasheng #must 
+- 高華
+	- [ ] 紅太陽是怎樣升起的 #dasheng #must 
+	- [ ] 歷史筆記 (I ＆ II)
+- [ ] Most Wanted Man in China: My Journey from Scientist to Enemy of the State (方励之) #people
+- [ ] An Anatomy of Chinese: Rhythm, Metaphor, Politics (Perry Link) #language #culture #must 
+- [ ] 晚清史事 (杨天石) #bumingbai 
+
+#### Contemporary
+- [ ] 茉莉花在中國：鎮壓與迫害實錄 #must #dasheng
+- [ ] 2017年，起來中國 (高智晟) #dasheng 
+- [ ] 習近平是如何成為一位超級政治強人的？──對一場柔性政變的持續觀察 #dasheng 
+- [ ] 動態清零之真相：「文革」不死 禍亂不止 #must 
+- [ ] 死磕正義：709案和中國的人權政治 #dasheng 
+- [ ] 她們的征途：直擊、迂迴與衝撞，中國女性的公民覺醒之路 #reporting #dasheng #must 
+- [ ] 武漢封城日記 (郭晶)
+- [ ] 武漢 (廖亦武) #novel 
+
+#### Fiction
+- [ ] 米拉蒂 (严歌苓) #novel #must 
+- [ ] 官場現形記 #fiction 
+- [ ] 老殘游記 #fiction 
+
 ### Europe
 - [ ] This is Europe: The Way We Live Now
 - [ ] The Taste of Ashes: The Afterlife of Totalitarianism in Eastern Europe
@@ -207,7 +269,11 @@ My book reading list.
 ### Hong Kong
 - [ ] 在夾縫中抵抗：從依法治國與司法抗爭的比較經驗看香港 #law
 - [ ] 同聲同氣：香港年長女同志口述歷史
-- [ ] 獨立路上：從前蘇聯省思香港未來
+- 梁啟智
+	- [ ] 香港公屋：方格子的吶喊 #must #dasheng 
+	- [ ] 獨立路上：從前蘇聯省思香港未來 #dasheng 
+	- [ ] 香港第一課 #dasheng 
+- [ ] 反抗的共同體：二〇一九香港反送中運動 #dasheng 
 
 ### India
 - [ ] Ants Among Elephants: An Untouchable Family and the Making of Modern India
@@ -262,12 +328,19 @@ My book reading list.
 
 ### North Korea
 - [ ] The Sister: The extraordinary story of Kim Yo Jong, the most powerful woman in North Korea
+- [ ] Nothing to Envy: Ordinary Lives in North Korea (Barbara Demick) #must 
 
 ### Pakistan
 - [ ] Three Cups of Tea: One Man's Mission to Promote Peace - One School at a Time #memoir #education #Islamic #must 
 
 ### Palestine
 - [ ] Minor Detail (Adania Shibli) #fiction 
+- Raja Shehadeh
+	- [ ] Palestinian Walks: Forays into a Vanishing Landscape #history #must 
+	- [ ] What Does Israel Fear from Palestine? #must 
+	- [ ] We Could Have Been Friends, My Father and I: A Palestinian Memoir
+	- [ ] A Rift in Time: Travels with My Ottoman Uncle
+- [ ] The Tale of a Wall: Reflections on the Meaning of Hope and Freedom #autobiography #history 
 
 ### Russia
 - [ ] All the Kremlin's Men: Inside the Court of Vladimir Putin
@@ -283,7 +356,6 @@ My book reading list.
 - [ ] A Long Goodbye: The Soviet Withdrawal from Afghanistan
 - [ ] Putin's Kleptocracy: Who Owns Russia?
 - [ ] The History of the Gulag: From Collectivization to the Great Terror
-- [ ] Gulag: A History (Anne Applebaum) #must 
 - [ ] Governing the World: The History of an Idea, 1815 to the Present
 - [ ] Hitler's Empire: Nazi Rule in Occupied Europe
 - [ ] The Long Hangover: Putin's New Russia and the Ghosts of the Past
@@ -294,6 +366,7 @@ My book reading list.
 	- [ ] Dancing Bears: True Stories about Longing for the Old Days
 	- [ ] What's Cooking in the Kremlin: A Modern History of Russia Through the Kitchen Door #history 
 - [ ] I Love Russia: Reporting from a Lost Country #history #journalist #must 
+- [ ] Conversations with Stalin (Milovan Djilas) #history #memoir 
 
 ### Spain
 - [ ] Spain in Our Hearts: Americans in the Spanish Civil War, 1936–1939 #history #fascism #politics #must 
@@ -340,6 +413,19 @@ My book reading list.
 - [ ] 帝國棄民：日本在臺灣「蕃界」內的統治（1874-1945） #history #translation-enhance #indigenous  #must 
 - [ ] 強制移住：臺灣高山原住民的分與離 #history #indigenous 
 - [ ] 第五道浪之後：阿美族水下獵人的海洋知識與傳統海域的保育與管理 #indigenous 
+- [ ] The Struggle for Taiwan: A History of America, China, and the Island Caught Between #history 
+- [ ] 斷裂的海：金門、馬祖，從國共前線到台灣偶然的共同體 #history 
+- 林孝庭
+	- [ ] 台海‧冷戰‧蔣介石：解密檔案中消失的台灣史1948-1988 #dasheng  #history #must 
+	- [ ] Accidental State: Chiang Kai-shek, the United States, and the Making of Taiwan #dasheng 
+	- [ ] 蔣經國的台灣時代：中華民國與冷戰下的台灣
+- [ ] Cold War Island: Quemoy on the Front Line (Michael Szonyi) #history 
+- 陳翠蓮
+	- [ ] 重探戰後臺灣政治史：美國、國民黨政府與臺灣社會的三方角力 #history #dasheng #must 
+	- [ ] 重構二二八：戰後美中體制、中國統治模式與臺灣 #dasheng 
+	- [ ] 自治之夢：日治時期到二二八的臺灣民主運動 #dasheng 
+- [ ] 百年追求：臺灣民主運動的故事 (陳翠蓮, 吳乃德, 胡慧玲) #dasheng 
+- [ ] 四六事件與臺灣大學 (陳翠蓮, 李鎧揚) #dasheng 
 
 ### Tibet
 - [ ] 殺劫：不可碰觸的記憶禁區，鏡頭下的西藏文革，第一次披露 #must 
@@ -357,7 +443,6 @@ My book reading list.
 - [x] Zelensky: A Biography (Serhii Rudenko) #people 
 - [x] The Fight of Our Lives: My Time with Zelenskyy, Ukraine's Battle for Democracy, and What It Means for the World (Iuliia Mendel) #memoir 
 - [ ] The Harvest of Sorrow: Soviet Collectivization and the Terror-Famine
-- [ ] Red Famine: Stalin's War on Ukraine #must 
 - [x] The Showman: Inside the Invasion That Shook the World and Made a Leader of Volodymyr Zelensky #must 
 - [ ] The Russo-Ukrainian War: The Return of History
 - [ ] The Gates of Europe: A History of Ukraine
@@ -429,7 +514,6 @@ My book reading list.
 - [ ] Timeless Paris (Marin Montagut)
 - [ ] Divine Gardens: Mayumi Oda and the San Francisco Zen Center #must #essay
 - [ ] The Roots of Romanticism (Isaiah Berlin) #bumingbai
-
 ## Business
 - [ ] Facebook: The Inside Story
 
@@ -451,6 +535,10 @@ My book reading list.
 - [ ] Unequal Childhoods: Class, Race, and Family Life
 - [ ] How Children Succeed: Grit, Curiosity, and the Hidden Power of Character
 - [ ] Happy Teachers Change the World: A Guide for Cultivating Mindfulness in Education #must #mindfulness 
+- Barbara Oakley
+	- [ ] A Mind For Numbers: How to Excel at Math and Science
+	- [ ] Learn Like a Pro: Science-Based Tools to Become Better at Anything #must 
+	- [ ] Uncommon Sense Teaching: Practical Insights in Brain Science to Help Students Learn
 
 ## Environment
 - [x] A Life on Our Planet: My Witness Statement and a Vision for the Future #must
@@ -466,6 +554,8 @@ My book reading list.
 - [ ] World as Lover, World as Self: Courage for Global Justice and Planetary Renewal
 - [ ] The Three Ages of Water: Prehistoric Past, Imperiled Present, and a Hope for the Future #must 
 - [ ] Fire Weather: A True Story from a Hotter World #must 
+- [ ] Amphibious Soul: Finding the wild in a tame world #must 
+- [ ] Climate Capitalism: Winning the Race to Zero Emissions and Solving the Crisis of Our Age #future 
 
 ## Feminism
 - [ ] Down Girl: The Logic of Misogyny
@@ -570,7 +660,6 @@ My book reading list.
 - [ ] The Actual Star: A Novel #sci-fi
 - [ ] I Kick and I Fly #must 
 - [ ] White Nights (Fyodor Dostoevsky)
-- [ ] The First Bad Man: A Novel #must #Miranda-July
 - [ ] The Joy Luck Club: A Novel (Amy Tan)
 - [ ] Stone Butch Blues (Leslie Feinberg) #autobiography #transgender
 - [ ] Forgottenness: A Novel (Tanja Maljartschuk) #time #trauma #identity
@@ -588,15 +677,18 @@ My book reading list.
 - [ ] The Lost Salt Gift of Blood (Alistair MacLeod) 
 - [ ] Interpreter of Maladies
 - [ ] Men Without Women (Ernest Miller Hemingway)
-- [x] No One Belongs Here More Than You: Stories #must 
 - [ ] Writing (ori: Écrire, Marguerite Duras)
 - [ ] A Manual for Cleaning Women: Selected Stories (Lucia Berlin) #female #must 
+- [ ] 而獨角獸倒立在歧路 (王仁劭) #dasheng #must 
 
 ### Society
 - [ ] Brave New World
 
 ## Finance
 - [ ] The Algebra of Wealth: A Simple Formula for Financial Security #must 
+- [ ] Tokens: The Future of Money in the Age of the Platform #money #future #must
+- [ ] The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness: Timeless lessons on wealth, greed, and happiness (Morgan Housel) #must #investment 
+- [ ] 100 Baggers: Stocks that Return 100-to-1 and How to Find Them #investment
 
 ## Food
 - [ ] Eat Like The Animals: What Nature Teaches Us About the Science of Healthy Eating
@@ -606,14 +698,21 @@ My book reading list.
 - [ ] Eating to Extinction: The World's Rarest Foods and Why We Need to Save Them #must 
 - [ ] The Berkeley Bowl Cookbook: Recipes Inspired by the Extraordinary Produce of California's Most Iconic Market #recipe
 - [ ] Things I Did When I Was Hangry: Navigating a Peaceful Relationship with Food #mindfulness #must 
-- [ ] Have You Eaten Yet: Stories from Chinese Restaurants Around the World #immigration
+- [ ] Have You Eaten Yet: Stories from Chinese Restaurants Around the World #immigration 
+- [ ] We Are What We Eat: A Slow Food Manifesto #foodthink 
+- [ ] 烟火三十六味 (三三) #travel #foodthink #China 
+- [ ] The Art of Fermentation (Sandor Ellix Katz) #science #must 
+- [ ] The Third Plate: Field Notes on the Future of Food #agriculture #must 
 
 ## Health
 - [ ] Chronic Pain Reset: 30 Days of Activities, Practices, and Skills to Help You Thrive
 - [ ] Beyond Satisfied: A Sex Hacker's Guide to Endless Orgasms, Mind-Blowing Connection, and Lasting Confidence #must 
 - [ ] Period (Emma Barnett)
 - [ ] Break Free from Maternal Anxiety: A Self-Help Guide for Pregnancy, Birth and the First Postnatal Year
-- [ ] This Is Assisted Dying: A Doctor's Story of Empowering Patients at the End of Life #must 
+- [ ] This Is Assisted Dying: A Doctor's Story of Empowering Patients at the End of Life #must  
+- [ ] Fast Carbs, Slow Carbs: The Simple Truth About Food, Weight, and Disease #foodthink
+- [ ] Virtual You: How Building Your Digital Twin Will Revolutionize Medicine and Change Your Life #future
+- [ ] Pathogenesis: How Germs Made History (Jonathan Kennedy) #history #must 
 
 ## History
 - [ ] How the World Really Works: A Scientist’s Guide to Our Past, Present and Future
@@ -664,7 +763,7 @@ My book reading list.
 - [ ] Open: The Story of Human Progress
 - [ ] The Fighters: Americans In Combat
 - [ ] Sisters of the War: Two Remarkable True Stories of Survival and Hope in Syria
-- [ ] Eat the Buddha: Life and Death in a Tibetan Town #must 
+- [ ] Eat the Buddha: Life and Death in a Tibetan Town (Barbara Demick) #dasheng #must 
 - [ ] Debt: The First 5,000 Years #must 
 - [ ] The Gift: The Form and Reason for Exchange in Archaic Societies
 - [ ] How to Feed a Dictator: Saddam Hussein, Idi Amin, Enver Hoxha, Fidel Castro, and Pol Pot Through the Eyes of Their Cooks (Witold Szablowski)
@@ -702,6 +801,11 @@ My book reading list.
 
 ## Language
 - [ ] Sympathy for the Traitor: A Translation Manifesto
+- [ ] How to Learn a Foreign Language (Paul Pimsleur) #education #must 
+- Stephen Krashen
+	- [ ] Comprehensible and Compelling: The Causes and Effects of Free Voluntary Reading
+	- [ ] English Learners in American Classrooms: 101 Questions, 101 Answers #must 
+- [ ] The Language Learner Guidebook: Powerful Tools to Help You Conquer Any Language (Shane Dixon) #must 
 
 ## Law
 - [ ] The Prosecutor: One Man’s Pursuit of Justice for the Voiceless
@@ -710,6 +814,7 @@ My book reading list.
 - [ ] Inventing Human Rights: A History #human-rights #history 
 - [ ] Just Mercy: A Story of Justice and Redemption #memoir #must 
 - [ ] 法律有關係：法律是什麼？怎麼變？如何影響我們生活？
+- [ ] Ancient Law: Its Connection with the Early History of Society, and Its Relation to Modern Ideas (Henry Sumner Maine) #anthropology #classics
 
 ## Life
 - [ ] How to be a Happier Parent: Raising a Family, Having a Life, and Loving (Almost) Every Minute
@@ -731,7 +836,6 @@ My book reading list.
 - Wang Gungwu
 	- [ ] Home is Not Here
 	- [ ] Home is Where We Are
-- [ ] It Chooses You (Miranda July)
 - Sefton Delmer
 	- [ ] Trail Sinister
 	- [ ] Black Boomerang
@@ -744,9 +848,12 @@ My book reading list.
 - [ ] Hijab Butch Blues: A Memoir #Islamic #immigration #queer #must 
 - [ ] Living the Good Life: How to Live Sanely and Simply in a Troubled World #must
 - [ ] Out of Egypt: A Memoir #bumingbai  #must 
+- [ ] Broken Girl: A true story (Bradley Trevor Greive, Caroline Laner Breure) #trauma 
+- [ ] 失敗者回憶錄 (李怡) #memoir #dasheng 
 
 ## Math
 - [ ] How Not to Be Wrong: The Power of Mathematical Thinking
+- [ ] Zero: The Biography of a Dangerous Idea
 
 ## Media
 - [ ] 真相製造：從聖戰士媽媽、極權政府、網軍教練、境外勢力、打假部隊、內容農場主人到政府小編
@@ -757,6 +864,7 @@ My book reading list.
 - [ ] The Body: A Guide for Occupants #anatomy #must 
 - [ ] In the Wars: A Doctor's Story of Conflict, Survival and Saving Lives #memoir #must 
 - [ ] The Knife’s Edge: The Heart and Mind of a Cardiac Surgeon #life #must 
+- [ ] 戰爭與藥物：從流感、生化武器、冰毒到創傷後壓力症候群……人氣藥學教授探索史上戰爭催生出的疾病與新藥物，以及醫藥發展所介入的人類戰事 #war #history #must #translation  #Korean 
 
 ## Nature
 - [ ] Biological Exuberance: Animal Homosexuality and Natural Diversity
@@ -780,6 +888,8 @@ My book reading list.
 	- [ ] Father Time: A Natural History of Men and Babies #sociobiology #must
 	- [ ] Mothers and Others: The Evolutionary Origins of Mutual Understanding #sociobiology #must 
 	- [ ] Mother Nature: Maternal Instincts and How They Shape the Human Species
+- [ ] The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness
+- [ ] The Book You Wish Your Parents Had Read (and Your Children Will Be Glad That You Did) #must 
 
 ## People
 - [ ] I am Malala
@@ -853,6 +963,7 @@ My book reading list.
 - [ ] The Lives of Michel Foucault #people 
 - [ ] The Agony of Eros (Byung-Chul Han) #love
 - [ ] Beauty: A Very Short Introduction #must 
+- [ ] If You Live To 100, You Might As Well Be Happy: Lessons for a Long and Joyful Life #aging #translation #Korean
 
 ## Photography
 - [ ] I Am Home: Portraits of Immigrant Teenagers
@@ -879,7 +990,6 @@ My book reading list.
 - [ ] Please Mrs Butler #children 
 
 ## Politics
-- [ ] Twilight of Democracy: The Seductive Lure of Authoritarianism #must 
 - [ ] The Power of the Powerless
 - [ ] The Opium of the Intellectuals #bumingbai 
 - [ ] The Washington Book: How to Read Politics and Politicians
@@ -904,6 +1014,7 @@ My book reading list.
 - [ ] Outsider in the White House (Bernie Sanders) #memoir #people #must 
 - [ ] The Power of the Powerless #must #bumingbai #history 
 - [ ] The Insiders’ Game: How Elites Make War and Peace #academy 
+- [ ] The Architecture of Modern Empire: Conversations with David Barsamian
 
 ## Psychology
 - [ ] Mirror Thinking: How Role Models Make Us Human
@@ -979,12 +1090,20 @@ My book reading list.
 - [ ] The Demon-Haunted World: Science as a Candle in the Dark #vision #must 
 - [x] The Smallest Lights in the Universe: A Memoir 
 
+### Biology
+- [ ] Rumbles: A Curious History of the Gut
+- [ ] The Immune Mind: The new science of health (Monty Lyman)
+- [ ] Eve: The Disobedient Future of Birth #future #technology
+
 ### Cosmology
 - [x] Brief Answers to the Big Questions (Stephen Hawking) #must 
 - [ ] Under Alien Skies: A Sightseer's Guide to the Universe #astronomy
 
 ### Neuroscience
 - [ ] Seeing the Mind: Spectacular Images from Neuroscience, and What They Reveal about Our Neuronal Selves #must 
+
+### Physics
+- [ ] The Beauty of Falling: A Life in Pursuit of Gravity #life #memoir  #must
 
 ### Unity
 - [ ] Consilience: The Unity of Knowledge (by Edward O.Willson) #must 
@@ -995,6 +1114,7 @@ My book reading list.
 ## Self-help
 - [ ] Tiny Habits: The Small Changes that Change Everything
 - [ ] Reinventing Your Life: The Breakthrough Program to End Negative Behavior and Feel Great Again #psychology 
+- [ ] If You Live To 100, You Might As Well Be Happy #philosophy 
 
 ## Sexuality
 - [ ] Testo Junkie: Sex, Drugs, and Biopolitics in the Pharmacopornographic Era #memoir #philosophy #gender 
@@ -1082,6 +1202,8 @@ My book reading list.
 - [ ] Black Skin, White Masks (Frantz Fanon) #racism
 - [ ] Speak Not: Empire, Identity and the Politics of Language #indigenous #history #language
 - [ ] The Souls of Black Folk #philosophy 
+- [ ] Imagination: A Manifesto #must #future
+- [ ] The Great Transformation: The Political and Economic Origins of Our Time (Karl Polanyi, Penguin Modern Classics) #fascism #classics #must 
 
 ## Spirituality
 - [ ] Not Quite Nirvana: A Skeptic's Journey to Mindfulness #must #memoir 
@@ -1104,6 +1226,8 @@ My book reading list.
 - [ ] Ten Arguments for Deleting Your Social Media Accounts Right Now
 - [x] Burn Book: A Tech Love Story #must 
 
+### Future
+- [ ] Quantum Supremacy: How the Quantum Computer Revolution Will Change Everything #must #quantum
 ### Human
 - [ ] Descartes' Error: Emotion, Reason and the Human Brain
 - [ ] Re-Engineering Humanity
@@ -1123,6 +1247,9 @@ My book reading list.
 ### Reading
 - [ ] How to Read a Book #must 
 
+### Robot
+- [ ] Imagination: A Manifesto #future 
+
 ### Strategy
 - [ ] Strategy: The Indirect Approach #war #military #must 
 ### Thinking
@@ -1131,6 +1258,14 @@ My book reading list.
 
 ### Albert Einstein
 - [ ] The World As I see It #bumingbai 
+
+### Anne Applebaum
+- [ ] Autocracy, Inc.: The Dictators Who Want to Run the World
+- [ ] Twilight of Democracy: The Seductive Lure of Authoritarianism #must 
+- [ ] Gulag: A History
+- [ ] Red Famine: Stalin's War on Ukraine
+- [ ] Iron Curtain: The Crushing of Eastern Europe, 1944-1956
+- [ ] Between East and West: Across the Borderlands of Europe
 
 ### Bruce Lee
 - [ ] Bruce Lee Library (https://www.amazon.com/dp/B08B8VS2X7) #must 
@@ -1166,6 +1301,13 @@ My book reading list.
 ### Mahatma Gandhi
 - [ ] Mohandas K. Gandhi, Autobiography: The Story of My Experiments with Truth #people #must
 - [ ] Gandhi: A Very Short Introduction #must 
+
+### Michael Pollan
+- [ ] How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence #psychology 
+- [ ] The Omnivore's Dilemma: A Natural History of Four Meals #foodthink #must 
+- [ ] In Defense of Food: An Eater's Manifesto #foodthink #must 
+- [ ] Cooked: A Natural History of Transformation #foodthink #must 
+
 ### Svetlana Alexievich
 - [ ] Voices from Chernobyl: The Oral History of a Nuclear Disaster
 - [ ] Secondhand Time: The Last of the Soviets #must #bumingbai 
@@ -1218,6 +1360,13 @@ My book reading list.
 - [ ] 末日倖存者的獨白: 關於我和「六・四」
 - [ ] 刘晓波纪念文集
 	- [ ] The Journey of Liu Xiaobo: From Dark Horse to Nobel Laureate
+- [ ] 混世魔王毛澤東
+- [ ] 統一就是奴役：劉曉波論臺灣、香港及西藏
+- [ ] 大國沈淪-寫給中國的備忘錄
+- [ ] 鐵窗後的自由
+- [ ] 從六四到零八：劉曉波的人權路
+- [ ] I Have No Enemies: The Life and Legacy of Liu Xiaobo (Perry Link, Dazhi Wu) #biography 
+- [ ] Liu Xiaobo's Empty Chair: Chronicling the Reform Movement Beijing Fears Most (Perry Link)
 
 ### 席慕蓉
 - [ ] 英雄時代 #must #poetry
@@ -1232,6 +1381,7 @@ My book reading list.
 ### 余英時
 - [ ] 余英時回憶錄 #must 
 - [ ] 余英時談話錄
+- [ ] 余英時評政治現實 #dasheng #must 
 
 ## Travel
 - [ ] Ocean of Insight: A Sailor's Voyage from Despair to Hope
@@ -1244,8 +1394,13 @@ My book reading list.
 - [ ] Inclusion on Purpose: An Intersectional Approach to Creating a Culture of Belonging at Work #must 
 - [ ] Working: People Talk About What They Do All Day and How They Feel About What They Do #must 
 - [ ] Private Government: How Employers Rule Our Lives (and Why We Don't Talk about It) #politics  #must 
+- [ ] Follow Your Dreams: 100 Inspiring And Extraordinary Jobs #must 
 
 ## Writers
+### Aleksandr Solzhenitsyn
+- [ ] The Gulag Archipelago #must 
+- [ ] In the First Circle #novel #fiction 
+
 ### Alice Walker
 - [ ] The Color Purple: A Novel #fiction #must 
 - [ ] In Search of Our Mothers' Gardens: Womanist Prose #essay #feminism
@@ -1253,8 +1408,18 @@ My book reading list.
 ### Dalai Lama
 - [ ] The Universe in a Single Atom: The Convergence of Science and Spirituality #must 
 
+### Gabriel García Márquez
+- [ ] Cien años de soledad
+
 ### Margaret Atwood
 - [ ] The Handmaid's Tale #fiction #novel #dystopian #feminism 
+
+### Miranda July
+- [ ] The First Bad Man: A Novel #fiction  #must 
+- [ ] It Chooses You
+- [x] No One Belongs Here More Than You: Stories #must #short-stories 
+- [ ] All Fours: A Novel #fiction #must 
+
 ### Kazuo Ishiguro
 - [ ] The Remains of the Day #fiction 
 
@@ -1269,6 +1434,19 @@ My book reading list.
 
 ### Stephen King
 - [ ] Night Shift #must 
+
+### 高行健
+- [ ] 靈山 #novel  #must 
+- [ ] 一個人的聖經 #novel 
+
+### 王力雄
+- [ ] 黄祸 #bumingbai 
+- [ ] 转世 #bumingbai 
+- [ ] 天葬——西藏的命运 #must 
+- [ ] 我的西域，你的東土
+- [ ] 遞進民主
+- [ ] 天葬 #novel 
+
 ## Lists
 
 - https://zh.wikipedia.org/zh-tw/香港遭審查下架書刊 #China
@@ -1294,6 +1472,7 @@ My book reading list.
 - [ ] 2022 — “Every Day the River Changes” by Jordan Salama
 - [x] 2023 — How to Stand Up to a Dictator: The Fight for our Future
 - [ ] 2024 — The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI #must 
+
 ## Series
 - [ ] Why It Matters (https://www.amazon.com/dp/B08BF9MK61)
 - [ ] 向下扎根！德國最受歡迎的思辨讀本系列 1～7
@@ -1301,6 +1480,7 @@ My book reading list.
 - [ ] The Last Interview: https://www.amazon.com/dp/B084R7T3JZ
 - [ ] Very Short Introductions (OUP): https://global.oup.com/academic/content/series/v/very-short-introductions-vsi
 - [ ] Harvard Library of Ukrainian Literature: https://books.huri.harvard.edu/series/harvard-library-of-ukrainian-literature
+- [ ] 壹嘉个人史: https://1plusbooks.com/壹嘉个人史
 - Princeton
 	- [ ] The University Center for Human Values Series
 
