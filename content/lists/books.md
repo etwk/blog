@@ -229,6 +229,7 @@ My book reading list.
 - [ ] Most Wanted Man in China: My Journey from Scientist to Enemy of the State (方励之) #people
 - [ ] An Anatomy of Chinese: Rhythm, Metaphor, Politics (Perry Link) #language #culture #must 
 - [ ] 晚清史事 (杨天石) #bumingbai 
+- [ ] Other Rivers: A Chinese Education #education #memoir #bumingbai #must 
 
 #### Contemporary
 - [ ] 茉莉花在中國：鎮壓與迫害實錄 #must #dasheng
@@ -283,6 +284,7 @@ My book reading list.
 - [ ] The White Tiger: A Novel #fiction 
 - [ ] Lab Hopping: Women Scientists in India #must 
 - [ ] The Good Girls: An Ordinary Killing #history 
+- [ ] The Incarcerations: BK-16 and the Search for Democracy in India
 
 ### Iran
 - [ ] Prison in Iran: A Known Unknown
@@ -341,6 +343,7 @@ My book reading list.
 	- [ ] We Could Have Been Friends, My Father and I: A Palestinian Memoir
 	- [ ] A Rift in Time: Travels with My Ottoman Uncle
 - [ ] The Tale of a Wall: Reflections on the Meaning of Hope and Freedom #autobiography #history 
+- [ ] HAMAS: The Quest for Power (Beverley Milton-Edwards, Stephen Farrell)
 
 ### Russia
 - [ ] All the Kremlin's Men: Inside the Court of Vladimir Putin
@@ -367,6 +370,7 @@ My book reading list.
 	- [ ] What's Cooking in the Kremlin: A Modern History of Russia Through the Kitchen Door #history 
 - [ ] I Love Russia: Reporting from a Lost Country #history #journalist #must 
 - [ ] Conversations with Stalin (Milovan Djilas) #history #memoir 
+- [ ] In Their Own Words: How Russian Propagandists Reveal Putin’s Intentions (Julia Davis) #Ukrainian-Voices
 
 ### Spain
 - [ ] Spain in Our Hearts: Americans in the Spanish Civil War, 1936–1939 #history #fascism #politics #must 
@@ -438,6 +442,7 @@ My book reading list.
 ### UK
 - [ ] Error of Judgement: The Birmingham Bombings and the Scandal That Shook Britain
 - [ ] Empireworld: How British Imperialism Has Shaped the Globe #history 
+- [ ] Keir Starmer: The Biography #people #must 
 
 ### Ukraine
 - [x] Zelensky: A Biography (Serhii Rudenko) #people 
@@ -462,6 +467,7 @@ My book reading list.
 - [ ] Ivan and Phoebe: A Novel (Oksana Lutsysyna) #novel #fiction #revolution #female 
 - [ ] Sky Above Kharkiv: Dispatches from the Ukrainian Front (Serhiy Zhadan) #reporting #war
 - [ ] The War Came To Us: Life and Death in Ukraine #must 
+- [ ] The Language of War (Oleksandr Mykhed) #record
 
 ### USA
 - [ ] Civilizing Torture: An American Tradition
@@ -500,6 +506,13 @@ My book reading list.
 - [ ] Black Like Me #racism #history #liberty #must 
 - [ ] Merchants of the Right: Gun Sellers and the Crisis of American Democracy
 - [ ] Stamped from the Beginning: The Definitive History of Racist Ideas in America #racism #history #must 
+- [ ] America's Deadliest Election: The Cautionary Tale of the Most Violent Election in American History #politics 
+- Pete Buttigieg
+	- [ ] Shortest Way Home: One Mayor's Challenge and a Model for America's Future #memoir #must 
+	- [ ] Trust: America's Best Chance #opinions
+- [ ] The Art of Power: My Story as America's First Woman Speaker of the House #politics #female #autobiography  #must 
+- [ ] Who Could Ever Love You: A Family Memoir (Mary L. Trump PhD)
+- [ ] The Truths We Hold: An American Journey (Kamala Harris) #biography #must 
 
 ### Vietnam
 - [ ] 越南現代小說選 (羅漪文 譯) #fiction #novel #must 
@@ -539,6 +552,10 @@ My book reading list.
 	- [ ] A Mind For Numbers: How to Excel at Math and Science
 	- [ ] Learn Like a Pro: Science-Based Tools to Become Better at Anything #must 
 	- [ ] Uncommon Sense Teaching: Practical Insights in Brain Science to Help Students Learn
+- Ken Bain
+	- [ ] What the Best College Teachers Do
+	- [ ] Super Courses: The Future of Teaching and Learning
+- [ ] 100 TESOL Activities: Practical ESL/EFL Activities for the Communicative Classroom
 
 ## Environment
 - [x] A Life on Our Planet: My Witness Statement and a Vision for the Future #must
@@ -556,6 +573,7 @@ My book reading list.
 - [ ] Fire Weather: A True Story from a Hotter World #must 
 - [ ] Amphibious Soul: Finding the wild in a tame world #must 
 - [ ] Climate Capitalism: Winning the Race to Zero Emissions and Solving the Crisis of Our Age #future 
+- [ ] Earth for All: A Survival Guide for Humanity #economy #climate-crisis #must 
 
 ## Feminism
 - [ ] Down Girl: The Logic of Misogyny
@@ -624,6 +642,7 @@ My book reading list.
 - [ ] Gender Trouble: Feminism and the Subversion of Identity (Judith Butler) #theory
 - [ ] My Body (Emily Ratajkowski) #memoir #must 
 - [ ] Entitled: How Male Privilege Hurts Women #philosophy 
+- [ ] Sister in Law: Fighting for Justice in a System Designed by Men (Harriet Wistrich) #law #justice #real-stories 
 
 ## Fiction
 - [ ] All Quiet on the Western Front
@@ -663,6 +682,8 @@ My book reading list.
 - [ ] The Joy Luck Club: A Novel (Amy Tan)
 - [ ] Stone Butch Blues (Leslie Feinberg) #autobiography #transgender
 - [ ] Forgottenness: A Novel (Tanja Maljartschuk) #time #trauma #identity
+- [ ] Burma Sahib: A Novel: A Riveting Historical Fiction Exploring the Transformation of Eric Blair into George Orwell #people #bumingbai 
+- [ ] The Sympathizer #Vietnam #bumingbai 
 
 ### Plays
 - [ ] English / Wish You Were Here: Two Plays #must 
@@ -680,6 +701,7 @@ My book reading list.
 - [ ] Writing (ori: Écrire, Marguerite Duras)
 - [ ] A Manual for Cleaning Women: Selected Stories (Lucia Berlin) #female #must 
 - [ ] 而獨角獸倒立在歧路 (王仁劭) #dasheng #must 
+- [ ] Concerning the Future of Souls: 99 Stories of Azrael (Joy Williams)
 
 ### Society
 - [ ] Brave New World
@@ -874,6 +896,7 @@ My book reading list.
 - [ ] The Underworld: Journeys to the Depths of the Ocean
 - [ ] Every Living Thing: The Great and Deadly Race to Know All Life #history 
 - [ ] Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures #must 
+- [ ] Deep Water: The World in the Ocean 
 
 ## Parenting
 - [ ] There Are Moms Way Worse Than You: Irrefutable Proof That You Are Indeed a Fantastic Parent #picture
@@ -951,6 +974,7 @@ My book reading list.
 - Nelson Mandela
 	- [ ] Long Walk to Freedom: The Autobiography of Nelson Mandela #must 
 	- [ ] Nelson Mandela: A Very Short Introduction
+- [ ] A Hand to Guide Me (Denzel Washington) #must 
 ## Philosophy
 - [ ] The Body in Pain: The Making and Unmaking of the World
 - [ ] Meditations (Marcus Aurelius)
@@ -1015,6 +1039,7 @@ My book reading list.
 - [ ] The Power of the Powerless #must #bumingbai #history 
 - [ ] The Insiders’ Game: How Elites Make War and Peace #academy 
 - [ ] The Architecture of Modern Empire: Conversations with David Barsamian
+- [ ] How Civil Wars Start: And How to Stop Them (Barbara F. Walter) #must 
 
 ## Psychology
 - [ ] Mirror Thinking: How Role Models Make Us Human
@@ -1043,6 +1068,7 @@ My book reading list.
 - [ ] Darwin's Unfinished Symphony: How Culture Made the Human Mind
 - [ ] Trauma And Recovery: The Aftermath Of Violence- From Domestic Abuse To Political Terror #trauma #must 
 - [ ] The Art of Loving (Erich Fromm) #love #theory  #must 
+- [ ] The Psychology of Secrets: My Adventures with Murderers, Cults and Influencers (Andrew Gold) #interactions #social-science
 
 ## Relationship
 - [ ] Never Eat Alone, Expanded and Updated: And Other Secrets to Success, One Relationship at a Time
@@ -1204,6 +1230,8 @@ My book reading list.
 - [ ] The Souls of Black Folk #philosophy 
 - [ ] Imagination: A Manifesto #must #future
 - [ ] The Great Transformation: The Political and Economic Origins of Our Time (Karl Polanyi, Penguin Modern Classics) #fascism #classics #must 
+- [ ] Minority Leader: How to Lead from the Outside and Make Real Change (Stacey Abrams) #human-rights #racism #discrimination #must 
+- [ ] A Brief History of Equality (Thomas Piketty) #history 
 
 ## Spirituality
 - [ ] Not Quite Nirvana: A Skeptic's Journey to Mindfulness #must #memoir 
@@ -1211,9 +1239,11 @@ My book reading list.
 - [ ] Ten Breaths to Happiness: Touching Life in its Fullness
 - [ ] A Fierce Heart: Finding Strength, Courage, and Wisdom in Any Moment
 - [x] Inner Engineering: A Yogi's Guide to Joy #meditation #yoga
+
 ### Buddhism
 - [ ] Tell Me Something about Buddhism: Questions and Answers for the Curious Beginner #must #Buddhism #Zen
 - [ ] Buddhism: A Very Short Introduction #must 
+- [ ] The River in Me: Verses of Transformation (Sister Dang Nghiem) #Zen #poetry 
 
 ## Teaching
 - [ ] Reading Lessons: The books we read at school, the conversations they spark and why they matter #must 
@@ -1227,7 +1257,9 @@ My book reading list.
 - [x] Burn Book: A Tech Love Story #must 
 
 ### Future
-- [ ] Quantum Supremacy: How the Quantum Computer Revolution Will Change Everything #must #quantum
+- [ ] Quantum Supremacy: How the Quantum Computer Revolution Will Change Everything #quantum
+- [ ] The Singularity Is Nearer: When We Merge with AI (Ray Kurzweil) #must 
+
 ### Human
 - [ ] Descartes' Error: Emotion, Reason and the Human Brain
 - [ ] Re-Engineering Humanity
@@ -1341,6 +1373,8 @@ My book reading list.
 - [ ] Stepping into Freedom: An Introduction to Buddhist Monastic Training #must #practice
 - [ ] At Home in the World: Stories and Essential Teachings from a Monk’s Life #must 
 - [ ] Old Path White Clouds: Walking in the Footsteps of the Buddha #Buddhism #must 
+- [ ] Love in Action: Writings on Nonviolent Social Change (Second Edition)
+
 ### Toni Morrison
 - [ ] Sula
 - [ ] The Bluest Eye
@@ -1352,9 +1386,10 @@ My book reading list.
 - [ ] When the Facts Change: Essays, 1995-2010 #must 
 - [ ] The Burden of Responsibility: Blum, Camus, Aron, and the French Twentieth Century
 ### Yuval Noah Harari
+- [ ] Nexus: A Brief History of Information Networks from the Stone Age to AI
 - [ ] Unstoppable Us (Volume 1, 2)
-- [ ] Sapiens: A Brief History of Humankind #must 
-- [ ] Homo Deus: A Brief History of Tomorrow #must 
+- [ ] Sapiens: A Brief History of Humankind
+- [ ] Homo Deus: A Brief History of Tomorrow 
 
 ### 劉曉波
 - [ ] 末日倖存者的獨白: 關於我和「六・四」
@@ -1377,6 +1412,7 @@ My book reading list.
 - [ ] 江上的母亲
 - [ ] 父亲的战争
 - [ ] 大地呻吟 #must 
+- [ ] 故交半零落
 
 ### 余英時
 - [ ] 余英時回憶錄 #must 
@@ -1405,6 +1441,12 @@ My book reading list.
 - [ ] The Color Purple: A Novel #fiction #must 
 - [ ] In Search of Our Mothers' Gardens: Womanist Prose #essay #feminism
 
+### August Wilson
+- [ ] Ma Rainey's Black Bottom: A Play
+- [ ] The Piano Lesson
+- [ ] Seven Guitars
+- [ ] Fences #must 
+
 ### Dalai Lama
 - [ ] The Universe in a Single Atom: The Convergence of Science and Spirituality #must 
 
@@ -1431,6 +1473,9 @@ My book reading list.
 ### Octavia E. Butler
 - [ ] Bloodchild and Other Stories #sci-fi #short-stories
 - [ ] Octavia E. Butler: The Last Interview: and Other Conversations
+
+### Stacey Abrams
+- [ ] Rogue Justice: A Thriller #politics 
 
 ### Stephen King
 - [ ] Night Shift #must 
@@ -1506,3 +1551,4 @@ My book reading list.
 	- border: Afghanistan, Bhutan, India, Kazakhstan, Kyrgyzstan, Laos, Mongolia, Myanmar, Nepal, North Korea, Pakistan, Russia, Tajikistan, Vietnam
 	- sea border: Brunei, Indonesia, Japan, Malaysia, Philippines, South Korea, Taiwan, Vietnam
 - #censor : might be a result under censorship
+- series: #Ukrainian-Voices
