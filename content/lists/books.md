@@ -568,7 +568,7 @@ My book reading list.
 - [ ] The Uninhabitable Earth: Life After Warming
 - [ ] Pass it On: Five Stories That Can Change the World #must 
 - [ ] Radical Love: From Separation to Connection with the Earth, Each Other, and Ourselves (Satish Kumar)
-- [ ] World as Lover, World as Self: Courage for Global Justice and Planetary Renewal
+- [ ] World as Lover, World as Self: Courage for Global Justice and Planetary Renewal (Joanna Macy)
 - [ ] The Three Ages of Water: Prehistoric Past, Imperiled Present, and a Hope for the Future #must 
 - [ ] Fire Weather: A True Story from a Hotter World #must 
 - [ ] Amphibious Soul: Finding the wild in a tame world #must 
@@ -1239,11 +1239,14 @@ My book reading list.
 - [ ] Ten Breaths to Happiness: Touching Life in its Fullness
 - [ ] A Fierce Heart: Finding Strength, Courage, and Wisdom in Any Moment
 - [x] Inner Engineering: A Yogi's Guide to Joy #meditation #yoga
+- [ ] The Seven Storey Mountain (Thomas Merton) #must
+- [ ] Nothing To It: Ten Ways to Be at Home with Yourself (Brother Phap Hai)
 
 ### Buddhism
 - [ ] Tell Me Something about Buddhism: Questions and Answers for the Curious Beginner #must #Buddhism #Zen
 - [ ] Buddhism: A Very Short Introduction #must 
 - [ ] The River in Me: Verses of Transformation (Sister Dang Nghiem) #Zen #poetry 
+- [ ] Solid Ground: Buddhist Wisdom for Difficult Times (Sylvia Boorstein, Norman Fisher)
 
 ## Teaching
 - [ ] Reading Lessons: The books we read at school, the conversations they spark and why they matter #must 
@@ -1374,6 +1377,7 @@ My book reading list.
 - [ ] At Home in the World: Stories and Essential Teachings from a Monk’s Life #must 
 - [ ] Old Path White Clouds: Walking in the Footsteps of the Buddha #Buddhism #must 
 - [ ] Love in Action: Writings on Nonviolent Social Change (Second Edition)
+- [ ] Answers from the Heart
 
 ### Toni Morrison
 - [ ] Sula
