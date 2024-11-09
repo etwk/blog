@@ -22,6 +22,7 @@ My book reading list.
 - [ ] Claude Levi-Strauss: The Father of Modern Anthropology #people 
 - [ ] My Life as a Spy: Investigations in a Secret Police File #memoir 
 - [ ] Ultrasociety: How 10,000 Years of War Made Humans the Greatest Cooperators on Earth
+- [ ] Men: Evolutionary and Life History (Richard G. Bribiescas)
 
 ## Areas
 ### Afghanistan
@@ -29,6 +30,7 @@ My book reading list.
 - Åsne Seierstad
 	- [ ] The Afghans: Three lives through war, love and revolt
 	- [ ] The Bookseller Of Kabul #biography
+
 ### Australia
 - [ ] Wild Dog Dreaming: Love and Extinction #nature #indigenous
 
@@ -230,6 +232,8 @@ My book reading list.
 - [ ] An Anatomy of Chinese: Rhythm, Metaphor, Politics (Perry Link) #language #culture #must 
 - [ ] 晚清史事 (杨天石) #bumingbai 
 - [ ] Other Rivers: A Chinese Education #education #memoir #bumingbai #must 
+- [ ] 申泮文的西南联大 (申泮文) #history #must 
+- [ ] 江南困局 (唐元鹏) #must 
 
 #### Contemporary
 - [ ] 茉莉花在中國：鎮壓與迫害實錄 #must #dasheng
@@ -285,6 +289,7 @@ My book reading list.
 - [ ] Lab Hopping: Women Scientists in India #must 
 - [ ] The Good Girls: An Ordinary Killing #history 
 - [ ] The Incarcerations: BK-16 and the Search for Democracy in India
+- [ ] The Golden Road: How Ancient India Transformed the World (William Dalrymple) #history #math #must 
 
 ### Iran
 - [ ] Prison in Iran: A Known Unknown
@@ -300,6 +305,7 @@ My book reading list.
 - [ ] The Wind in My Hair: My Fight for Freedom in Modern Iran #must #memoir 
 - [ ] Until We Are Free: My Fight for Human Rights in Iran #must #memoir 
 - [ ] Reading Lolita in Tehran: A Memoir in Books #memoir #must 
+- [ ] Target Tehran: How Mossad Is Using Sabotage, Cyberwarfare, Assassination – and Secret Diplomacy – to Realign the Middle East (Yonah Jeremy Bob, Ilan Evyatar) #history 
 
 ### Japan
 - [ ] The Book of Japanese Folklore: An Encyclopedia of the Spirits, Monsters, and Yokai of Japanese Myth
@@ -344,6 +350,7 @@ My book reading list.
 	- [ ] A Rift in Time: Travels with My Ottoman Uncle
 - [ ] The Tale of a Wall: Reflections on the Meaning of Hope and Freedom #autobiography #history 
 - [ ] HAMAS: The Quest for Power (Beverley Milton-Edwards, Stephen Farrell)
+- [ ] I Shall Not Hate: A Gaza Doctor's Journey on the Road to Peace and Human Dignity (Izzeldin Abuelaish) #history  
 
 ### Russia
 - [ ] All the Kremlin's Men: Inside the Court of Vladimir Putin
@@ -371,6 +378,7 @@ My book reading list.
 - [ ] I Love Russia: Reporting from a Lost Country #history #journalist #must 
 - [ ] Conversations with Stalin (Milovan Djilas) #history #memoir 
 - [ ] In Their Own Words: How Russian Propagandists Reveal Putin’s Intentions (Julia Davis) #Ukrainian-Voices
+- [ ] Endgame 1944: How Stalin Won the War (Jonathan Dimbleby) #history #must 
 
 ### Spain
 - [ ] Spain in Our Hearts: Americans in the Spanish Civil War, 1936–1939 #history #fascism #politics #must 
@@ -468,6 +476,7 @@ My book reading list.
 - [ ] Sky Above Kharkiv: Dispatches from the Ukrainian Front (Serhiy Zhadan) #reporting #war
 - [ ] The War Came To Us: Life and Death in Ukraine #must 
 - [ ] The Language of War (Oleksandr Mykhed) #record
+- [ ] The Wild West of Eastern Europe: A Ukrainian Guide on Breaking Free from Empire
 
 ### USA
 - [ ] Civilizing Torture: An American Tradition
@@ -512,7 +521,10 @@ My book reading list.
 	- [ ] Trust: America's Best Chance #opinions
 - [ ] The Art of Power: My Story as America's First Woman Speaker of the House #politics #female #autobiography  #must 
 - [ ] Who Could Ever Love You: A Family Memoir (Mary L. Trump PhD)
-- [ ] The Truths We Hold: An American Journey (Kamala Harris) #biography #must 
+- [ ] Defectors: The Rise of the Latino Far Right and What It Means for America (Paola Ramos) #politics 
+- [ ] War (Bob Woodward) #politics #must 
+- [ ] Behold, America: The Entangled History of "America First" and "the American Dream" (Sarah Churchwell) #history 
+- [ ] Prequel: An American Fight Against Fascism (Rachel Maddow) #history 
 
 ### Vietnam
 - [ ] 越南現代小說選 (羅漪文 譯) #fiction #novel #must 
@@ -527,6 +539,7 @@ My book reading list.
 - [ ] Timeless Paris (Marin Montagut)
 - [ ] Divine Gardens: Mayumi Oda and the San Francisco Zen Center #must #essay
 - [ ] The Roots of Romanticism (Isaiah Berlin) #bumingbai
+
 ## Business
 - [ ] Facebook: The Inside Story
 
@@ -543,6 +556,7 @@ My book reading list.
 - [ ] Why Nations Fail: The Origins of Power, Prosperity, and Poverty #politics #history #must 
 - [ ] Chip War: The Fight for the World's Most Critical Technology #history 
 - [ ] Slouching Towards Utopia: An Economic History of the Twentieth Century #history 
+- [ ] The System: Who Rigged It, How We Fix It (Robert B. Reich) #must 
 
 ## Education
 - [ ] Unequal Childhoods: Class, Race, and Family Life
@@ -556,6 +570,7 @@ My book reading list.
 	- [ ] What the Best College Teachers Do
 	- [ ] Super Courses: The Future of Teaching and Learning
 - [ ] 100 TESOL Activities: Practical ESL/EFL Activities for the Communicative Classroom
+- [ ] A Culture of Happiness: How to Scale Up Happiness from People to Organizations (Tho Ha Vinh) #happiness #must 
 
 ## Environment
 - [x] A Life on Our Planet: My Witness Statement and a Vision for the Future #must
@@ -574,6 +589,11 @@ My book reading list.
 - [ ] Amphibious Soul: Finding the wild in a tame world #must 
 - [ ] Climate Capitalism: Winning the Race to Zero Emissions and Solving the Crisis of Our Age #future 
 - [ ] Earth for All: A Survival Guide for Humanity #economy #climate-crisis #must 
+- [ ] What If We Get It Right?: Visions of Climate Futures (Ayana Elizabeth Johnson) #must 
+- [ ] Soil, Soul, Society: A New Trinity for Our Time (Satish Kumar) #meditation 
+- [ ] Cradle to Cradle: Remaking the Way We Make Things (William McDonough, Michael Braungart) #must #sustainability
+- [ ] The Upcycle: Beyond Sustainability--Designing for Abundance (William McDonough, Michael Braungart) #sustainability 
+- [ ] The Heat Will Kill You First: Life and Death on a Scorched Planet (Jeff Goodell)
 
 ## Feminism
 - [ ] Down Girl: The Logic of Misogyny
@@ -668,6 +688,7 @@ My book reading list.
 ### Children 
 - [ ] Out of the Hitler Time (trilogy) #must
 - [ ] The Coconut Monk (Thich Nhat Hanh)
+- [ ] Ban This Book: A Novel (Alan Gratz) #politics #must 
 
 ### Novel
 - [ ] Anna Karenina (Rosamund Bartlett translation version) #bumingbai 
@@ -702,6 +723,7 @@ My book reading list.
 - [ ] A Manual for Cleaning Women: Selected Stories (Lucia Berlin) #female #must 
 - [ ] 而獨角獸倒立在歧路 (王仁劭) #dasheng #must 
 - [ ] Concerning the Future of Souls: 99 Stories of Azrael (Joy Williams)
+- [ ] A Cage Went in Search of a Bird: Ten Kafkaesque Stories
 
 ### Society
 - [ ] Brave New World
@@ -709,8 +731,19 @@ My book reading list.
 ## Finance
 - [ ] The Algebra of Wealth: A Simple Formula for Financial Security #must 
 - [ ] Tokens: The Future of Money in the Age of the Platform #money #future #must
-- [ ] The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness: Timeless lessons on wealth, greed, and happiness (Morgan Housel) #must #investment 
-- [ ] 100 Baggers: Stocks that Return 100-to-1 and How to Find Them #investment
+
+### Investment
+- [ ] 100 Baggers: Stocks that Return 100-to-1 and How to Find Them
+- [ ] A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Burton G. Malkiel) #stock #must
+- [x] How to Day Trade: The Plain Truth (Ross Cameron) #must 
+- [ ] The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness: Timeless lessons on wealth, greed, and happiness (Morgan Housel) #must 
+- Scott Nations
+	- [ ] The Anxious Investor: Mastering the Mental Game of Investing
+	- [ ] A History of the United States in Five Crashes: Stock Market Meltdowns That Defined a Nation #must 
+- [ ] Stocks for the Long Run: The Definitive Guide to Financial Market Returns & Long-Term Investment Strategies (Jeremy J. Siegel) #must 
+- [ ] Dark Pools: The Rise of the Machine Traders and the Rigging of the U.S. Stock Market (Scott Patterson) #must 
+- [ ] Trade Mindfully: Achieve Your Optimum Trading Performance with Mindfulness and Cutting-Edge Psychology (Gary Dayton) #trading #must 
+- [ ] 100 to 1 in the Stock Market: A Distinguished Security Analyst Tells How to Make More of Your Investment Opportunities (Thomas W. Phelps) #must 
 
 ## Food
 - [ ] Eat Like The Animals: What Nature Teaches Us About the Science of Healthy Eating
@@ -725,6 +758,10 @@ My book reading list.
 - [ ] 烟火三十六味 (三三) #travel #foodthink #China 
 - [ ] The Art of Fermentation (Sandor Ellix Katz) #science #must 
 - [ ] The Third Plate: Field Notes on the Future of Food #agriculture #must 
+- [ ] Frostbite: How Refrigeration Changed Our Food, Our Planet, and Ourselves (Nicola Twilley)
+
+## Gender
+- [ ] Better Boys, Better Men: The New Masculinity That Creates Greater Courage and Emotional Resiliency (Andrew Reiner) #must 
 
 ## Health
 - [ ] Chronic Pain Reset: 30 Days of Activities, Practices, and Skills to Help You Thrive
@@ -735,6 +772,7 @@ My book reading list.
 - [ ] Fast Carbs, Slow Carbs: The Simple Truth About Food, Weight, and Disease #foodthink
 - [ ] Virtual You: How Building Your Digital Twin Will Revolutionize Medicine and Change Your Life #future
 - [ ] Pathogenesis: How Germs Made History (Jonathan Kennedy) #history #must 
+- [ ] The Living Medicine: How a Lifesaving Cure Was Nearly Lost―and Why It Will Rescue Us When Antibiotics Fail (Lina Zeldovich)
 
 ## History
 - [ ] How the World Really Works: A Scientist’s Guide to Our Past, Present and Future
@@ -816,6 +854,8 @@ My book reading list.
 - [ ] Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland #Holocaust
 - [ ] The Guns of August #WWI #must 
 - [ ] Atoms and Ashes: A Global History of Nuclear Disasters
+- [ ] The Missing Thread: A Women's History of the Ancient World (Daisy Dunn) #female 
+- [ ] At the Edge of Empire: A Family's Reckoning with China (Edward Wong) #memoir #China 
 
 ## Journalism
 - [ ] No Ordinary Assignment #memoir #war #female #must 
@@ -872,6 +912,13 @@ My book reading list.
 - [ ] Out of Egypt: A Memoir #bumingbai  #must 
 - [ ] Broken Girl: A true story (Bradley Trevor Greive, Caroline Laner Breure) #trauma 
 - [ ] 失敗者回憶錄 (李怡) #memoir #dasheng 
+- [ ] Broken Threads: My Family From Empire to Independence (Mishal Husain) #memoir #India
+- [ ] 与你同行 (曲艺) #cancer #health #love #must 
+- [ ] Stay True: A Memoir (Hua Hsu)
+- [ ] Something Lost, Something Gained: Reflections on Life, Love, and Liberty (Hillary Rodham Clinton) #female #history #must 
+- [ ] Sonny Boy: A Memoir (Al Pacino) #must 
+- [ ] The Soul of a Butterfly: Reflections on Life's Journey (Muhammad Ali, Hana Yasmeen Ali) #memoir #must 
+- [ ] Ali: A Life (Jonathan Eig) #must 
 
 ## Math
 - [ ] How Not to Be Wrong: The Power of Mathematical Thinking
@@ -887,6 +934,19 @@ My book reading list.
 - [ ] In the Wars: A Doctor's Story of Conflict, Survival and Saving Lives #memoir #must 
 - [ ] The Knife’s Edge: The Heart and Mind of a Cardiac Surgeon #life #must 
 - [ ] 戰爭與藥物：從流感、生化武器、冰毒到創傷後壓力症候群……人氣藥學教授探索史上戰爭催生出的疾病與新藥物，以及醫藥發展所介入的人類戰事 #war #history #must #translation  #Korean 
+
+## Meditation
+- Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life (Jon Kabat-Zinn PhD) #mindfulness #must #trading
+
+## Memoir
+- [ ] Patriot: A Memoir (Alexei Navalny) #must 
+- [ ] Bits and Pieces: My Mother, My Brother, and Me (Whoopi Goldberg) #must 
+- [ ] Lovely One: A Memoir (Ketanji Brown Jackson)
+- [ ] Finding Me (Viola Davis)
+- [ ]  The Truths We Hold: An American Journey (Kamala Harris) #must 
+
+## Movements
+- [ ] Unbroken Wholeness: Six Pathways to the Beloved Community: Integrating Social Justice, Emotional Healing, and Spiritual Practice (John Bell) #must #spirituality 
 
 ## Nature
 - [ ] Biological Exuberance: Animal Homosexuality and Natural Diversity
@@ -913,6 +973,7 @@ My book reading list.
 	- [ ] Mother Nature: Maternal Instincts and How They Shape the Human Species
 - [ ] The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness
 - [ ] The Book You Wish Your Parents Had Read (and Your Children Will Be Glad That You Did) #must 
+- [ ] Mother Brain: How Neuroscience Is Rewriting the Story of Parenthood (Chelsea Conaboy)
 
 ## People
 - [ ] I am Malala
@@ -958,7 +1019,6 @@ My book reading list.
 - [ ] Curriculum Vitae: A Volume of Autobiography
 - [ ] Hite Report on Shere Hite: Voice of a Daughter in Exile #must 
 - [ ] Just as I Am: A Memoir (Cicely Tyson) #must 
-- [ ] Finding Me (Viola Davis)
 - [ ] The Rulebreaker: The Life and Times of Barbara Walters
 - [ ] Women Warriors: An Unexpected History #must 
 - [ ] Free Thinker: Sex, Suffrage, and the Extraordinary Life of Helen Hamilton Gardener
@@ -975,6 +1035,8 @@ My book reading list.
 	- [ ] Long Walk to Freedom: The Autobiography of Nelson Mandela #must 
 	- [ ] Nelson Mandela: A Very Short Introduction
 - [ ] A Hand to Guide Me (Denzel Washington) #must 
+- [ ] Brothers in the Beloved Community: The Friendship of Thich Nhat Hanh and Martin Luther King Jr. (Marc Andrus) #must 
+
 ## Philosophy
 - [ ] The Body in Pain: The Making and Unmaking of the World
 - [ ] Meditations (Marcus Aurelius)
@@ -1069,6 +1131,9 @@ My book reading list.
 - [ ] Trauma And Recovery: The Aftermath Of Violence- From Domestic Abuse To Political Terror #trauma #must 
 - [ ] The Art of Loving (Erich Fromm) #love #theory  #must 
 - [ ] The Psychology of Secrets: My Adventures with Murderers, Cults and Influencers (Andrew Gold) #interactions #social-science
+- Annie Duke
+	- [ ] Quit: The Power of Knowing When to Walk Away #trading #decision-making #must 
+	- [ ] Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts #decision-making #business 
 
 ## Relationship
 - [ ] Never Eat Alone, Expanded and Updated: And Other Secrets to Success, One Relationship at a Time
@@ -1132,7 +1197,7 @@ My book reading list.
 - [ ] The Beauty of Falling: A Life in Pursuit of Gravity #life #memoir  #must
 
 ### Unity
-- [ ] Consilience: The Unity of Knowledge (by Edward O.Willson) #must 
+- [ ] Consilience: The Unity of Knowledge (Edward O.Willson) #must 
 
 ## Security
 - [x] Scam Me If You Can: Simple Strategies to Outsmart Today's Rip-off Artists
@@ -1258,6 +1323,10 @@ My book reading list.
 - [ ] Algorithms of Oppression: How Search Engines Reinforce Racism
 - [ ] Ten Arguments for Deleting Your Social Media Accounts Right Now
 - [x] Burn Book: A Tech Love Story #must 
+- [ ] The Tech Coup: How to Save Democracy from Silicon Valley (Marietje Schaake) #democracy 
+
+### Computer
+- [ ] Curious Video Game Machines: A Compendium of Rare and Unusual Consoles, Computers and Coin-Ops (Lewis Packwood) #game
 
 ### Future
 - [ ] Quantum Supremacy: How the Quantum Computer Revolution Will Change Everything #quantum
@@ -1279,6 +1348,10 @@ My book reading list.
 - [ ] How to Become a Rainmaker: The Rules for Getting and Keeping Customers and Clients
 - [ ] Negotiation Genius: How to Overcome Obstacles and Achieve Brilliant Results at the Bargaining Table and Beyond
 
+### Quantum
+- [ ] Essential Mathematics for Quantum Computing: A beginner's guide to just the math you need without needless complexities (Leonard S Woody III) #math
+- [ ] Introduction to Classical and Quantum Computing (Dr Thomas G Wong) #math #must 
+
 ### Reading
 - [ ] How to Read a Book #must 
 
@@ -1287,15 +1360,17 @@ My book reading list.
 
 ### Strategy
 - [ ] Strategy: The Indirect Approach #war #military #must 
+
 ### Thinking
 - [ ] Thinking, Fast and Slow #must 
+
 ## Thinker
 
 ### Albert Einstein
 - [ ] The World As I see It #bumingbai 
 
 ### Anne Applebaum
-- [ ] Autocracy, Inc.: The Dictators Who Want to Run the World
+- [ ] Autocracy, Inc.: The Dictators Who Want to Run the World #must 
 - [ ] Twilight of Democracy: The Seductive Lure of Authoritarianism #must 
 - [ ] Gulag: A History
 - [ ] Red Famine: Stalin's War on Ukraine
@@ -1313,6 +1388,12 @@ My book reading list.
 - [ ] Mao's Great Famine: The History of China's Most Devastating Catastrophe, 1958-1962 #bumingbai #must 
 - [ ] The Cultural Revolution: A People's History, 1962--1976 #must 
 - [ ] China After Mao: The Rise of a Superpower
+
+### Frans de Waal
+- [ ] Different: Gender Through the Eyes of a Primatologist #gender #must 
+- [ ] Are We Smart Enough to Know How Smart Animals Are?
+- [ ] Mama's Last Hug: Animal Emotions and What They Tell Us about Ourselves
+- [ ] The Bonobo and the Atheist: In Search of Humanism Among the Primates
 
 ### George Orwell
 - [ ] Politics and the English Language
@@ -1364,6 +1445,7 @@ My book reading list.
 - [ ] The Red Prince: The Secret Lives of a Habsburg Archduke
 - [ ] Nationalism, Marxism, and Modern Central Europe: A Biography of Kazimierz Kelles-Krauz, 1872-1905
 - [ ] The Wall Around the West: State Borders and Immigration Controls in North America and Europe
+
 ### Thich Nhat Hanh
 - [x] No Mud, No Lotus: The Art of Transforming Suffering #must #mindfulness
 - [ ] Happiness: Essential Mindfulness Practices
@@ -1378,17 +1460,20 @@ My book reading list.
 - [ ] Old Path White Clouds: Walking in the Footsteps of the Buddha #Buddhism #must 
 - [ ] Love in Action: Writings on Nonviolent Social Change (Second Edition)
 - [ ] Answers from the Heart
+- [ ] Being Peace
 
 ### Toni Morrison
 - [ ] Sula
 - [ ] The Bluest Eye
 - [ ] Toni Morrison: The Last Interview and Other Conversations
 - [ ] Song of Solomon
+
 ### Tony Judt
 - [ ] Postwar: A History of Europe Since 1945 #must 
 - [ ] The Memory Chalet #must 
 - [ ] When the Facts Change: Essays, 1995-2010 #must 
 - [ ] The Burden of Responsibility: Blum, Camus, Aron, and the French Twentieth Century
+
 ### Yuval Noah Harari
 - [ ] Nexus: A Brief History of Information Networks from the Stone Age to AI
 - [ ] Unstoppable Us (Volume 1, 2)
