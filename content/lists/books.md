@@ -521,6 +521,7 @@ My book reading list.
 	- [ ] Trust: America's Best Chance #opinions
 - [ ] The Art of Power: My Story as America's First Woman Speaker of the House #politics #female #autobiography  #must 
 - [ ] Who Could Ever Love You: A Family Memoir (Mary L. Trump PhD)
+- [ ] The Truths We Hold: An American Journey (Kamala Harris) #biography #must 
 - [ ] Defectors: The Rise of the Latino Far Right and What It Means for America (Paola Ramos) #politics 
 - [ ] War (Bob Woodward) #politics #must 
 - [ ] Behold, America: The Entangled History of "America First" and "the American Dream" (Sarah Churchwell) #history 
