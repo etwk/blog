@@ -543,6 +543,7 @@ My book reading list.
 
 ## Business
 - [ ] Facebook: The Inside Story
+- [ ] The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success (William N. Thorndike Jr.) #investment #must 
 
 ## Economy
 - [ ] The Road to Serfdom (F. A. Hayek) #bumingbai  #must 
@@ -706,6 +707,8 @@ My book reading list.
 - [ ] Forgottenness: A Novel (Tanja Maljartschuk) #time #trauma #identity
 - [ ] Burma Sahib: A Novel: A Riveting Historical Fiction Exploring the Transformation of Eric Blair into George Orwell #people #bumingbai 
 - [ ] The Sympathizer #Vietnam #bumingbai 
+- [ ] Moby Dick (Herman Melville)
+- [ ] Contrarian Investment Strategies: The Psychological Edge (David Dreman)
 
 ### Plays
 - [ ] English / Wish You Were Here: Two Plays #must 
@@ -742,9 +745,28 @@ My book reading list.
 	- [ ] The Anxious Investor: Mastering the Mental Game of Investing
 	- [ ] A History of the United States in Five Crashes: Stock Market Meltdowns That Defined a Nation #must 
 - [ ] Stocks for the Long Run: The Definitive Guide to Financial Market Returns & Long-Term Investment Strategies (Jeremy J. Siegel) #must 
-- [ ] Dark Pools: The Rise of the Machine Traders and the Rigging of the U.S. Stock Market (Scott Patterson) #must 
+- [ ] Dark Pools: The Rise of the Machine Traders and the Rigging of the U.S. Stock Market (Scott Patterson) #trading  #must 
 - [ ] Trade Mindfully: Achieve Your Optimum Trading Performance with Mindfulness and Cutting-Edge Psychology (Gary Dayton) #trading #must 
 - [ ] 100 to 1 in the Stock Market: A Distinguished Security Analyst Tells How to Make More of Your Investment Opportunities (Thomas W. Phelps) #must 
+- Benjamin Graham
+	- [ ] Benjamin Graham: The Memoirs of the Dean of Wall Street #memoir 
+	- [ ] Security Analysis #must 
+	- [ ] The Intelligent Investor: The Definitive Book on Value Investing #trading  #must 
+	- [ ] Benjamin Graham, Building a Profession: The Early Writings of the Father of Security (Jason Zweig)
+- [ ] The Investor's Dilemma: How Mutual Funds Are Betraying Your Trust And What To Do About It (Louis Lowenstein)
+- [ ] Wealth, War and Wisdom (Barton Biggs) #must 
+- [ ] Fortune's Formula: The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street (William Poundstone)
+- [ ] The Little Book That Builds Wealth: The Knockout Formula for Finding Great Investments (Pat Dorsey)
+- [ ] The Dhandho Investor: The Low-Risk Value Method to High Returns (Mohnish Pabrai)
+- [ ] The Revolution of Everyday Life (Raoul Vaneigem)
+- [ ] The White Sharks of Wall Street: Thomas Mellon Evans and the Original Corporate Raiders (Diana B. Henriques) #people 
+- [ ] Luck: The Brilliant Randomness Of Everyday Life (Nicholas Rescher)
+- [ ] Common Stocks and Uncommon Profits and Other Writings (Philip A. Fisher)
+- [ ] The Candlestick Course (Steve Nison) #trading #must 
+- [ ] One Up On Wall Street: How To Use What You Already Know To Make Money In The Market (Peter Lynch) #trading #must 
+- [ ] Secrets of the Soes Bandit: Harvey Houtkin Reveals His Battle-Tested Electronic Trading Techniques (David Waldman, Harvey I. Houtkin) #trading #history
+- [ ] The Little Book of Market Wizards: Lessons from the Greatest Traders (Jack D. Schwager) #trading  #must 
+- [ ] Trading in the Zone: Master the Market with Confidence, Discipline and a Winning Attitude (Mark Douglas) #psychology #trading 
 
 ## Food
 - [ ] Eat Like The Animals: What Nature Teaches Us About the Science of Healthy Eating
@@ -1050,7 +1072,8 @@ My book reading list.
 - [ ] The Lives of Michel Foucault #people 
 - [ ] The Agony of Eros (Byung-Chul Han) #love
 - [ ] Beauty: A Very Short Introduction #must 
-- [ ] If You Live To 100, You Might As Well Be Happy: Lessons for a Long and Joyful Life #aging #translation #Korean
+- [ ] If You Live To 100, You Might As Well Be Happy: Lessons for a Long and Joyful Life #aging #translation #Korean 
+- [ ] The Ego and His Own: The Case of the Individual Against Authority (Max Stirner)
 
 ## Photography
 - [ ] I Am Home: Portraits of Immigrant Teenagers
@@ -1134,7 +1157,8 @@ My book reading list.
 - [ ] The Psychology of Secrets: My Adventures with Murderers, Cults and Influencers (Andrew Gold) #interactions #social-science
 - Annie Duke
 	- [ ] Quit: The Power of Knowing When to Walk Away #trading #decision-making #must 
-	- [ ] Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts #decision-making #business 
+	- [ ] Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts #decision-making #business  #trading #must 
+- [ ] Thinking, Fast and Slow (Daniel Kahneman) #trading #must 
 
 ## Relationship
 - [ ] Never Eat Alone, Expanded and Updated: And Other Secrets to Success, One Relationship at a Time
@@ -1207,6 +1231,7 @@ My book reading list.
 - [ ] Tiny Habits: The Small Changes that Change Everything
 - [ ] Reinventing Your Life: The Breakthrough Program to End Negative Behavior and Feel Great Again #psychology 
 - [ ] If You Live To 100, You Might As Well Be Happy #philosophy 
+- [ ] The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work (Shawn Achor) #trading #must 
 
 ## Sexuality
 - [ ] Testo Junkie: Sex, Drugs, and Biopolitics in the Pharmacopornographic Era #memoir #philosophy #gender 
@@ -1362,9 +1387,6 @@ My book reading list.
 ### Strategy
 - [ ] Strategy: The Indirect Approach #war #military #must 
 
-### Thinking
-- [ ] Thinking, Fast and Slow #must 
-
 ## Thinker
 
 ### Albert Einstein
@@ -1380,6 +1402,10 @@ My book reading list.
 
 ### Bruce Lee
 - [ ] Bruce Lee Library (https://www.amazon.com/dp/B08B8VS2X7) #must 
+
+### Buckminster Fuller
+- [ ] Inventor of the Future: The Visionary Life of Buckminster Fuller (Alec Nevala-Lee) #must 
+- [ ] A Fuller View: Buckminster Fuller's Vision of Hope and Abundance for All (L. Steven Sieden)
 
 ### E. B. White
 - [ ] One Man's Meat
@@ -1569,6 +1595,10 @@ My book reading list.
 
 ### Stephen King
 - [ ] Night Shift #must 
+
+### Timothy Garton Ash
+- [ ] Homelands: A Personal History of Europe
+- [ ] The Polish Revolution: Solidarity #must #history #Poland
 
 ### 高行健
 - [ ] 靈山 #novel  #must 
