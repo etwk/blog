@@ -1,10 +1,10 @@
-I have been scammed on 2024-02-10 (Lunar New Year) at Upwork. Direct lost nearly $5000 USD, indirect lost much more. Here are the details.
+I have been scammed on 2024-02-10 (Lunar New Year) at Upwork. Direct lost nearly 5000 USD, indirect lost much more. Here are the details.
 
 The client sent me a private job offer "Virtual Assistant Project Sourcing Agent", to help pay their developers in China and maintain their finance sheet. They pay me via Upwork, and then I pay their developer with my own money.
 
 The client was shown verified on Upwork. We did all our conversation and project payment within Upwork. The payments the client sent to me are shown as "expense reimbursement" on Upwork.
 
-We agreed this project will be $3200 every week, the client continues to add more work that day after I finished the first phase. This continues until I have to stop, they then switched to hourly and the contract soon got suspended. I end up have 2:20 hours work rate $950 in my account, and all the payment previous have gone.
+We agreed this project will be 3200 USD every week, the client continues to add more work that day after I finished the first phase. This continues until I have to stop, they then switched to hourly and the contract soon got suspended. I end up have 2:20 hours work rate 950 USD in my account, and all the payment previous have gone.
 
 Some payment I sent has been used to buy cryptocurrency. The payment receiving end maybe have no any association with the scammer. Another sin on the cryptocurrency. 
 
