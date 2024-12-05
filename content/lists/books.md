@@ -330,6 +330,7 @@ My book reading list.
 - [ ] Genghis Khan: His Conquests, His Empire, His Legacy #must 
 - [ ] 內蒙文革風雷 ── 一位造反派領袖的口述史 #Cultural-Revolution 
 - [ ] 顛覆世界史的蒙古 (杉山正明) #history 
+- [ ] The Horde: How the Mongols Changed the World (Marie Favereau) #history 
 
 ### Nepal
 - [ ] Nepal: A History from the Earliest Times to the Present
@@ -544,6 +545,9 @@ My book reading list.
 ## Business
 - [ ] Facebook: The Inside Story
 - [ ] The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success (William N. Thorndike Jr.) #investment #must 
+
+## Conmmunication
+- [ ] Talking to Strangers: What We Should Know about the People We Don't Know (Malcolm Gladwell)
 
 ## Economy
 - [ ] The Road to Serfdom (F. A. Hayek) #bumingbai  #must 
@@ -765,8 +769,20 @@ My book reading list.
 - [ ] The Candlestick Course (Steve Nison) #trading #must 
 - [ ] One Up On Wall Street: How To Use What You Already Know To Make Money In The Market (Peter Lynch) #trading #must 
 - [ ] Secrets of the Soes Bandit: Harvey Houtkin Reveals His Battle-Tested Electronic Trading Techniques (David Waldman, Harvey I. Houtkin) #trading #history
-- [ ] The Little Book of Market Wizards: Lessons from the Greatest Traders (Jack D. Schwager) #trading  #must 
 - [ ] Trading in the Zone: Master the Market with Confidence, Discipline and a Winning Attitude (Mark Douglas) #psychology #trading 
+- [ ] The Alchemy of Finance (George Soros) #must 
+- [ ] Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python (Stefan Jansen) #machine-learning #algo-trading
+- [ ] Advances in Financial Machine Learning (Marcos Lopez de Prado) #must #machine-learning #algo-trading 
+- Van K. Tharp
+	- [ ] Trade Your Way to Financial Freedom #must 
+	- [ ] Super Trader, Expanded Edition: Make Consistent Profits in Good and Bad Markets
+	- [ ] Eight Edges You Must Have: Your Written Trading Plan
+- Jack D. Schwager
+	- [ ] Unknown Market Wizards: The best traders you've never heard of #must 
+	- [ ] Market Wizards: Interviews With Top Traders
+	- [ ] The Little Book of Market Wizards: Lessons from the Greatest Traders
+- [ ] The Complete TurtleTrader: The Legend, the Lessons, the Results (Michael W Covel) #event #must
+- [ ] Weekend Trend Trader (Nick Radge) #strategy
 
 ## Food
 - [ ] Eat Like The Animals: What Nature Teaches Us About the Science of Healthy Eating
@@ -957,6 +973,7 @@ My book reading list.
 - [ ] In the Wars: A Doctor's Story of Conflict, Survival and Saving Lives #memoir #must 
 - [ ] The Knife’s Edge: The Heart and Mind of a Cardiac Surgeon #life #must 
 - [ ] 戰爭與藥物：從流感、生化武器、冰毒到創傷後壓力症候群……人氣藥學教授探索史上戰爭催生出的疾病與新藥物，以及醫藥發展所介入的人類戰事 #war #history #must #translation  #Korean 
+- [ ] The Apothecary's Wife: The Hidden History of Medicine and How It Became a Commodity (Karen Bloom Gevirtz) #history 
 
 ## Meditation
 - Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life (Jon Kabat-Zinn PhD) #mindfulness #must #trading
@@ -1074,6 +1091,7 @@ My book reading list.
 - [ ] Beauty: A Very Short Introduction #must 
 - [ ] If You Live To 100, You Might As Well Be Happy: Lessons for a Long and Joyful Life #aging #translation #Korean 
 - [ ] The Ego and His Own: The Case of the Individual Against Authority (Max Stirner)
+- [ ] Objective Knowledge: An Evolutionary Approach (Karl R. Popper)
 
 ## Photography
 - [ ] I Am Home: Portraits of Immigrant Teenagers
@@ -1088,6 +1106,7 @@ My book reading list.
 - [ ] What It Is (Lynda Barry)
 - [ ] Gender Queer: A Memoir #gender 
 - [ ] Democracy (Alecos Papadatos, Abraham Kawa, Annie Di Donna) #novel #politics 
+- [ ] The Boy, the Mole, the Fox and the Horse
 
 ## Poetry
 - [ ] On Time and Eternity (Rubem Alves)
@@ -1232,6 +1251,8 @@ My book reading list.
 - [ ] Reinventing Your Life: The Breakthrough Program to End Negative Behavior and Feel Great Again #psychology 
 - [ ] If You Live To 100, You Might As Well Be Happy #philosophy 
 - [ ] The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work (Shawn Achor) #trading #must 
+- [ ] Rewire: Break the Cycle, Alter Your Thoughts and Create Lasting Change (Nicole Vignola) #must 
+- [ ] 50堂最療癒人心的說話練習：在溝通中肯定自己，觸動他人 (曾寶儀) #communication
 
 ## Sexuality
 - [ ] Testo Junkie: Sex, Drugs, and Biopolitics in the Pharmacopornographic Era #memoir #philosophy #gender 
@@ -1323,6 +1344,7 @@ My book reading list.
 - [ ] The Great Transformation: The Political and Economic Origins of Our Time (Karl Polanyi, Penguin Modern Classics) #fascism #classics #must 
 - [ ] Minority Leader: How to Lead from the Outside and Make Real Change (Stacey Abrams) #human-rights #racism #discrimination #must 
 - [ ] A Brief History of Equality (Thomas Piketty) #history 
+- [ ] Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering (Malcolm Gladwell)
 
 ## Spirituality
 - [ ] Not Quite Nirvana: A Skeptic's Journey to Mindfulness #must #memoir 
@@ -1426,6 +1448,12 @@ My book reading list.
 - [ ] Politics and the English Language
 - [ ] 1984 #must 
 - [ ] Homage to Catalonia #must 
+
+### Joseph Campbell
+- [ ] The Power of Myth #must
+- [ ] The Hero with a Thousand Faces #must
+- [ ] The Hero’s Journey: Joseph Campbell on His Life and Work #must
+- [ ] Goddesses: Mysteries of the Feminine Divine
 
 ### Hannah Arendt
 - [ ] The Origins of Totalitarianism #must 
@@ -1617,6 +1645,7 @@ My book reading list.
 - https://zh.wikipedia.org/zh-tw/香港遭審查下架書刊 #China
 - 編程隨想書單：https://github.com/programthink/books
 - 食学共读: https://www.douban.com/doulist/135459538/ (食学社读书会往期书单)
+- trading: https://kjtradingsystems.com/my-algo-trading-books.html
 
 ### Awards
 - List of awards in Chinese: https://tpml.gov.taipei/News_Content.aspx?Create=1&n=E5E37C9048A83EB3&state=F5D336F102ACBC68&s=BF9949D8402E6AB9&sms=7D4B7120B494353E
