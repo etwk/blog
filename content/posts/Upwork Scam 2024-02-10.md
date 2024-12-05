@@ -1,3 +1,10 @@
+---
+title: Upwork Scam 2024-02-10
+tags:
+  - scam
+  - freelancing
+  - crypto
+---
 I have been scammed on 2024-02-10 (Lunar New Year) at Upwork. Direct lost nearly 5000 USD, indirect lost much more. Here are the details.
 
 The client sent me a private job offer "Virtual Assistant Project Sourcing Agent", to help pay their developers in China and maintain their finance sheet. They pay me via Upwork, and then I pay their developer with my own money.
