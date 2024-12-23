@@ -51,3 +51,6 @@ Some of the images sent from the scammer in the chat above:
 
 Profile of the crypto buyer, could be the scammer themselves:
 ![[images/2024/upwork_20240210_scram_client_noones_profile.png]]
+
+Updates:
+- 2024-12-05: reported fraud to [FTC](https://reportfraud.ftc.gov)
