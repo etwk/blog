@@ -234,6 +234,7 @@ My book reading list.
 - [ ] Other Rivers: A Chinese Education #education #memoir #bumingbai #must 
 - [ ] 申泮文的西南联大 (申泮文) #history #must 
 - [ ] 江南困局 (唐元鹏) #must 
+- [ ] 尋租中國：台商、廣東模式與全球資本主義 (吳介民)
 
 #### Contemporary
 - [ ] 茉莉花在中國：鎮壓與迫害實錄 #must #dasheng
@@ -380,6 +381,7 @@ My book reading list.
 - [ ] Conversations with Stalin (Milovan Djilas) #history #memoir 
 - [ ] In Their Own Words: How Russian Propagandists Reveal Putin’s Intentions (Julia Davis) #Ukrainian-Voices
 - [ ] Endgame 1944: How Stalin Won the War (Jonathan Dimbleby) #history #must 
+- [ ] From Cold War to Hot Peace: An American Ambassador in Putin’s Russia (Michael McFaul) #history 
 
 ### Spain
 - [ ] Spain in Our Hearts: Americans in the Spanish Civil War, 1936–1939 #history #fascism #politics #must 
@@ -439,6 +441,8 @@ My book reading list.
 	- [ ] 自治之夢：日治時期到二二八的臺灣民主運動 #dasheng 
 - [ ] 百年追求：臺灣民主運動的故事 (陳翠蓮, 吳乃德, 胡慧玲) #dasheng 
 - [ ] 四六事件與臺灣大學 (陳翠蓮, 李鎧揚) #dasheng 
+- [ ] The Great Exodus from China: Trauma, Memory, and Identity in Modern Taiwan
+(Dominic Meng-Hsuan Yang) #history 
 
 ### Tibet
 - [ ] 殺劫：不可碰觸的記憶禁區，鏡頭下的西藏文革，第一次披露 #must 
@@ -478,6 +482,7 @@ My book reading list.
 - [ ] The War Came To Us: Life and Death in Ukraine #must 
 - [ ] The Language of War (Oleksandr Mykhed) #record
 - [ ] The Wild West of Eastern Europe: A Ukrainian Guide on Breaking Free from Empire
+- [ ] Night Train to Odesa: Covering the Human Cost of Russia’s War Hardcover (Jen Stout) #reporting #must 
 
 ### USA
 - [ ] Civilizing Torture: An American Tradition
@@ -527,6 +532,7 @@ My book reading list.
 - [ ] War (Bob Woodward) #politics #must 
 - [ ] Behold, America: The Entangled History of "America First" and "the American Dream" (Sarah Churchwell) #history 
 - [ ] Prequel: An American Fight Against Fascism (Rachel Maddow) #history 
+- [ ] The World of Chief Seattle: How Can One Sell The Air? (Warren Jefferson)
 
 ### Vietnam
 - [ ] 越南現代小說選 (羅漪文 譯) #fiction #novel #must 
@@ -546,8 +552,13 @@ My book reading list.
 - [ ] Facebook: The Inside Story
 - [ ] The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success (William N. Thorndike Jr.) #investment #must 
 
-## Conmmunication
+## Communication
 - [ ] Talking to Strangers: What We Should Know about the People We Don't Know (Malcolm Gladwell)
+
+## Creativity
+- Edward De Bono
+	- [ ] Lateral Thinking: Creativity Step by Step #must 
+	- [ ] How to Have Creative Ideas: 62 Exercises to Develop the Mind
 
 ## Economy
 - [ ] The Road to Serfdom (F. A. Hayek) #bumingbai  #must 
@@ -563,13 +574,18 @@ My book reading list.
 - [ ] Chip War: The Fight for the World's Most Critical Technology #history 
 - [ ] Slouching Towards Utopia: An Economic History of the Twentieth Century #history 
 - [ ] The System: Who Rigged It, How We Fix It (Robert B. Reich) #must 
+- Ludwig Von Mises
+	- [ ] Economic policy: Thoughts for today and tomorrow #must 
+	- [ ] Ludwig Von Mises: The Man and His Economics (Israel M. Kirzner, Library of Modern Thinkers)
+- [ ] By Force of Thought: Irregular Memoirs of an Intellectual Journey (Janos Kornai) #biography 
+- [ ] The Great Divergence: China, Europe, and the Making of the Modern World Economy #history #China #must 
 
 ## Education
 - [ ] Unequal Childhoods: Class, Race, and Family Life
 - [ ] How Children Succeed: Grit, Curiosity, and the Hidden Power of Character
 - [ ] Happy Teachers Change the World: A Guide for Cultivating Mindfulness in Education #must #mindfulness 
 - Barbara Oakley
-	- [ ] A Mind For Numbers: How to Excel at Math and Science
+	- [ ] A Mind For Numbers: How to Excel at Math and Science #must 
 	- [ ] Learn Like a Pro: Science-Based Tools to Become Better at Anything #must 
 	- [ ] Uncommon Sense Teaching: Practical Insights in Brain Science to Help Students Learn
 - Ken Bain
@@ -577,6 +593,13 @@ My book reading list.
 	- [ ] Super Courses: The Future of Teaching and Learning
 - [ ] 100 TESOL Activities: Practical ESL/EFL Activities for the Communicative Classroom
 - [ ] A Culture of Happiness: How to Scale Up Happiness from People to Organizations (Tho Ha Vinh) #happiness #must 
+- [ ] Teaching and Learning STEM: A Practical Guide (Richard M. Felder, Rebecca Brent) #idea #must 
+- [ ] Mindset: The New Psychology of Success (Carol S. Dweck) #idea #self-help #must 
+- [ ] Emotions, Learning, and the Brain: Exploring the Educational Implications of Affective Neuroscience (Mary Helen Immordino-Yang)
+- [ ] The Invisible Classroom: Relationships, Neuroscience & Mindfulness in School (Kirke Olson)
+
+### Teaching
+- [ ] The Growth Mindset Coach: A Teacher's Month-by-Month Handbook for Empowering Students to Achieve (Annie Brock, Heather Hundley)
 
 ## Environment
 - [x] A Life on Our Planet: My Witness Statement and a Vision for the Future #must
@@ -713,6 +736,8 @@ My book reading list.
 - [ ] The Sympathizer #Vietnam #bumingbai 
 - [ ] Moby Dick (Herman Melville)
 - [ ] Contrarian Investment Strategies: The Psychological Edge (David Dreman)
+- [ ] Shane (Jack Schaefer)
+- [ ] Conclave: A novel (Robert Harris)
 
 ### Plays
 - [ ] English / Wish You Were Here: Two Plays #must 
@@ -735,6 +760,12 @@ My book reading list.
 
 ### Society
 - [ ] Brave New World
+
+## Film
+### Director
+- [ ] Mike Leigh on Mike Leigh (Mike Leigh) #biography 
+- [ ] Mike Leigh: Interviews
+- [ ] Lessons with Kiarostami (Abbas Kiarostami)
 
 ## Finance
 - [ ] The Algebra of Wealth: A Simple Formula for Financial Security #must 
@@ -781,8 +812,16 @@ My book reading list.
 	- [ ] Unknown Market Wizards: The best traders you've never heard of #must 
 	- [ ] Market Wizards: Interviews With Top Traders
 	- [ ] The Little Book of Market Wizards: Lessons from the Greatest Traders
+	- [ ] Hedge Fund Market Wizards: How Winning Traders Win
 - [ ] The Complete TurtleTrader: The Legend, the Lessons, the Results (Michael W Covel) #event #must
-- [ ] Weekend Trend Trader (Nick Radge) #strategy
+- Nick Radge
+	- [ ] Weekend Trend Trader #strategy
+	- [ ] Unholy Grails - A New Road to Wealth
+	- [ ] Adaptive Analysis for Stocks
+	- [ ] Every-Day Traders Australia: Australians Who Successfully Trade for a Living #interview
+- [ ] Reminiscences of a Stock Operator: With New Commentary and Insights on the Life and Times of Jesse Livermore (Edwin Lefèvre) #must 
+- [ ] Way of the Turtle: The Secret Methods that Turned Ordinary People into Legendary Traders (Curtis Faith)
+- [ ] Diary of a Professional Commodity Trader: Lessons from 21 Weeks of Real Trading (Peter L. Brandt)
 
 ## Food
 - [ ] Eat Like The Animals: What Nature Teaches Us About the Science of Healthy Eating
@@ -799,6 +838,9 @@ My book reading list.
 - [ ] The Third Plate: Field Notes on the Future of Food #agriculture #must 
 - [ ] Frostbite: How Refrigeration Changed Our Food, Our Planet, and Ourselves (Nicola Twilley)
 
+### Cooking
+- [ ] East: 120 Vegan and Vegetarian Recipes from Bangalore to Beijing (Meera Sodha)
+
 ## Gender
 - [ ] Better Boys, Better Men: The New Masculinity That Creates Greater Courage and Emotional Resiliency (Andrew Reiner) #must 
 
@@ -812,6 +854,7 @@ My book reading list.
 - [ ] Virtual You: How Building Your Digital Twin Will Revolutionize Medicine and Change Your Life #future
 - [ ] Pathogenesis: How Germs Made History (Jonathan Kennedy) #history #must 
 - [ ] The Living Medicine: How a Lifesaving Cure Was Nearly Lost―and Why It Will Rescue Us When Antibiotics Fail (Lina Zeldovich)
+- [ ] Bad Pharma: How Drug Companies Mislead Doctors and Harm Patients (Ben Goldacre)
 
 ## History
 - [ ] How the World Really Works: A Scientist’s Guide to Our Past, Present and Future
@@ -983,10 +1026,14 @@ My book reading list.
 - [ ] Bits and Pieces: My Mother, My Brother, and Me (Whoopi Goldberg) #must 
 - [ ] Lovely One: A Memoir (Ketanji Brown Jackson)
 - [ ] Finding Me (Viola Davis)
-- [ ]  The Truths We Hold: An American Journey (Kamala Harris) #must 
+- [ ] The Truths We Hold: An American Journey (Kamala Harris) #must 
+- [ ] Freedom: Memoirs 1954 – 2021 (Angela Merkel) #must 
 
 ## Movements
 - [ ] Unbroken Wholeness: Six Pathways to the Beloved Community: Integrating Social Justice, Emotional Healing, and Spiritual Practice (John Bell) #must #spirituality 
+
+## Mythology
+- [ ] Faust (Johann Wolfgang Von Goethe) #plays #must 
 
 ## Nature
 - [ ] Biological Exuberance: Animal Homosexuality and Natural Diversity
@@ -1014,6 +1061,9 @@ My book reading list.
 - [ ] The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness
 - [ ] The Book You Wish Your Parents Had Read (and Your Children Will Be Glad That You Did) #must 
 - [ ] Mother Brain: How Neuroscience Is Rewriting the Story of Parenthood (Chelsea Conaboy)
+
+### Motherhood
+- [ ] I Cannot Control Everything Forever: A Memoir of Motherhood, Science, and Art (Emily C. Bloom) #memoir #must 
 
 ## People
 - [ ] I am Malala
@@ -1076,6 +1126,7 @@ My book reading list.
 	- [ ] Nelson Mandela: A Very Short Introduction
 - [ ] A Hand to Guide Me (Denzel Washington) #must 
 - [ ] Brothers in the Beloved Community: The Friendship of Thich Nhat Hanh and Martin Luther King Jr. (Marc Andrus) #must 
+- [ ] The Autobiography of Malcolm X: As Told to Alex Haley (Malcolm X, Alex Haley, Attallah Shabazz #must 
 
 ## Philosophy
 - [ ] The Body in Pain: The Making and Unmaking of the World
@@ -1178,6 +1229,18 @@ My book reading list.
 	- [ ] Quit: The Power of Knowing When to Walk Away #trading #decision-making #must 
 	- [ ] Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts #decision-making #business  #trading #must 
 - [ ] Thinking, Fast and Slow (Daniel Kahneman) #trading #must 
+- [ ] The Human Mind: A Brief Tour of Everything We Know (Paul Bloom)
+- Timothy D. Wilson
+	- [ ] Redirect #education #idea #self-help #must 
+	- [ ] Strangers to Ourselves: Discovering the Adaptive Unconscious
+- [ ] The Social Animal (Elliot Aronson, Joshua Aronson)
+
+### Neuropsychology
+- [ ] Neurofeedback in the Treatment of Developmental Trauma: Calming the Fear-Driven Brain (Sebern F. Fisher)
+- Iain McGilchrist
+	- [ ] The Master and His Emissary: The Divided Brain and the Making of the Western World #must 
+	- [ ] The Divided Brain and the Search for Meaning
+	- [ ] The Matter With Things: Our Brains, Our Delusions, and the Unmaking of the World
 
 ## Relationship
 - [ ] Never Eat Alone, Expanded and Updated: And Other Secrets to Success, One Relationship at a Time
@@ -1224,6 +1287,7 @@ My book reading list.
 - [ ] Nano: The Spectacular Science of the Very (Very) Small #children
 - [ ] The Demon-Haunted World: Science as a Candle in the Dark #vision #must 
 - [x] The Smallest Lights in the Universe: A Memoir 
+- [ ] Bad Science: Quacks, Hacks, and Big Pharma Flacks (Ben Goldacre) #must 
 
 ### Biology
 - [ ] Rumbles: A Curious History of the Gut
@@ -1400,9 +1464,6 @@ My book reading list.
 - [ ] Essential Mathematics for Quantum Computing: A beginner's guide to just the math you need without needless complexities (Leonard S Woody III) #math
 - [ ] Introduction to Classical and Quantum Computing (Dr Thomas G Wong) #math #must 
 
-### Reading
-- [ ] How to Read a Book #must 
-
 ### Robot
 - [ ] Imagination: A Manifesto #future 
 
@@ -1449,6 +1510,14 @@ My book reading list.
 - [ ] 1984 #must 
 - [ ] Homage to Catalonia #must 
 
+### James Baldwin
+- [ ] The Fire Next Time
+- [ ] Going to Meet the Man: Stories
+- [ ] I Am Not Your Negro (James Baldwin, Raoul Peck)
+- [ ] The Amen Corner: A Play
+- [ ] Blues for Mister Charlie: A Play
+- [ ] One Day When I Was Lost: A Scenario Based on Alex Haley's The Autobiography of Malcolm X #screenplay
+
 ### Joseph Campbell
 - [ ] The Power of Myth #must
 - [ ] The Hero with a Thousand Faces #must
@@ -1485,7 +1554,7 @@ My book reading list.
 - [ ] War's Unwomanly Face
 - [ ] Zinky Boys: Soviet Voices from the Afghanistan War
 - [ ] Last Witnesses: An Oral History of the Children of World War II
-- [ ] The Unwomanly Face of War: An Oral History of Women in World War II #must 
+- [x] The Unwomanly Face of War: An Oral History of Women in World War II #must 
 
 ### Timothy Snyder
 - [ ] On Tyranny: Twenty Lessons from the Twentieth Century  #must 
@@ -1516,12 +1585,14 @@ My book reading list.
 - [ ] Love in Action: Writings on Nonviolent Social Change (Second Edition)
 - [ ] Answers from the Heart
 - [ ] Being Peace
+- [ ] Awakening of the Heart: Essential Buddhist Sutras and Commentaries #must 
 
 ### Toni Morrison
 - [ ] Sula
 - [ ] The Bluest Eye
 - [ ] Toni Morrison: The Last Interview and Other Conversations
 - [ ] Song of Solomon
+- [ ] The Source of Self-Regard: Selected Essays, Speeches, and Meditations
 
 ### Tony Judt
 - [ ] Postwar: A History of Europe Since 1945 #must 
@@ -1591,11 +1662,26 @@ My book reading list.
 - [ ] Seven Guitars
 - [ ] Fences #must 
 
+### Claire Keegan
+- [ ] Small Things Like These #must 
+- [ ] Foster
+- [ ] The Forester's Daughter
+
 ### Dalai Lama
 - [ ] The Universe in a Single Atom: The Convergence of Science and Spirituality #must 
 
+### Edward O. Wilson
+- [ ] Tales from the Ant World #must 
+- [ ] Letters to a Young Scientist
+- [ ] The Origins of Creativity
+- [ ] Half-Earth: Our Planet's Fight for Life
+
 ### Gabriel García Márquez
 - [ ] Cien años de soledad
+
+### James Joyce
+- [ ] Dubliners #must 
+- [ ] A Portrait of the Artist as a Young Man
 
 ### Margaret Atwood
 - [ ] The Handmaid's Tale #fiction #novel #dystopian #feminism 
@@ -1614,15 +1700,30 @@ My book reading list.
 - [ ] The Man Without a Face: The Unlikely Rise of Vladimir Putin #must 
 - [ ] Surviving Autocracy
 
+### Mortimer J. Adler
+- [ ] How to Read a Book #must #self-help
+- [ ] Aristotle for Everybody #philosophy 
+- [ ] How to Think About the Great Ideas: From the Great Books of Western Civilization
+
 ### Octavia E. Butler
 - [ ] Bloodchild and Other Stories #sci-fi #short-stories
 - [ ] Octavia E. Butler: The Last Interview: and Other Conversations
+
+### Ray Dalio
+- [ ] Principles: Life and Work #must 
+- [ ] Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail #must #economy 
+- [ ] Principles for Navigating Big Debt Crises #economy 
 
 ### Stacey Abrams
 - [ ] Rogue Justice: A Thriller #politics 
 
 ### Stephen King
 - [ ] Night Shift #must 
+
+### Thomas Mann
+- [ ] Death in Venice
+- [ ] Buddenbrooks
+- [ ] Tonio Kröger
 
 ### Timothy Garton Ash
 - [ ] Homelands: A Personal History of Europe
@@ -1688,6 +1789,10 @@ My book reading list.
 	- [ ] How to See
 	- [ ] How to Connect
 	- [ ] How to Focus
+
+- HBR's 10 Must Reads
+	- [ ] on Lifelong Learning
+	- [ ] on Managing Yourself
 
 ## Magazines
 - [ ] 中国民主季刊 #China 
