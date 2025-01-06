@@ -264,6 +264,9 @@ My book reading list.
 - [ ] Iron Curtain: The Crushing of Eastern Europe, 1944-1956 #history #must 
 - [ ] Blood of Others: Stalin's Crimean Atrocity and the Poetics of Solidarity #literary-criticism #history #must 
 
+### France
+- [ ] The Ancien Régime and the Revolution (Alexis de Tocqueville, Gerald Bevan (Translator)) #history 
+
 ### Germany
 - [ ] 歐洲的心臟：德國如何改變自己
 - [ ] The Chancellor: The Remarkable Odyssey of Angela Merkel #people #must 
@@ -441,8 +444,8 @@ My book reading list.
 	- [ ] 自治之夢：日治時期到二二八的臺灣民主運動 #dasheng 
 - [ ] 百年追求：臺灣民主運動的故事 (陳翠蓮, 吳乃德, 胡慧玲) #dasheng 
 - [ ] 四六事件與臺灣大學 (陳翠蓮, 李鎧揚) #dasheng 
-- [ ] The Great Exodus from China: Trauma, Memory, and Identity in Modern Taiwan
-(Dominic Meng-Hsuan Yang) #history 
+- [ ] The Great Exodus from China: Trauma, Memory, and Identity in Modern Taiwan (Dominic Meng-Hsuan Yang) #history 
+- [ ] 夜遊：解嚴前夕一個國中女生的身體時代記 #essay #youth #politics #history 
 
 ### Tibet
 - [ ] 殺劫：不可碰觸的記憶禁區，鏡頭下的西藏文革，第一次披露 #must 
@@ -548,6 +551,9 @@ My book reading list.
 - [ ] Divine Gardens: Mayumi Oda and the San Francisco Zen Center #must #essay
 - [ ] The Roots of Romanticism (Isaiah Berlin) #bumingbai
 
+## Biography
+- [ ] The Elements of Marie Curie: How the Glow of Radium Lit a Path for Women in Science (Dava Sobel) #science #female #must 
+
 ## Business
 - [ ] Facebook: The Inside Story
 - [ ] The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success (William N. Thorndike Jr.) #investment #must 
@@ -561,7 +567,6 @@ My book reading list.
 	- [ ] How to Have Creative Ideas: 62 Exercises to Develop the Mind
 
 ## Economy
-- [ ] The Road to Serfdom (F. A. Hayek) #bumingbai  #must 
 - [ ] A Culture of Growth: The Origins of the Modern Economy
 - [ ] Manias, Panics, and Crashes: A History of Financial Crises #must #history 
 - [ ] The Great Leveler: Violence and the History of Inequality from the Stone Age to the Twenty-First Century
@@ -597,6 +602,12 @@ My book reading list.
 - [ ] Mindset: The New Psychology of Success (Carol S. Dweck) #idea #self-help #must 
 - [ ] Emotions, Learning, and the Brain: Exploring the Educational Implications of Affective Neuroscience (Mary Helen Immordino-Yang)
 - [ ] The Invisible Classroom: Relationships, Neuroscience & Mindfulness in School (Kirke Olson)
+- [ ] Exceptionally Gifted Children (Miraca U. M. Gross)
+
+### Homeschooling
+- [ ] Home Education (Charlotte Mason)
+- [ ] A Charlotte Mason Companion: Personal Reflections on the Gentle Art of Learning (Karen Andreola)
+- [ ] Six Voices, One Story: The Heart of AmblesideOnline (AmblesideOnline Educational Foundation)
 
 ### Teaching
 - [ ] The Growth Mindset Coach: A Teacher's Month-by-Month Handbook for Empowering Students to Achieve (Annie Brock, Heather Hundley)
@@ -757,6 +768,7 @@ My book reading list.
 - [ ] 而獨角獸倒立在歧路 (王仁劭) #dasheng #must 
 - [ ] Concerning the Future of Souls: 99 Stories of Azrael (Joy Williams)
 - [ ] A Cage Went in Search of a Bird: Ten Kafkaesque Stories
+- [ ] At the Bottom of the River (Jamaica Kincaid)
 
 ### Society
 - [ ] Brave New World
@@ -855,6 +867,9 @@ My book reading list.
 - [ ] Pathogenesis: How Germs Made History (Jonathan Kennedy) #history #must 
 - [ ] The Living Medicine: How a Lifesaving Cure Was Nearly Lost―and Why It Will Rescue Us When Antibiotics Fail (Lina Zeldovich)
 - [ ] Bad Pharma: How Drug Companies Mislead Doctors and Harm Patients (Ben Goldacre)
+
+### Exercise
+- [ ] Kettlebell Axe: High Speed, Low Drag Alternative to HIIT (Pavel Tsatsouline)
 
 ## History
 - [ ] How the World Really Works: A Scientist’s Guide to Our Past, Present and Future
@@ -1018,6 +1033,11 @@ My book reading list.
 - [ ] 戰爭與藥物：從流感、生化武器、冰毒到創傷後壓力症候群……人氣藥學教授探索史上戰爭催生出的疾病與新藥物，以及醫藥發展所介入的人類戰事 #war #history #must #translation  #Korean 
 - [ ] The Apothecary's Wife: The Hidden History of Medicine and How It Became a Commodity (Karen Bloom Gevirtz) #history 
 
+### Psychiatry
+- Tim Cantopher
+	- [ ] Depressive Illness: The Curse of the Strong #must 
+	- [ ] Toxic People: Dealing with Dysfunctional Relationships
+
 ## Meditation
 - Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life (Jon Kabat-Zinn PhD) #mindfulness #must #trading
 
@@ -1059,7 +1079,7 @@ My book reading list.
 	- [ ] Mothers and Others: The Evolutionary Origins of Mutual Understanding #sociobiology #must 
 	- [ ] Mother Nature: Maternal Instincts and How They Shape the Human Species
 - [ ] The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness
-- [ ] The Book You Wish Your Parents Had Read (and Your Children Will Be Glad That You Did) #must 
+- [ ] The Book You Wish Your Parents Had Read: (and Your Children Will Be Glad That You Did) (Philippa Perry) #psychology  #must 
 - [ ] Mother Brain: How Neuroscience Is Rewriting the Story of Parenthood (Chelsea Conaboy)
 
 ### Motherhood
@@ -1098,7 +1118,6 @@ My book reading list.
 	- [ ] Home: A Memoir of My Early Years
 	- [ ] Home Work: A Memoir of My Hollywood Years #must 
 - [ ] Wifedom: Mrs Orwell’s Invisible Life #must 
-- [ ] Hayek: A Life, 1899–1950 #must 
 - [ ] The Dead Are Arising: The Life of Malcolm X #must 
 - [ ] Genghis Khan and the Making of the Modern World
 - [ ] Camera Man: Buster Keaton, the Dawn of Cinema, and the Invention of the Twentieth Century
@@ -1143,14 +1162,21 @@ My book reading list.
 - [ ] If You Live To 100, You Might As Well Be Happy: Lessons for a Long and Joyful Life #aging #translation #Korean 
 - [ ] The Ego and His Own: The Case of the Individual Against Authority (Max Stirner)
 - [ ] Objective Knowledge: An Evolutionary Approach (Karl R. Popper)
+- Plato:
+	- [ ] The Symposium #must 
+	- [ ] The Republic
+- [ ] Plato at the Googleplex: Why Philosophy Won't Go Away (Rebecca Goldstein)
+- [ ] On the Suffering of the World (Arthur Schopenhauer, Eugene Thacker (Editor))
+- [ ] The Cambridge Companion to Locke (Vere Chappell (Editor))
+
+### Enlightenment
+- [ ] The Enlightenment: The Pursuit of Happiness, 1680-1790 (Ritchie Robertson) #history #must 
+- [ ] The Enlightenment: And Why It Still Matters (Anthony Pagden)
+- [ ] The Enlightenment: History of an Idea (Vincenzo Ferrone)
+- [ ] Revolutionary Ideas: An Intellectual History of the French Revolution from The Rights of Man to Robespierre (Jonathan Israel) #history #must 
 
 ## Photography
 - [ ] I Am Home: Portraits of Immigrant Teenagers
-
-## Physics
-- [ ] Dancing Wu Li Masters: An Overview of the New Physics #quantum #philosophy
-- [ ] Alien Earths: The New Science of Planet Hunting in the Cosmos #must 
-- [x] Seven Brief Lessons on Physics (Carlo Rovelli)
 
 ## Picture Books
 - [ ] Strong Is the New Pretty: A Celebration of Girls Being Themselves #must 
@@ -1234,6 +1260,7 @@ My book reading list.
 	- [ ] Redirect #education #idea #self-help #must 
 	- [ ] Strangers to Ourselves: Discovering the Adaptive Unconscious
 - [ ] The Social Animal (Elliot Aronson, Joshua Aronson)
+- [ ] The Interpretation of Dreams: The Complete and Definitive Text (Sigmund Freud)
 
 ### Neuropsychology
 - [ ] Neurofeedback in the Treatment of Developmental Trauma: Calming the Fear-Driven Brain (Sebern F. Fisher)
@@ -1250,12 +1277,20 @@ My book reading list.
 - [ ] 報導者事件簿003：無體溫關係
 - [ ] The Ethical Slut: A Practical Guide to Polyamory, Open Relationships, and Other Freedoms in Sex and Love #sex #love 
 - [ ] 我媽媽的寄生蟲 (林蔚昀) #essay #must 
+- [ ] The Book You Want Everyone You Love to Read: Sane And Sage Advice to Help You Navigate All of Your Most Important Relationships (Philippa Perry) #psychology  #must 
 
 ## Religion
 - [ ] Conversations With God (Neale Donald Walsch)
+
+### Christianity
+- [ ] The Gospel of Thomas: The Hidden Sayings of Jesus (Marvin W. Meyer, Harold Bloom #untold 
+
 ### Islam
 - [ ] Faith at War: A Journey on the Frontlines of Islam, from Baghdad to Timbuktu (Yaroslav Trofimov) #history 
 - [ ] A History of the Muslim World: From Its Origins to the Dawn of Modernity #history 
+
+## Rights
+- [ ] The Lives of Animals (J. M. Coetzee) #fiction #must 
 
 ## Science
 - [ ] Why Animals Talk: The New Science of Animal Communication
@@ -1288,21 +1323,51 @@ My book reading list.
 - [ ] The Demon-Haunted World: Science as a Candle in the Dark #vision #must 
 - [x] The Smallest Lights in the Universe: A Memoir 
 - [ ] Bad Science: Quacks, Hacks, and Big Pharma Flacks (Ben Goldacre) #must 
+- [ ] What Is This Thing Called Science? (Alan F. Chalmers) #philosophy #must 
+- [ ] Philosophy of Science: A Very Short Introduction (Samir Okasha) #philosophy 
+- [ ] Anaximander: And the Birth of Science (Carlo Rovelli) #history 
 
 ### Biology
 - [ ] Rumbles: A Curious History of the Gut
 - [ ] The Immune Mind: The new science of health (Monty Lyman)
 - [ ] Eve: The Disobedient Future of Birth #future #technology
 
+### Children's Book
+- Lucy Hawking & Stephen Hawking
+	- George's Secret Key to the Universe
+	- Unlocking the Universe
+
 ### Cosmology
-- [x] Brief Answers to the Big Questions (Stephen Hawking) #must 
+- Stephen Hawking
+	- [x] Brief Answers to the Big Questions #must 
+	- [ ] The Universe in a Nutshell #must 
+	- [ ] The Theory of Everything: The Origin and Fate of the Universe
+	- [ ] A Brief History of Time
 - [ ] Under Alien Skies: A Sightseer's Guide to the Universe #astronomy
+
+### Logic
+- [ ] Philosophical and Mathematical Logic (Harrie de Swart)
 
 ### Neuroscience
 - [ ] Seeing the Mind: Spectacular Images from Neuroscience, and What They Reveal about Our Neuronal Selves #must 
 
 ### Physics
+- [ ] Dancing Wu Li Masters: An Overview of the New Physics #quantum #philosophy
+- [ ] Alien Earths: The New Science of Planet Hunting in the Cosmos #must 
+- Carlo Rovelli
+	- [x] Seven Brief Lessons on Physics
+	- [ ] The Order of Time
 - [ ] The Beauty of Falling: A Life in Pursuit of Gravity #life #memoir  #must
+
+### Quantum
+- [ ] Quantum Theory: A Very Short Introduction (John Polkinghorne)
+- [ ] Essential Mathematics for Quantum Computing: A beginner's guide to just the math you need without needless complexities (Leonard S Woody III) #math
+- [ ] Introduction to Classical and Quantum Computing (Dr Thomas G Wong) #math #must 
+- Carlo Rovelli
+	- [ ] Helgoland: Making Sense of the Quantum Revolution
+	- [ ] Reality Is Not What It Seems: The Journey to Quantum Gravity
+- [ ] Quanta and Fields: The Biggest Ideas in the Universe (Sean M. Carroll) #must 
+- [ ] Einstein's Unfinished Revolution: The Search for What Lies Beyond the Quantum (Lee Smolin)
 
 ### Unity
 - [ ] Consilience: The Unity of Knowledge (Edward O.Willson) #must 
@@ -1344,7 +1409,6 @@ My book reading list.
 - [ ] The Politics of Bitcoin: Software as Right-Wing Extremism
 - [ ] Suicide in Schools: A Practitioner's Guide to Multi-level Prevention, Assessment, Intervention, and Postvention
 - [ ] My Life: Growing Up Asian in America
-- [ ] The Better Angels of Our Nature: Why Violence Has Declined #bumingbai #must 
 - [ ] Weapons of the Weak: Everyday Forms of Peasant Resistance #must #bumingbai 
 - [ ] The Whole World Is Watching: Mass Media in the Making and Unmaking of the New Left, With a New Preface #bumingbai 
 - [ ] Journalism: Why It Matters (Michael Schudson) #bumingbai 
@@ -1352,7 +1416,6 @@ My book reading list.
 - [ ] The New Odyssey: The Story of Europe's Refugee Crisis
 - [ ] Why Are All the Black Kids Sitting Together in the Cafeteria?: And Other Conversations About Race #must 
 - [ ] The Origins of Totalitarianism #bumingbai 
-- [ ] Law, Legislation and Liberty (F. A. Hayek) #must #bumingbai 
 - [ ] Plagues and the Paradox of Progress: Why the World Is Getting Healthier in Worrisome Ways #bumingbai 
 - [ ] The Power of Crisis #bumingbai #must 
 - [ ] Guns, Germs, And Steel: The Fates of Human Societies #bumingbai #must 
@@ -1424,6 +1487,16 @@ My book reading list.
 - [ ] Buddhism: A Very Short Introduction #must 
 - [ ] The River in Me: Verses of Transformation (Sister Dang Nghiem) #Zen #poetry 
 - [ ] Solid Ground: Buddhist Wisdom for Difficult Times (Sylvia Boorstein, Norman Fisher)
+- D. T. Suzuki
+	- [ ] An Introduction to Zen Buddhism
+	- [ ] Zen and Japanese Culture #must 
+	- [ ] The Zen Doctrine of No Mind
+
+### Hindu
+- [ ] The Upanishads: Breath from the Eternal (Swami Prabhavanada (Translator), Frederick Manchester (Translator)) #must 
+- Ramakrishna
+	- [ ] The Life of Ramakrishna (Romain Rolland)
+	- [ ] The Gospel of Ramakrishna (Swami Abhedananda)
 
 ## Teaching
 - [ ] Reading Lessons: The books we read at school, the conversations they spark and why they matter #must 
@@ -1459,10 +1532,6 @@ My book reading list.
 - [ ] You Can Negotiate Anything: The World's Best Negotiator Tells You How To Get What You Want
 - [ ] How to Become a Rainmaker: The Rules for Getting and Keeping Customers and Clients
 - [ ] Negotiation Genius: How to Overcome Obstacles and Achieve Brilliant Results at the Bargaining Table and Beyond
-
-### Quantum
-- [ ] Essential Mathematics for Quantum Computing: A beginner's guide to just the math you need without needless complexities (Leonard S Woody III) #math
-- [ ] Introduction to Classical and Quantum Computing (Dr Thomas G Wong) #math #must 
 
 ### Robot
 - [ ] Imagination: A Manifesto #future 
@@ -1504,6 +1573,11 @@ My book reading list.
 - [ ] Are We Smart Enough to Know How Smart Animals Are?
 - [ ] Mama's Last Hug: Animal Emotions and What They Tell Us about Ourselves
 - [ ] The Bonobo and the Atheist: In Search of Humanism Among the Primates
+
+### Friedrich Hayek
+- [ ] Law, Legislation and Liberty (F. A. Hayek) #must #bumingbai 
+- [ ] The Road to Serfdom (F. A. Hayek) #bumingbai  #must 
+- [ ] Hayek: A Life, 1899–1950 #must 
 
 ### George Orwell
 - [ ] Politics and the English Language
@@ -1547,6 +1621,15 @@ My book reading list.
 - [ ] The Omnivore's Dilemma: A Natural History of Four Meals #foodthink #must 
 - [ ] In Defense of Food: An Eater's Manifesto #foodthink #must 
 - [ ] Cooked: A Natural History of Transformation #foodthink #must 
+
+### Steven Pinker
+- [ ] The Better Angels of Our Nature: Why Violence Has Declined #bumingbai #must 
+- [ ] Enlightenment Now: The Case for Reason, Science, Humanism, and Progress #must 
+- [ ] Rationality: What It Is, Why It Seems Scarce, Why It Matters
+- [ ] How the Mind Works
+- [ ] The Blank Slate: The Modern Denial of Human Nature
+- [ ] The Language Instinct: How The Mind Creates Language
+- [ ] Words and Rules: The Ingredients Of Language
 
 ### Svetlana Alexievich
 - [ ] Voices from Chernobyl: The Oral History of a Nuclear Disaster
@@ -1678,6 +1761,9 @@ My book reading list.
 
 ### Gabriel García Márquez
 - [ ] Cien años de soledad
+- [ ] The General in His Labyrinth
+- [ ] News of a Kidnapping
+- [ ] Gabriel García Márquez: The Last Interview and Other Conversations
 
 ### James Joyce
 - [ ] Dubliners #must 
@@ -1709,6 +1795,12 @@ My book reading list.
 - [ ] Bloodchild and Other Stories #sci-fi #short-stories
 - [ ] Octavia E. Butler: The Last Interview: and Other Conversations
 
+### Plutarch
+- Oxford World's Classics
+	- [ ] Greek Lives
+	- [ ] Hellenistic Lives
+	- [ ] Roman Lives
+
 ### Ray Dalio
 - [ ] Principles: Life and Work #must 
 - [ ] Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail #must #economy 
@@ -1729,6 +1821,12 @@ My book reading list.
 - [ ] Homelands: A Personal History of Europe
 - [ ] The Polish Revolution: Solidarity #must #history #Poland
 
+### Wendy Doniger O'Flaherty
+- [ ] Hindu Myths: A Sourcebook Translated from the Sanskrit
+- [ ] Dreams, Illusion, and Other Realities
+- [ ] The Hindus: An Alternative History
+- [ ] The Ring of Truth: And Other Myths of Sex and Jewelry
+
 ### 高行健
 - [ ] 靈山 #novel  #must 
 - [ ] 一個人的聖經 #novel 
@@ -1747,6 +1845,8 @@ My book reading list.
 - 編程隨想書單：https://github.com/programthink/books
 - 食学共读: https://www.douban.com/doulist/135459538/ (食学社读书会往期书单)
 - trading: https://kjtradingsystems.com/my-algo-trading-books.html
+- Reading List for Joseph Campbell’s Mythology Class at Sarah Lawrence College: https://www.jcf.org/learn/joseph-campbell-sarah-lawrence-reading-list
+- Ethan Maurice's bookshelf: https://ethanmaurice.com/bookshelf/
 
 ### Awards
 - List of awards in Chinese: https://tpml.gov.taipei/News_Content.aspx?Create=1&n=E5E37C9048A83EB3&state=F5D336F102ACBC68&s=BF9949D8402E6AB9&sms=7D4B7120B494353E
@@ -1797,6 +1897,8 @@ My book reading list.
 ## Magazines
 - [ ] 中国民主季刊 #China 
 - [ ] 小鸟文学
+- Wired
+	- [ ] The Wired World In 2025
 
 ## Tags
 - #must: personal must read
