@@ -79,12 +79,11 @@ My book reading list.
 - [ ] 文革前的鄧小平 (鍾延麟)
 - [ ] Seeking Truth and Hiding Facts: Information, Ideology, and Authoritarianism in China
 - [ ] Our Towns: A 100,000-Mile Journey into the Heart of America
-- [ ] 李登輝執政告白實錄
 - [ ] Red Star over the Pacific: China's Rise and the Challenge to U.S. Maritime Strategy
 - [ ] China Pop (查建英)
 - [ ] The Socialist System: The Political Economy of Communism
 - [ ] Deadly Quiet City: Stories From Wuhan, COVID Ground Zero
-- [ ] Indelible City: Dispossession and Defiance in Hong Kong
+- [ ] Indelible City: Dispossession and Defiance in Hong Kong (Louisa Lim)
 - [ ] Cadre Country: How China became the Chinese Communist Party
 - [ ] Surveillance State: Inside China's Quest to Launch a New Era of Social Control (監控國家：中國全力打造的數位烏托邦，一座不斷進化、從上到下集體共構的全景監獄)
 - [ ] 张医生与王医生
@@ -106,7 +105,6 @@ My book reading list.
 - [ ] 汪政權的開場與收場
 - [ ] 沪上法治梦
 - [ ] 牛鬼蛇神錄——文革囚禁中的精靈 #must 
-- [ ] 黃禍 (王力雄) #must 
 - [ ] 中国国家治理的制度逻辑：一个组织学研究 #bumingbai 
 - 杨显惠
 	- [ ] 夹边沟记事 #must 
@@ -184,7 +182,6 @@ My book reading list.
 	- [ ] 福民公寓 #must #Cultural-Revolution #fiction 
 	- [ ] 獨一無二的反叛者：王若望
 - [ ] 革後餘生：從牛津大學到北京市第一看守所
-- [ ] 文革大屠杀 (宋永毅) #Cultural-Revolution 
 - [ ] 認同而不出櫃：中國同性戀者的生存困境
 - [ ] Remembering Shanghai: A Memoir of Socialites, Scholars and Scoundrels #must #history
 - [ ] Private Revolutions: Coming of Age in a New China #female #people 
@@ -195,6 +192,7 @@ My book reading list.
 	- [ ] 毛澤東和文化大革命：政治心理與文化基因的新闡釋 #must 
 	- [ ] 中外學者談文革
 	- [ ] 洗腦：毛澤東和後毛時代的中國與世界
+	- [ ] 文革大屠杀 (宋永毅) #Cultural-Revolution 
 - 丁学良
 	- [ ] 革命與反革命追憶
 	- [ ] 我读天下无字书
@@ -205,10 +203,10 @@ My book reading list.
 - Roderick MacFarquhar (马若德)
 	- [ ] Mao's Last Revolution #Cultural-Revolution #history #bumingbai #must 
 - [ ] 堂堂正正做公民：我的自由中國 (許志永) #dasheng 
-- [ ] 江平先生法學思想述論：九十華誕祝賀文集 #dasheng #law 
-- 江平
+- 江平 #law 
 	- [ ] 沉浮与枯荣：八十自述 #dasheng 
 	- [ ] 法治天下：江平访谈录 #dasheng 
+	- [ ] 江平先生法學思想述論：九十華誕祝賀文集 #dasheng 
 - 汪精衛
 	- [ ] 此生何所為：汪精衛亂世抉擇
 	- [ ] 雲煙散憶：汪精衛女婿回顧動盪時代 (何孟恆)
@@ -294,6 +292,7 @@ My book reading list.
 - [ ] The Good Girls: An Ordinary Killing #history 
 - [ ] The Incarcerations: BK-16 and the Search for Democracy in India
 - [ ] The Golden Road: How Ancient India Transformed the World (William Dalrymple) #history #math #must 
+- [ ] The Argumentative Indian: Writings on Indian History, Culture and Identity (Amartya Sen) #history 
 
 ### Iran
 - [ ] Prison in Iran: A Known Unknown
@@ -323,6 +322,7 @@ My book reading list.
 - [ ] The Fall of the Ottomans: The Great War in the Middle East #history #Turkey
 - [ ] The Damascus Events: The 1860 Massacre and the Making of the Modern Middle East #history #must #Turkey
 - [ ] The Siege of Mecca: The 1979 Uprising at Islam's Holiest Shrine #history #terrorism
+- [ ] Lebanon Is Burning and Other Dispatches (Yazan Al-Saadi) #comics #journalism 
 
 ### Mongolia
 - 楊海英
@@ -446,6 +446,8 @@ My book reading list.
 - [ ] 四六事件與臺灣大學 (陳翠蓮, 李鎧揚) #dasheng 
 - [ ] The Great Exodus from China: Trauma, Memory, and Identity in Modern Taiwan (Dominic Meng-Hsuan Yang) #history 
 - [ ] 夜遊：解嚴前夕一個國中女生的身體時代記 #essay #youth #politics #history 
+- [ ] 李登輝執政告白實錄
+- [ ] 末代女礦工：海山煤礦，與一位社會學者對礦工阿嬤的生命考掘 (戴伯芬) #people #history 
 
 ### Tibet
 - [ ] 殺劫：不可碰觸的記憶禁區，鏡頭下的西藏文革，第一次披露 #must 
@@ -470,7 +472,7 @@ My book reading list.
 - [ ] The Ukrainian Night: An Intimate History of Revolution #must 
 - [ ] Harvest of Despair: Life and Death in Ukraine Under Nazi Rule
 - [ ] The Language of War (Oleksandr Mykhed) #must 
-- [ ] She Came from Mariupol #history #memoir #must 
+- [ ] She Came from Mariupol (Natascha Wodin) #history #memoir #must 
 - [ ] 烏克蘭的不可能戰爭：反抗，所以存在
 - [ ] 帝國解體與自由的堡壘：烏克蘭抗俄戰爭的歷史源起、地緣政治與正義之辯 #geopolitics #must 
 - [ ] 向日葵的季節 (Igor T. Miecik) #documentary #translation 
@@ -553,6 +555,7 @@ My book reading list.
 
 ## Biography
 - [ ] The Elements of Marie Curie: How the Glow of Radium Lit a Path for Women in Science (Dava Sobel) #science #female #must 
+- [ ] Dutch Girl: Audrey Hepburn and World War II (Robert Matzen) #history #must 
 
 ## Business
 - [ ] Facebook: The Inside Story
@@ -560,6 +563,10 @@ My book reading list.
 
 ## Communication
 - [ ] Talking to Strangers: What We Should Know about the People We Don't Know (Malcolm Gladwell)
+
+## Consciousness
+### Imagination
+- [ ] Imagination: A Very Short Introduction (Jennifer Gosetti-Ferencei)
 
 ## Creativity
 - Edward De Bono
@@ -584,6 +591,15 @@ My book reading list.
 	- [ ] Ludwig Von Mises: The Man and His Economics (Israel M. Kirzner, Library of Modern Thinkers)
 - [ ] By Force of Thought: Irregular Memoirs of an Intellectual Journey (Janos Kornai) #biography 
 - [ ] The Great Divergence: China, Europe, and the Making of the Modern World Economy #history #China #must 
+- [ ] Microeconomics: A Very Short Introduction (Avinash Dixit)
+- [ ] Religion and the Rise of Capitalism (Benjamin M. Friedman) #must 
+- [ ] Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics (Henry Hazlitt) #must 
+- [ ] The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy (Stephanie Kelton) #idea #monetary #must 
+- [ ] Lords of Finance: The Bankers Who Broke the World (Liaquat Ahamed) #history #must 
+- Oliver Bullough
+	- [ ] Moneyland: The Inside Story of the Crooks and Kleptocrats Who Rule the World #crime #politics #must 
+	- [ ] Butler to the World: How Britain Helps the World's Worst People Launder Money, Commit Crimes, and Get Away with Anything #oligarch
+- [ ] Debt: The First 5,000 Years (David Graeber) #history #must 
 
 ## Education
 - [ ] Unequal Childhoods: Class, Race, and Family Life
@@ -634,6 +650,7 @@ My book reading list.
 - [ ] Cradle to Cradle: Remaking the Way We Make Things (William McDonough, Michael Braungart) #must #sustainability
 - [ ] The Upcycle: Beyond Sustainability--Designing for Abundance (William McDonough, Michael Braungart) #sustainability 
 - [ ] The Heat Will Kill You First: Life and Death on a Scorched Planet (Jeff Goodell)
+- [ ] Trash Talk: An Eye-Opening Exploration of Our Planet's Dirtiest Problem (Iris Gottlieb)
 
 ## Feminism
 - [ ] Down Girl: The Logic of Misogyny
@@ -646,7 +663,7 @@ My book reading list.
 	- [ ] The Vagina Bible: The Vulva and the Vagina: Separating the Myth from the Medicine #must 
 	- [ ] The Menopause Manifesto: Own Your Health with Facts and Feminism
 	- [ ] Blood: The Science, Medicine, and Mythology of Menstruation
-- [ ] A History of Women in 101 Objects: A walk through female history
+- [ ] A History of Women in 101 Objects (Annabelle Hirsch)
 - [x] Emotional Labor: The Invisible Work Shaping Our Lives and How to Claim Our Power #must 
 - Angela Saini
 	- [ ] Inferior: The true power of women and the science that shows it #must 
@@ -781,9 +798,9 @@ My book reading list.
 
 ## Finance
 - [ ] The Algebra of Wealth: A Simple Formula for Financial Security #must 
-- [ ] Tokens: The Future of Money in the Age of the Platform #money #future #must
+- [ ] Tokens: The Future of Money in the Age of the Platform #future #must #monetary 
 
-### Investment
+### Investing
 - [ ] 100 Baggers: Stocks that Return 100-to-1 and How to Find Them
 - [ ] A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Burton G. Malkiel) #stock #must
 - [x] How to Day Trade: The Plain Truth (Ross Cameron) #must 
@@ -834,6 +851,16 @@ My book reading list.
 - [ ] Reminiscences of a Stock Operator: With New Commentary and Insights on the Life and Times of Jesse Livermore (Edwin Lefèvre) #must 
 - [ ] Way of the Turtle: The Secret Methods that Turned Ordinary People into Legendary Traders (Curtis Faith)
 - [ ] Diary of a Professional Commodity Trader: Lessons from 21 Weeks of Real Trading (Peter L. Brandt)
+- [ ] What You Should Know About Inflation (Henry Hazlitt) #must 
+
+### Monetary
+- [ ] The Ascent of Money: A Financial History of the World (Niall Ferguson)
+- [ ] Money: The Unauthorized Biography--From Coinage to Cryptocurrencies (Felix Martin)
+- [ ] When Money Dies: The Nightmare of Deficit Spending, Devaluation, and Hyperinflation in Weimar Germany (Adam Fergusson) #history 
+- Barry Eichengreen
+	- [ ] Globalizing Capital: A History of the International Monetary System
+	- [ ] How Global Currencies Work: Past, Present, and Future
+	- [ ] Exorbitant Privilege: The Rise and Fall of the Dollar and the Future of the International Monetary System
 
 ## Food
 - [ ] Eat Like The Animals: What Nature Teaches Us About the Science of Healthy Eating
@@ -921,7 +948,6 @@ My book reading list.
 - [ ] The Fighters: Americans In Combat
 - [ ] Sisters of the War: Two Remarkable True Stories of Survival and Hope in Syria
 - [ ] Eat the Buddha: Life and Death in a Tibetan Town (Barbara Demick) #dasheng #must 
-- [ ] Debt: The First 5,000 Years #must 
 - [ ] The Gift: The Form and Reason for Exchange in Archaic Societies
 - [ ] How to Feed a Dictator: Saddam Hussein, Idi Amin, Enver Hoxha, Fidel Castro, and Pol Pot Through the Eyes of Their Cooks (Witold Szablowski)
 - [ ] Disputed Inheritance: The Battle over Mendel and the Future of Biology
@@ -974,6 +1000,9 @@ My book reading list.
 - [ ] Just Mercy: A Story of Justice and Redemption #memoir #must 
 - [ ] 法律有關係：法律是什麼？怎麼變？如何影響我們生活？
 - [ ] Ancient Law: Its Connection with the Early History of Society, and Its Relation to Modern Ideas (Henry Sumner Maine) #anthropology #classics
+
+## Leadership
+- [ ] Extreme Ownership: How U.S. Navy SEALs Lead and Win (Jocko Willink, Leif Babin)
 
 ## Life
 - [ ] How to be a Happier Parent: Raising a Family, Having a Life, and Loving (Almost) Every Minute
@@ -1032,11 +1061,7 @@ My book reading list.
 - [ ] The Knife’s Edge: The Heart and Mind of a Cardiac Surgeon #life #must 
 - [ ] 戰爭與藥物：從流感、生化武器、冰毒到創傷後壓力症候群……人氣藥學教授探索史上戰爭催生出的疾病與新藥物，以及醫藥發展所介入的人類戰事 #war #history #must #translation  #Korean 
 - [ ] The Apothecary's Wife: The Hidden History of Medicine and How It Became a Commodity (Karen Bloom Gevirtz) #history 
-
-### Psychiatry
-- Tim Cantopher
-	- [ ] Depressive Illness: The Curse of the Strong #must 
-	- [ ] Toxic People: Dealing with Dysfunctional Relationships
+- [ ] The Song of the Cell: An Exploration of Medicine and the New Human (Siddhartha Mukherjee) #history #biology
 
 ## Meditation
 - Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life (Jon Kabat-Zinn PhD) #mindfulness #must #trading
@@ -1048,6 +1073,7 @@ My book reading list.
 - [ ] Finding Me (Viola Davis)
 - [ ] The Truths We Hold: An American Journey (Kamala Harris) #must 
 - [ ] Freedom: Memoirs 1954 – 2021 (Angela Merkel) #must 
+- [ ] Home in the World: A Memoir (Amartya Sen) #economy #must 
 
 ## Movements
 - [ ] Unbroken Wholeness: Six Pathways to the Beloved Community: Integrating Social Justice, Emotional Healing, and Spiritual Practice (John Bell) #must #spirituality 
@@ -1195,6 +1221,9 @@ My book reading list.
 - [ ] First Buddhist Women: Poems and Stories of Awakening #Buddhism #history #must 
 - [ ] Please Mrs Butler #children 
 
+## Productivity
+- [ ] Stealing Fire: How Silicon Valley, the Navy SEALs, and Maverick Scientists Are Revolutionizing the Way We Live and Work (Steven Kotler, Jamie Wheal)
+
 ## Politics
 - [ ] The Power of the Powerless
 - [ ] The Opium of the Intellectuals #bumingbai 
@@ -1269,6 +1298,17 @@ My book reading list.
 	- [ ] The Divided Brain and the Search for Meaning
 	- [ ] The Matter With Things: Our Brains, Our Delusions, and the Unmaking of the World
 
+### Psychiatry
+- Tim Cantopher
+	- [ ] Depressive Illness: The Curse of the Strong #must 
+	- [ ] Toxic People: Dealing with Dysfunctional Relationships
+
+### Psychoanalysis
+- [ ] Powers of Horror: An Essay on Abjection (Julia Kristeva) #literature #film #must 
+
+### Psychotherapy
+- [ ] Treating Chronically Traumatized Children: The Sleeping Dogs Method (Arianne Struik)
+
 ## Relationship
 - [ ] Never Eat Alone, Expanded and Updated: And Other Secrets to Success, One Relationship at a Time
 - [ ] Seeking Soulmate: Ditch the Dating Game and Find Real Connection #must #psychology #dating
@@ -1281,6 +1321,7 @@ My book reading list.
 
 ## Religion
 - [ ] Conversations With God (Neale Donald Walsch)
+- [ ] Dialogues Concerning Natural Religion (David Hume) #classics #philosophy
 
 ### Christianity
 - [ ] The Gospel of Thomas: The Hidden Sayings of Jesus (Marvin W. Meyer, Harold Bloom #untold 
@@ -1331,6 +1372,7 @@ My book reading list.
 - [ ] Rumbles: A Curious History of the Gut
 - [ ] The Immune Mind: The new science of health (Monty Lyman)
 - [ ] Eve: The Disobedient Future of Birth #future #technology
+- [ ] Ever Since Darwin: Reflections in Natural History (Stephen Jay Gould) #essay 
 
 ### Children's Book
 - Lucy Hawking & Stephen Hawking
@@ -1382,6 +1424,9 @@ My book reading list.
 - [ ] The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work (Shawn Achor) #trading #must 
 - [ ] Rewire: Break the Cycle, Alter Your Thoughts and Create Lasting Change (Nicole Vignola) #must 
 - [ ] 50堂最療癒人心的說話練習：在溝通中肯定自己，觸動他人 (曾寶儀) #communication
+- [ ] Tribe Of Mentors: Short Life Advice from the Best in the World (Tim Ferriss) #must #collection
+- [ ] The Way of the SEAL: Think Like an Elite Warrior to Lead and Succeed (Mark Divine, Allyson E. Machate)
+- [ ] The Way to Will Power (Henry Hazlitt)
 
 ## Sexuality
 - [ ] Testo Junkie: Sex, Drugs, and Biopolitics in the Pharmacopornographic Era #memoir #philosophy #gender 
@@ -1478,9 +1523,10 @@ My book reading list.
 - [ ] Solid Ground: Buddhist Wisdom for Difficult Times
 - [ ] Ten Breaths to Happiness: Touching Life in its Fullness
 - [ ] A Fierce Heart: Finding Strength, Courage, and Wisdom in Any Moment
-- [x] Inner Engineering: A Yogi's Guide to Joy #meditation #yoga
 - [ ] The Seven Storey Mountain (Thomas Merton) #must
 - [ ] Nothing To It: Ten Ways to Be at Home with Yourself (Brother Phap Hai)
+- David R. Hawkins
+	- [ ] Power vs. Force: The Hidden Determinants of Human Behavior #must 
 
 ### Buddhism
 - [ ] Tell Me Something about Buddhism: Questions and Answers for the Curious Beginner #must #Buddhism #Zen
@@ -1491,12 +1537,26 @@ My book reading list.
 	- [ ] An Introduction to Zen Buddhism
 	- [ ] Zen and Japanese Culture #must 
 	- [ ] The Zen Doctrine of No Mind
+- [ ] Seeing Clearly: A Buddhist Guide to Life (Guides to the Good Life) (Nicolas Bommarito)
 
 ### Hindu
 - [ ] The Upanishads: Breath from the Eternal (Swami Prabhavanada (Translator), Frederick Manchester (Translator)) #must 
 - Ramakrishna
 	- [ ] The Life of Ramakrishna (Romain Rolland)
 	- [ ] The Gospel of Ramakrishna (Swami Abhedananda)
+
+### Mystic
+- Sadhguru #meditation #yoga 
+	- [x] Inner Engineering: A Yogi's Guide to Joy 
+	- [ ] Karma: A Yogi's Guide to Crafting Your Destiny
+	- [ ] Death An Inside Story: A book for all those who shall die
+	- [ ] Adiyogi: The Source of Yoga
+	
+## Strategy
+### Game Theory
+- [ ] The Art of Strategy: A Game Theorist's Guide to Success in Business and Life (Avinash K. Dixit, Barry J. Nalebuff) #must 
+- [ ] A Beautiful Mind: The Life of Mathematical Genius and Novel Laureate John Nash (Sylvia Nasar) #biology #must 
+- [ ] Games of Strategy (Avinash K. Dixit, Susan Skeath, David H. Reiley Jr.) #examples
 
 ## Teaching
 - [ ] Reading Lessons: The books we read at school, the conversations they spark and why they matter #must 
@@ -1575,9 +1635,12 @@ My book reading list.
 - [ ] The Bonobo and the Atheist: In Search of Humanism Among the Primates
 
 ### Friedrich Hayek
-- [ ] Law, Legislation and Liberty (F. A. Hayek) #must #bumingbai 
-- [ ] The Road to Serfdom (F. A. Hayek) #bumingbai  #must 
+- [ ] Law, Legislation and Liberty #must #bumingbai 
+- [ ] The Road to Serfdom #bumingbai  #must 
 - [ ] Hayek: A Life, 1899–1950 #must 
+- [ ] The Fatal Conceit: The Errors of Socialism
+- [ ] Studies on the Abuse and Decline of Reason
+- [ ] Hayek on Hayek: An Autobiographical Dialogue
 
 ### George Orwell
 - [ ] Politics and the English Language
@@ -1803,11 +1866,16 @@ My book reading list.
 
 ### Ray Dalio
 - [ ] Principles: Life and Work #must 
-- [ ] Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail #must #economy 
+- [ ] Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail #must #economy #monetary
 - [ ] Principles for Navigating Big Debt Crises #economy 
 
 ### Stacey Abrams
 - [ ] Rogue Justice: A Thriller #politics 
+
+### Richard Pipes
+- [ ] Russia Under the Bolshevik Regime #must 
+- [ ] A Concise History of the Russian Revolution
+- [ ] Communism: A History
 
 ### Stephen King
 - [ ] Night Shift #must 
@@ -1876,8 +1944,10 @@ My book reading list.
 - [ ] Very Short Introductions (OUP): https://global.oup.com/academic/content/series/v/very-short-introductions-vsi
 - [ ] Harvard Library of Ukrainian Literature: https://books.huri.harvard.edu/series/harvard-library-of-ukrainian-literature
 - [ ] 壹嘉个人史: https://1plusbooks.com/壹嘉个人史
+- [ ] European Perspectives: A Series in Social Thought and Cultural Criticism
 - Princeton
 	- [ ] The University Center for Human Values Series
+- [ ] Guides to the Good Life: https://www.amazon.com/dp/B08CMFV8MH
 
 - Mindfulness Essentials - How To
 	- [ ] How to Sit #must 
