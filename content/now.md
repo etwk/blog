@@ -3,5 +3,6 @@ title: "What I'm doing now"
 tags: 
 enableToc: false
 ---
-## Working
-- https://github.com/etwk
+Reading, learning, and working towards in-wards and out-wards.
+
+https://github.com/etwk

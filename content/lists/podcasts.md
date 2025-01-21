@@ -9,8 +9,14 @@ Podcasts that I consume.
 ## Ideas
 - [Giant Idea Podcast](https://www.giant.vc/insights/giant-ideas-the-podcast)
 
+## Politics
+- The Foreign Affairs Interview
+
 ## Psychology
 - All There Is with Anderson Cooper
+
+## Science
+- Ri Science Podcast
 
 ## Self-help
 - The Decision Education Podcast

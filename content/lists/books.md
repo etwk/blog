@@ -124,9 +124,10 @@ My book reading list.
 - Ian Johnson
 	- [ ] Sparks: China's Underground Historians and Their Battle for the Future #bumingbai #must 
 	- [ ] The Souls of China: The Return of Religion After Mao
-- 杨继绳
+- 楊繼繩
 	- [ ] 墓碑  #bumingbai #must 
 	- [ ] 天地翻覆: 中国文化大革命历史
+	- [ ] 中國改革年代的政治鬥爭
 - [ ] 尋找家園 (高爾泰) #bumingbai #must  
 - [ ] 毛澤東的大饑荒：中國浩劫史1958-1962
 - [ ] Life and Death in Shanghai (Nien Cheng) #dasheng 
@@ -153,7 +154,7 @@ My book reading list.
 - [ ] 李作鵬回憶錄
 - [ ] 李锐口述往事 #must 
 - [ ] Betraying Big Brother: The Feminist Awakening in China
-- [ ] The Sentinel State: Surveillance and the Survival of Dictatorship in China #bumingbai 
+- [ ] The Sentinel State: Surveillance and the Survival of Dictatorship in China (Minxin Pei) #bumingbai 
 - [ ] The Rise and Fall of the EAST: How Exams, Autocracy, Stability, and Technology Brought China Success, and Why They Might Lead to Its Decline #must #bumingbai 
 - [ ] 兄弟 (余华) #bumingbai #censor
 - [ ] 庐山会议实录
@@ -233,8 +234,20 @@ My book reading list.
 - [ ] 申泮文的西南联大 (申泮文) #history #must 
 - [ ] 江南困局 (唐元鹏) #must 
 - [ ] 尋租中國：台商、廣東模式與全球資本主義 (吳介民)
+- [ ] Art, Myth, and Ritual: The Path to Political Authority in Ancient China (K. C. Chang) #history 
+- [ ] 近代中國史綱 (郭廷以) #history 
+- [ ] China and Charles Darwin (James Reeve Pusey) #politics 
+- [ ] 苦笑錄 (陳公博) #memoir #history  #must #perspective
+- [ ] 鄉村社會的毀滅 (謝幼田) #history #poetry 
+- [ ] 半截墓碑下的往事─高崗在北京 (趙家梁, 張曉霽) #history 
+- [ ] The Impact of China's 1989 Tiananmen Massacre (Jean-Philippe Beja) #history #politics 
+- [ ] Mao’s Last Revolution (Roderick MacFarquhar, Michael Schoenhals) #history 
+- [ ] China Under Mao: A Revolution Derailed (Andrew G. Walder) #history 
+- [ ] The Chinese Economy: Adaptation and Growth (Barry J. Naughton) #economy 
+- [ ] The Confucian-Legalist State: A New Theory of Chinese History (Dingxin Zhao) #history 
 
 #### Contemporary
+- [ ] Getting China Wrong (Aaron L. Friedberg) #politics #must 
 - [ ] 茉莉花在中國：鎮壓與迫害實錄 #must #dasheng
 - [ ] 2017年，起來中國 (高智晟) #dasheng 
 - [ ] 習近平是如何成為一位超級政治強人的？──對一場柔性政變的持續觀察 #dasheng 
@@ -243,11 +256,16 @@ My book reading list.
 - [ ] 她們的征途：直擊、迂迴與衝撞，中國女性的公民覺醒之路 #reporting #dasheng #must 
 - [ ] 武漢封城日記 (郭晶)
 - [ ] 武漢 (廖亦武) #novel 
+- [ ] Invisible China: How the Urban-Rural Divide Threatens China’s Rise (Scott Rozelle, Natalie Hell) #economy #sociology 
+- [ ] Overreach: How China Derailed Its Peaceful Rise (Susan L. Shirk) #politics #must 
 
 #### Fiction
 - [ ] 米拉蒂 (严歌苓) #novel #must 
 - [ ] 官場現形記 #fiction 
 - [ ] 老殘游記 #fiction 
+
+### Cyprus
+- [ ] Cypria: A Journey to the Heart of the Mediterranean (Alex Christofi) #travel #history 
 
 ### Europe
 - [ ] This is Europe: The Way We Live Now
@@ -263,7 +281,12 @@ My book reading list.
 - [ ] Blood of Others: Stalin's Crimean Atrocity and the Poetics of Solidarity #literary-criticism #history #must 
 
 ### France
-- [ ] The Ancien Régime and the Revolution (Alexis de Tocqueville, Gerald Bevan (Translator)) #history 
+#### The French Revolution
+- [ ] The Ancien Régime and the Revolution (Alexis de Tocqueville, Gerald Bevan: translator) #history 
+- [ ] The Oxford History of the French Revolution (William Doyle)
+- [ ] The French Revolution: Faith, Desire and Politics (Noah Shusterman) #history 
+- [ ] Terror: The French Revolution and Its Demons (Michel Biard, Marisa Linton) #history 
+- [ ] The Sans-Culottes (Albert Soboul) #history 
 
 ### Germany
 - [ ] 歐洲的心臟：德國如何改變自己
@@ -357,6 +380,9 @@ My book reading list.
 - [ ] HAMAS: The Quest for Power (Beverley Milton-Edwards, Stephen Farrell)
 - [ ] I Shall Not Hate: A Gaza Doctor's Journey on the Road to Peace and Human Dignity (Izzeldin Abuelaish) #history  
 
+### Poland
+- [ ] God's Playground: A History of Poland: The Origins to 1795 (Norman Davies)
+
 ### Russia
 - [ ] All the Kremlin's Men: Inside the Court of Vladimir Putin
 - [ ] Illness and Inhumanity in Stalin's Gulag
@@ -385,11 +411,25 @@ My book reading list.
 - [ ] In Their Own Words: How Russian Propagandists Reveal Putin’s Intentions (Julia Davis) #Ukrainian-Voices
 - [ ] Endgame 1944: How Stalin Won the War (Jonathan Dimbleby) #history #must 
 - [ ] From Cold War to Hot Peace: An American Ambassador in Putin’s Russia (Michael McFaul) #history 
+- Orlando Figes #history 
+	- [ ] A People's Tragedy: The Russian Revolution: 1891-1924 #must 
+	- [ ] The Story of Russia
+- [ ] Life and Fate (Vasily Grossman) #fiction #must 
+- [ ] The House of Government: A Saga of the Russian Revolution (Yuri Slezkine) #history 
+- [ ] A History of Russia (Nicholas V. Riasanovsky, Mark D. Steinberg)
+- [ ] Lenin: The Man, the Dictator, and the Master of Terror (Victor Sebestyen) #biography #must 
+- [ ] Leon Trotsky: A Revolutionary's Life (Joshua Rubenstein) #biography 
+- [ ] The Russian Revolution: A New History (Sean McMeekin)
+- [ ] Mitrokhin Archive: The Kgb In Europe And The West (Christopher Andrew, Vasill Mitrokhin) #history #intelligence
+- [ ] Gorbachev: His Life and Times (William Taubman) #biography 
+- [ ] Collapse: The Fall of the Soviet Union (Vladislav M. Zubok) #history 
 
 ### Spain
 - [ ] Spain in Our Hearts: Americans in the Spanish Civil War, 1936–1939 #history #fascism #politics #must 
+
 ### Syria
 - [ ] The Daughters of Kobani: A Story of Rebellion, Courage, and Justice #war #Islamic #female #must 
+
 ### Taiwan
 - [ ] 台灣地方政治讀本：來自青年世代的提問、實踐與反思 #politics 
 - 陳柔縉
@@ -461,6 +501,7 @@ My book reading list.
 - [ ] Error of Judgement: The Birmingham Bombings and the Scandal That Shook Britain
 - [ ] Empireworld: How British Imperialism Has Shaped the Globe #history 
 - [ ] Keir Starmer: The Biography #people #must 
+- [ ] King John: England's Evil King? (Ralph V Turner) #history 
 
 ### Ukraine
 - [x] Zelensky: A Biography (Serhii Rudenko) #people 
@@ -538,6 +579,7 @@ My book reading list.
 - [ ] Behold, America: The Entangled History of "America First" and "the American Dream" (Sarah Churchwell) #history 
 - [ ] Prequel: An American Fight Against Fascism (Rachel Maddow) #history 
 - [ ] The World of Chief Seattle: How Can One Sell The Air? (Warren Jefferson)
+- [ ] Armed Citizens: The Road from Ancient Rome to the Second Amendment (Noah Shusterman)
 
 ### Vietnam
 - [ ] 越南現代小說選 (羅漪文 譯) #fiction #novel #must 
@@ -589,8 +631,8 @@ My book reading list.
 - Ludwig Von Mises
 	- [ ] Economic policy: Thoughts for today and tomorrow #must 
 	- [ ] Ludwig Von Mises: The Man and His Economics (Israel M. Kirzner, Library of Modern Thinkers)
-- [ ] By Force of Thought: Irregular Memoirs of an Intellectual Journey (Janos Kornai) #biography 
-- [ ] The Great Divergence: China, Europe, and the Making of the Modern World Economy #history #China #must 
+	- [ ] Socialism: An Economic and Sociological Analysis
+- [ ] The Great Divergence: China, Europe, and the Making of the Modern World Economy (Kenneth Pomeranz) #history #China #must 
 - [ ] Microeconomics: A Very Short Introduction (Avinash Dixit)
 - [ ] Religion and the Rise of Capitalism (Benjamin M. Friedman) #must 
 - [ ] Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics (Henry Hazlitt) #must 
@@ -600,6 +642,8 @@ My book reading list.
 	- [ ] Moneyland: The Inside Story of the Crooks and Kleptocrats Who Rule the World #crime #politics #must 
 	- [ ] Butler to the World: How Britain Helps the World's Worst People Launder Money, Commit Crimes, and Get Away with Anything #oligarch
 - [ ] Debt: The First 5,000 Years (David Graeber) #history #must 
+- [ ] Who Gets What—and Why: The New Economics of Matchmaking and Market Design (Alvin E. Roth)
+- [ ] Institutions, Institutional Change and Economic Performance (Douglass C. North) #politics #must 
 
 ## Education
 - [ ] Unequal Childhoods: Class, Race, and Family Life
@@ -852,6 +896,7 @@ My book reading list.
 - [ ] Way of the Turtle: The Secret Methods that Turned Ordinary People into Legendary Traders (Curtis Faith)
 - [ ] Diary of a Professional Commodity Trader: Lessons from 21 Weeks of Real Trading (Peter L. Brandt)
 - [ ] What You Should Know About Inflation (Henry Hazlitt) #must 
+- [ ] The All Weather Trader: Mr. Serenity’s Thoughts on Trading Come Rain or Shine (Tom Basso) #must 
 
 ### Monetary
 - [ ] The Ascent of Money: A Financial History of the World (Niall Ferguson)
@@ -885,7 +930,6 @@ My book reading list.
 
 ## Health
 - [ ] Chronic Pain Reset: 30 Days of Activities, Practices, and Skills to Help You Thrive
-- [ ] Beyond Satisfied: A Sex Hacker's Guide to Endless Orgasms, Mind-Blowing Connection, and Lasting Confidence #must 
 - [ ] Period (Emma Barnett)
 - [ ] Break Free from Maternal Anxiety: A Self-Help Guide for Pregnancy, Birth and the First Postnatal Year
 - [ ] This Is Assisted Dying: A Doctor's Story of Empowering Patients at the End of Life #must  
@@ -894,6 +938,7 @@ My book reading list.
 - [ ] Pathogenesis: How Germs Made History (Jonathan Kennedy) #history #must 
 - [ ] The Living Medicine: How a Lifesaving Cure Was Nearly Lost―and Why It Will Rescue Us When Antibiotics Fail (Lina Zeldovich)
 - [ ] Bad Pharma: How Drug Companies Mislead Doctors and Harm Patients (Ben Goldacre)
+- [ ] Sociopath: A Memoir (Patric Gagne) #memoir #must 
 
 ### Exercise
 - [ ] Kettlebell Axe: High Speed, Low Drag Alternative to HIIT (Pavel Tsatsouline)
@@ -907,7 +952,6 @@ My book reading list.
 - [ ] Accidental State: Chiang Kai-shek, the United States, and the Making of Taiwan
 - [ ] A Very Short History of the World (Geoffrey Blainey) #must 
 - [ ] Goodbye, Eastern Europe: An Intimate History of a Divided Land
-- [ ] A People's Tragedy: The Russian Revolution
 - [ ] The Prize: The Epic Quest for Oil, Money & Power #must 
 - [ ] Prisons We Choose to Live Inside (Doris Lessing) #must 
 - [ ] Ghosts of the Tsunami: Death and Life in Japan's Disaster Zone
@@ -979,6 +1023,16 @@ My book reading list.
 - [ ] Atoms and Ashes: A Global History of Nuclear Disasters
 - [ ] The Missing Thread: A Women's History of the Ancient World (Daisy Dunn) #female 
 - [ ] At the Edge of Empire: A Family's Reckoning with China (Edward Wong) #memoir #China 
+- Will Durant
+	- [ ] The Lessons of History (Will Durant, Ariel Durant)
+	- [ ] The Story of Civilization: The Age of Reason Begins
+- [ ] The Secret World: A History of Intelligence (Christopher Andrew) #intelligence #comprehensive
+- [ ] Yalta: The Price of Peace (S. M. Plokhy)
+
+### Comparative
+- [ ] Lineages of the Absolutist State (Perry Anderson)
+- [ ] Lenin, Stalin, and Hitler: The Age of Social Catastrophe (Robert Gellately)
+- [ ] The Black Book of Communism: Crimes, Terror, Repression (Jean-Louis Panné, Andrzej Paczkowski, Karel Bartosek, Jean-Louis Margolin, Nicolas Werth, Stéphane Courtois)
 
 ## Journalism
 - [ ] No Ordinary Assignment #memoir #war #female #must 
@@ -1047,7 +1101,9 @@ My book reading list.
 - [ ] Ali: A Life (Jonathan Eig) #must 
 
 ## Math
-- [ ] How Not to Be Wrong: The Power of Mathematical Thinking
+- Jordan Ellenberg
+	- [ ] Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else
+	- [ ] How Not to Be Wrong: The Power of Mathematical Thinking
 - [ ] Zero: The Biography of a Dangerous Idea
 
 ## Media
@@ -1192,14 +1248,16 @@ My book reading list.
 	- [ ] The Symposium #must 
 	- [ ] The Republic
 - [ ] Plato at the Googleplex: Why Philosophy Won't Go Away (Rebecca Goldstein)
-- [ ] On the Suffering of the World (Arthur Schopenhauer, Eugene Thacker (Editor))
-- [ ] The Cambridge Companion to Locke (Vere Chappell (Editor))
+- [ ] On the Suffering of the World (Arthur Schopenhauer, Eugene Thacker: editor)
+- [ ] The Cambridge Companion to Locke (Vere Chappell: editor)
+- [ ] Conversations of Socrates (Xenophon) #slow #ancient #must 
 
 ### Enlightenment
 - [ ] The Enlightenment: The Pursuit of Happiness, 1680-1790 (Ritchie Robertson) #history #must 
 - [ ] The Enlightenment: And Why It Still Matters (Anthony Pagden)
 - [ ] The Enlightenment: History of an Idea (Vincenzo Ferrone)
 - [ ] Revolutionary Ideas: An Intellectual History of the French Revolution from The Rights of Man to Robespierre (Jonathan Israel) #history #must 
+- [ ] Three Critics of the Enlightenment: Vico, Hamann, Herder (Isaiah Berlin)
 
 ## Photography
 - [ ] I Am Home: Portraits of Immigrant Teenagers
@@ -1251,6 +1309,9 @@ My book reading list.
 - [ ] The Insiders’ Game: How Elites Make War and Peace #academy 
 - [ ] The Architecture of Modern Empire: Conversations with David Barsamian
 - [ ] How Civil Wars Start: And How to Stop Them (Barbara F. Walter) #must 
+- [ ] Mussolini: A Biography (Dennis Mack Smith) #fascism #communism
+- [ ] Lee Kuan Yew: The Grand Master's Insights on China, the United States, and the World (Graham Allison, Robert D. Blackwill, Ali Wyne) #interview #leadership 
+- [ ] 民主的歷史 (許良英, 王來棣) #history 
 
 ## Psychology
 - [ ] Mirror Thinking: How Role Models Make Us Human
@@ -1308,6 +1369,7 @@ My book reading list.
 
 ### Psychotherapy
 - [ ] Treating Chronically Traumatized Children: The Sleeping Dogs Method (Arianne Struik)
+- [ ] From Skepticism to Competence: How American Psychiatrists Learn Psychotherapy (Mariana Craciun)
 
 ## Relationship
 - [ ] Never Eat Alone, Expanded and Updated: And Other Secrets to Success, One Relationship at a Time
@@ -1318,13 +1380,16 @@ My book reading list.
 - [ ] The Ethical Slut: A Practical Guide to Polyamory, Open Relationships, and Other Freedoms in Sex and Love #sex #love 
 - [ ] 我媽媽的寄生蟲 (林蔚昀) #essay #must 
 - [ ] The Book You Want Everyone You Love to Read: Sane And Sage Advice to Help You Navigate All of Your Most Important Relationships (Philippa Perry) #psychology  #must 
+- [ ] Games People Play: The Psychology of Human Relationships (Eric Berne)
 
 ## Religion
 - [ ] Conversations With God (Neale Donald Walsch)
 - [ ] Dialogues Concerning Natural Religion (David Hume) #classics #philosophy
+- [ ] The Four Horsemen: The Conversation That Sparked an Atheist Revolution (Christopher Hitchens, Richard Dawkins, Sam Harris, Daniel Dennett)
 
 ### Christianity
 - [ ] The Gospel of Thomas: The Hidden Sayings of Jesus (Marvin W. Meyer, Harold Bloom #untold 
+- [ ] All Things in Common: The Economic Practices of the Early Christians (Roman A. Montero)
 
 ### Islam
 - [ ] Faith at War: A Journey on the Frontlines of Islam, from Baghdad to Timbuktu (Yaroslav Trofimov) #history 
@@ -1334,8 +1399,7 @@ My book reading list.
 - [ ] The Lives of Animals (J. M. Coetzee) #fiction #must 
 
 ## Science
-- [ ] Why Animals Talk: The New Science of Animal Communication
-- [ ] Learn to Orgasm in 4 Acts
+- [ ] Why Animals Talk: The New Science of Animal Communication (Arik Kershenbaum)
 - [ ] How Life Works: A User's Guide to the New Biology #must 
 - [ ] Gendered Brain (Gina Rippon) #must 
 - [ ] How to Create a Mind: The Secret of Human Thought Revealed
@@ -1438,6 +1502,15 @@ My book reading list.
 - [ ] 房思琪的初戀樂園 #must 
 - [ ] She Said: Breaking the Sexual Harassment Story That Helped Ignite a Movement #sociology #journalism #must 
 - [x] The T Guide: Our Trans Experiences and a Celebration of Gender Expression—Man, Woman, Nonbinary, and Beyond #transgender 
+- [ ] The Erotic Mind: Unlocking the Inner Sources of Passion and Fulfillment (Jack Morin) #psychology #self-help #must 
+
+### Sex
+- [ ] Beyond Satisfied: A Sex Hacker's Guide to Endless Orgasms, Mind-Blowing Connection, and Lasting Confidence
+- [ ] Learn to Orgasm in 4 Acts (Betty Dodson)
+- Ian Kerner
+	- [ ] She Comes First: The Thinking Man's Guide to Pleasuring a Woman #oral-sex #must 
+	- [ ] So Tell Me About the Last Time You Had Sex: Laying Bare and Learning to Repair Our Love Lives
+	- [ ] Passionista: The Empowered Woman's Guide to Pleasuring a Man
 
 ## Sociology
 - [ ] The True Believer: Thoughts on the Nature of Mass Movements 
@@ -1460,7 +1533,6 @@ My book reading list.
 - [ ] Development as Freedom #must #bumingbai 
 - [ ] The New Odyssey: The Story of Europe's Refugee Crisis
 - [ ] Why Are All the Black Kids Sitting Together in the Cafeteria?: And Other Conversations About Race #must 
-- [ ] The Origins of Totalitarianism #bumingbai 
 - [ ] Plagues and the Paradox of Progress: Why the World Is Getting Healthier in Worrisome Ways #bumingbai 
 - [ ] The Power of Crisis #bumingbai #must 
 - [ ] Guns, Germs, And Steel: The Fates of Human Societies #bumingbai #must 
@@ -1517,6 +1589,9 @@ My book reading list.
 - [ ] Minority Leader: How to Lead from the Outside and Make Real Change (Stacey Abrams) #human-rights #racism #discrimination #must 
 - [ ] A Brief History of Equality (Thomas Piketty) #history 
 - [ ] Revenge of the Tipping Point: Overstories, Superspreaders, and the Rise of Social Engineering (Malcolm Gladwell)
+- [ ] Outraged: Why We Fight About Morality and Politics and How to Find Common Ground (Kurt Gray) #morality #must 
+- [ ] Rat City: Overcrowding and Urban Derangement in the Rodent Universes of John B. Calhoun (Jon Adams, Edmund Ramsden)
+- [ ] Everything to Play For: An Insider's Guide to How Videogames are Changing Our World (Marijam Did) #game 
 
 ## Spirituality
 - [ ] Not Quite Nirvana: A Skeptic's Journey to Mindfulness #must #memoir 
@@ -1557,6 +1632,8 @@ My book reading list.
 - [ ] The Art of Strategy: A Game Theorist's Guide to Success in Business and Life (Avinash K. Dixit, Barry J. Nalebuff) #must 
 - [ ] A Beautiful Mind: The Life of Mathematical Genius and Novel Laureate John Nash (Sylvia Nasar) #biology #must 
 - [ ] Games of Strategy (Avinash K. Dixit, Susan Skeath, David H. Reiley Jr.) #examples
+- [ ] Prisoner's Dilemma: John von Neumann, Game Theory, and the Puzzle of the Bomb (William Poundstone) #biography 
+- [ ] Playing with Reality: How Games Have Shaped Our World (Kelly Clancy) #must 
 
 ## Teaching
 - [ ] Reading Lessons: The books we read at school, the conversations they spark and why they matter #must 
@@ -1662,7 +1739,7 @@ My book reading list.
 - [ ] Goddesses: Mysteries of the Feminine Divine
 
 ### Hannah Arendt
-- [ ] The Origins of Totalitarianism #must 
+- [ ] The Origins of Totalitarianism #bumingbai  #must 
 - [ ] Responsibility and Judgment #philosophy 
 - [ ] The Promise of Politics
 
@@ -1775,11 +1852,6 @@ My book reading list.
 - [ ] 大地呻吟 #must 
 - [ ] 故交半零落
 
-### 余英時
-- [ ] 余英時回憶錄 #must 
-- [ ] 余英時談話錄
-- [ ] 余英時評政治現實 #dasheng #must 
-
 ## Travel
 - [ ] Ocean of Insight: A Sailor's Voyage from Despair to Hope
 
@@ -1808,6 +1880,9 @@ My book reading list.
 - [ ] Seven Guitars
 - [ ] Fences #must 
 
+### Bertrand Russell
+- [ ] The History of Western Philosophy
+
 ### Claire Keegan
 - [ ] Small Things Like These #must 
 - [ ] Foster
@@ -1832,17 +1907,25 @@ My book reading list.
 - [ ] Dubliners #must 
 - [ ] A Portrait of the Artist as a Young Man
 
+### Janos Kornai
+- [ ] By Force of Thought: Irregular Memoirs of an Intellectual Journey #biography 
+- [ ] The Socialist System
+- [ ] Dynamism, Rivalry, and the Surplus Economy: Two Essays on the Nature of Capitalism
+
+### Kazuo Ishiguro
+- [ ] The Remains of the Day #fiction 
+
 ### Margaret Atwood
 - [ ] The Handmaid's Tale #fiction #novel #dystopian #feminism 
+
+### Milan Kundera
+- [ ] The Unbearable Lightness of Being: A Novel
 
 ### Miranda July
 - [ ] The First Bad Man: A Novel #fiction  #must 
 - [ ] It Chooses You
 - [x] No One Belongs Here More Than You: Stories #must #short-stories 
 - [ ] All Fours: A Novel #fiction #must 
-
-### Kazuo Ishiguro
-- [ ] The Remains of the Day #fiction 
 
 ### Masha Gessen
 - [ ] The Future Is History: How Totalitarianism Reclaimed Russia #history #must
@@ -1872,10 +1955,15 @@ My book reading list.
 ### Stacey Abrams
 - [ ] Rogue Justice: A Thriller #politics 
 
+### Richard Dawkins
+- [ ] The Genetic Book of the Dead: A Darwinian Reverie #must 
+- [ ] The Magic of Reality: How We Know What's Really True
+
 ### Richard Pipes
 - [ ] Russia Under the Bolshevik Regime #must 
 - [ ] A Concise History of the Russian Revolution
 - [ ] Communism: A History
+- [ ] Property and Freedom
 
 ### Stephen King
 - [ ] Night Shift #must 
@@ -1898,6 +1986,11 @@ My book reading list.
 ### 高行健
 - [ ] 靈山 #novel  #must 
 - [ ] 一個人的聖經 #novel 
+
+### 余英時
+- [ ] 余英時回憶錄 #must 
+- [ ] 余英時談話錄
+- [ ] 余英時評政治現實 #dasheng #must 
 
 ### 王力雄
 - [ ] 黄祸 #bumingbai 

@@ -9,7 +9,7 @@ Welcome to Earthwalker's blogging and sharing site.
 - [consume](consume.md)
 - [contact](contact.md)
 - [doing now](now.md)
-- [guidelines](guidelines.md)
+- [guidance](guidance.md)
 - [lists](lists)
 - [posts](posts)
 - [projects](projects)
