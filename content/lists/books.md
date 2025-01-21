@@ -37,6 +37,9 @@ My book reading list.
 ### Belarus
 - [ ] Ribwort (Hanna Komar) #poetry #politics 
 
+### Canada
+- [ ] Better Now: Six Big Ideas to Improve Health Care for All Canadians (Dr. Martin, Danielle) #medicare
+
 ### China
 - [ ] Red Roulette: An Insider's Story of Wealth, Power, Corruption, and Vengeance in Today's China #must 
 - [ ] Selling China: Foreign Direct Investment during the Reform Era (Cambridge Modern China Series)
@@ -942,6 +945,7 @@ My book reading list.
 
 ### Exercise
 - [ ] Kettlebell Axe: High Speed, Low Drag Alternative to HIIT (Pavel Tsatsouline)
+- [ ] Aging Backwards: Fast Track: 6 Ways in 30 Days to Look and Feel Younger (Miranda Esmonde-White)
 
 ## History
 - [ ] How the World Really Works: A Scientist’s Guide to Our Past, Present and Future
@@ -1431,12 +1435,14 @@ My book reading list.
 - [ ] What Is This Thing Called Science? (Alan F. Chalmers) #philosophy #must 
 - [ ] Philosophy of Science: A Very Short Introduction (Samir Okasha) #philosophy 
 - [ ] Anaximander: And the Birth of Science (Carlo Rovelli) #history 
+- [ ] The Panic Virus: A True Story of Medicine, Science, and Fear (Seth Mnookin) #disinformation
 
 ### Biology
 - [ ] Rumbles: A Curious History of the Gut
 - [ ] The Immune Mind: The new science of health (Monty Lyman)
 - [ ] Eve: The Disobedient Future of Birth #future #technology
 - [ ] Ever Since Darwin: Reflections in Natural History (Stephen Jay Gould) #essay 
+- [ ] She Has Her Mother's Laugh: The Powers, Perversions, and Potential of Heredity (Carl Zimmer) #must 
 
 ### Children's Book
 - Lucy Hawking & Stephen Hawking
