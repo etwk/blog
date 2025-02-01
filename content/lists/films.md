@@ -1,3 +1,14 @@
+---
+title: Films
+tags:
+  - film
+---
+## Connection
+- Nuri Bilge Ceylan
+	- [x] Kuru Otlar Üstüne (AKA About Dry Grasses, 2023)
+	- [x] Ahlat Agaci (AKA The Wild Pear Tree, 2018)
+	- [x] Kis Uykusu (AKA Winter Sleep, 2014)
+
 ## Emotion
 - [x] La bete (2023) #reincarnation #sci-fi #love #period
 - [x] The Age of Innocence (1993) #feminism #love #period

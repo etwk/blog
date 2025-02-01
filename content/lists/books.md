@@ -540,7 +540,7 @@ My book reading list.
 - [ ] Dreamland: The True Tale of America's Opiate Epidemic #must 
 - [ ] Strangers in Their Own Land: Anger and Mourning on the American Right #must 
 - [ ] Ghosting the News: Local Journalism and the Crisis of American Democracy #must 
-- [ ] The Internationalists: The Fight to Restore American Foreign Policy After Trump #must 
+- [x] The Internationalists: The Fight to Restore American Foreign Policy After Trump #must 
 - [ ] What Happened (H. R. Clinton) #must 
 - [ ] White Rage: The Unspoken Truth of Our Racial Divide #must 
 - [ ] Tales of Two Americas: Stories of Inequality in a Divided Nation
@@ -583,6 +583,9 @@ My book reading list.
 - [ ] Prequel: An American Fight Against Fascism (Rachel Maddow) #history 
 - [ ] The World of Chief Seattle: How Can One Sell The Air? (Warren Jefferson)
 - [ ] Armed Citizens: The Road from Ancient Rome to the Second Amendment (Noah Shusterman)
+- Thomas E. Ricks
+	- [ ] First Principles: What America's Founders Learned from the Greeks and Romans and How That Shaped Our Country #history #must 
+	- [ ] Waging a Good War: A Military History of the Civil Rights Movement, 1954-1968 #strategy #must #military 
 
 ### Vietnam
 - [ ] 越南現代小說選 (羅漪文 譯) #fiction #novel #must 
@@ -597,10 +600,13 @@ My book reading list.
 - [ ] Timeless Paris (Marin Montagut)
 - [ ] Divine Gardens: Mayumi Oda and the San Francisco Zen Center #must #essay
 - [ ] The Roots of Romanticism (Isaiah Berlin) #bumingbai
+- [ ] Color: A Natural History of the Palette (Victoria Finlay) #history 
 
 ## Biography
 - [ ] The Elements of Marie Curie: How the Glow of Radium Lit a Path for Women in Science (Dava Sobel) #science #female #must 
 - [ ] Dutch Girl: Audrey Hepburn and World War II (Robert Matzen) #history #must 
+- [ ] Something Like An Autobiography (Akira Kurosawa) #film #must 
+- [ ] Churchill and Orwell: The Fight for Freedom (Thomas E. Ricks) #history #must 
 
 ## Business
 - [ ] Facebook: The Inside Story
@@ -698,6 +704,7 @@ My book reading list.
 - [ ] The Upcycle: Beyond Sustainability--Designing for Abundance (William McDonough, Michael Braungart) #sustainability 
 - [ ] The Heat Will Kill You First: Life and Death on a Scorched Planet (Jeff Goodell)
 - [ ] Trash Talk: An Eye-Opening Exploration of Our Planet's Dirtiest Problem (Iris Gottlieb)
+- [ ] How to Blow Up a Pipeline (Andreas Malm) #environment #strategy #activism
 
 ## Feminism
 - [ ] Down Girl: The Logic of Misogyny
@@ -707,7 +714,7 @@ My book reading list.
 - [ ] Material Girls: Why Reality Matters for Feminism #must 
 - [ ] The Story of Art without Men #must 
 - Dr. Jen Gunter
-	- [ ] The Vagina Bible: The Vulva and the Vagina: Separating the Myth from the Medicine #must 
+	- [x] The Vagina Bible: The Vulva and the Vagina: Separating the Myth from the Medicine #must 
 	- [ ] The Menopause Manifesto: Own Your Health with Facts and Feminism
 	- [ ] Blood: The Science, Medicine, and Mythology of Menstruation
 - [ ] A History of Women in 101 Objects (Annabelle Hirsch)
@@ -819,6 +826,7 @@ My book reading list.
 - [ ] Samuel Beckett: The Complete Dramatic Works
 - [ ] Nora: A Doll's House
 - [ ] Antigone (Jean Anouilh) #translation #French #tyranny #must 
+- [ ] The Man from Earth (Richard Schenkman: adapter, Jerome Bixby) #film #sci-fi #must 
 
 ### Science
 - [ ] The Journeys of Socrates: An Adventure #must 
@@ -845,10 +853,10 @@ My book reading list.
 
 ## Finance
 - [ ] The Algebra of Wealth: A Simple Formula for Financial Security #must 
-- [ ] Tokens: The Future of Money in the Age of the Platform #future #must #monetary 
+- [ ] The Price of Time: The Real Story of Interest (Edward Chancellor) #history  #must 
 
 ### Investing
-- [ ] 100 Baggers: Stocks that Return 100-to-1 and How to Find Them
+- [x] 100 Baggers: Stocks that Return 100-to-1 and How to Find Them (Christopher W. Mayer)
 - [ ] A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Burton G. Malkiel) #stock #must
 - [x] How to Day Trade: The Plain Truth (Ross Cameron) #must 
 - [ ] The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness: Timeless lessons on wealth, greed, and happiness (Morgan Housel) #must 
@@ -885,13 +893,15 @@ My book reading list.
 	- [ ] Super Trader, Expanded Edition: Make Consistent Profits in Good and Bad Markets
 	- [ ] Eight Edges You Must Have: Your Written Trading Plan
 - Jack D. Schwager
-	- [ ] Unknown Market Wizards: The best traders you've never heard of #must 
+	- [x] Unknown Market Wizards: The best traders you've never heard of #must 
 	- [ ] Market Wizards: Interviews With Top Traders
 	- [ ] The Little Book of Market Wizards: Lessons from the Greatest Traders
 	- [ ] Hedge Fund Market Wizards: How Winning Traders Win
+	- [ ] A Complete Guide to the Futures Market: Technical Analysis, Trading Systems, Fundamental Analysis, Options, Spreads, and Trading Principles
+	- [ ] Market Sense and Nonsense: How the Markets Really Work (and How They Don't)
 - [ ] The Complete TurtleTrader: The Legend, the Lessons, the Results (Michael W Covel) #event #must
 - Nick Radge
-	- [ ] Weekend Trend Trader #strategy
+	- [x] Weekend Trend Trader #strategy
 	- [ ] Unholy Grails - A New Road to Wealth
 	- [ ] Adaptive Analysis for Stocks
 	- [ ] Every-Day Traders Australia: Australians Who Successfully Trade for a Living #interview
@@ -899,7 +909,10 @@ My book reading list.
 - [ ] Way of the Turtle: The Secret Methods that Turned Ordinary People into Legendary Traders (Curtis Faith)
 - [ ] Diary of a Professional Commodity Trader: Lessons from 21 Weeks of Real Trading (Peter L. Brandt)
 - [ ] What You Should Know About Inflation (Henry Hazlitt) #must 
-- [ ] The All Weather Trader: Mr. Serenity’s Thoughts on Trading Come Rain or Shine (Tom Basso) #must 
+- Tom Basso
+	- [ ] The All Weather Trader: Mr. Serenity’s Thoughts on Trading Come Rain or Shine #must 
+	- [ ] Trend Following Mindset: The Genius of Legendary Trader Tom Basso (Michael Covel)
+- [ ] Devil Take the Hindmost: A History of Financial Speculation (Edward Chancellor) #must 
 
 ### Monetary
 - [ ] The Ascent of Money: A Financial History of the World (Niall Ferguson)
@@ -909,6 +922,14 @@ My book reading list.
 	- [ ] Globalizing Capital: A History of the International Monetary System
 	- [ ] How Global Currencies Work: Past, Present, and Future
 	- [ ] Exorbitant Privilege: The Rise and Fall of the Dollar and the Future of the International Monetary System
+- [ ] Tokens: The Future of Money in the Age of the Platform #future #must
+
+### Trading
+- [ ] Automated Stock Trading Systems: A Systematic Approach for Traders to Make Money in Bull, Bear and Sideways Markets (Laurens Bensdorp)
+- Mark Douglas
+	- [ ] Trading in the Zone: Master the Market with Confidence, Discipline, and a Winning Attitude #must 
+	- [ ] The Disciplined Trader: Developing Winning Attitudes
+- [ ] Technical Analysis of Stock Trends (Robert D. Edwards, John Magee, W.H.C. Bassetti) #textbook #classics 
 
 ## Food
 - [ ] Eat Like The Animals: What Nature Teaches Us About the Science of Healthy Eating
@@ -930,6 +951,7 @@ My book reading list.
 
 ## Gender
 - [ ] Better Boys, Better Men: The New Masculinity That Creates Greater Courage and Emotional Resiliency (Andrew Reiner) #must 
+- [ ] Poet, Mystic, Widow, Wife: The Extraordinary Lives of Medieval Women (Hetta Howes) #people #female 
 
 ## Health
 - [ ] Chronic Pain Reset: 30 Days of Activities, Practices, and Skills to Help You Thrive
@@ -942,6 +964,11 @@ My book reading list.
 - [ ] The Living Medicine: How a Lifesaving Cure Was Nearly Lost―and Why It Will Rescue Us When Antibiotics Fail (Lina Zeldovich)
 - [ ] Bad Pharma: How Drug Companies Mislead Doctors and Harm Patients (Ben Goldacre)
 - [ ] Sociopath: A Memoir (Patric Gagne) #memoir #must 
+- Dr. Jamie Koufman
+	- [ ] The Chronic Cough Enigma: How to recognize neurogenic and reflux related cough
+	- [ ] Dr. Koufman's Acid Reflux Diet: With 111 All New Recipes Including Vegan & Gluten-Free
+- [ ] Lies My Doctor Told Me Second Edition: Medical Myths That Can Harm Your Health (Dr. Ken Berry)
+- [ ] How to Fix a Broken Heart (Guy Winch) #emotion #self-help 
 
 ### Exercise
 - [ ] Kettlebell Axe: High Speed, Low Drag Alternative to HIIT (Pavel Tsatsouline)
@@ -1061,6 +1088,7 @@ My book reading list.
 
 ## Leadership
 - [ ] Extreme Ownership: How U.S. Navy SEALs Lead and Win (Jocko Willink, Leif Babin)
+- [ ] Leadership: Six Studies in World Strategy (Henry Kissinger) #must 
 
 ## Life
 - [ ] How to be a Happier Parent: Raising a Family, Having a Life, and Loving (Almost) Every Minute
@@ -1121,7 +1149,9 @@ My book reading list.
 - [ ] The Knife’s Edge: The Heart and Mind of a Cardiac Surgeon #life #must 
 - [ ] 戰爭與藥物：從流感、生化武器、冰毒到創傷後壓力症候群……人氣藥學教授探索史上戰爭催生出的疾病與新藥物，以及醫藥發展所介入的人類戰事 #war #history #must #translation  #Korean 
 - [ ] The Apothecary's Wife: The Hidden History of Medicine and How It Became a Commodity (Karen Bloom Gevirtz) #history 
-- [ ] The Song of the Cell: An Exploration of Medicine and the New Human (Siddhartha Mukherjee) #history #biology
+- Siddhartha Mukherjee
+	- [ ] The Song of the Cell: An Exploration of Medicine and the New Human #history #biology
+	- [ ] The Emperor of All Maladies: A Biography of Cancer #must 
 
 ## Meditation
 - Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life (Jon Kabat-Zinn PhD) #mindfulness #must #trading
@@ -1134,6 +1164,15 @@ My book reading list.
 - [ ] The Truths We Hold: An American Journey (Kamala Harris) #must 
 - [ ] Freedom: Memoirs 1954 – 2021 (Angela Merkel) #must 
 - [ ] Home in the World: A Memoir (Amartya Sen) #economy #must 
+
+## Military
+- [ ] On War (Carl von Clausewitz) #classics #strategy
+- [ ] Warfighting: The US Marine Corps Book of Strategy #must 
+- [ ] Making the Corps (Thomas E. Ricks) #history #Marine
+- [ ] One Bullet Away: The Making of a Marine Officer (Nathaniel C. Fick) #memoir #must 
+- [ ] The Warrior Ethos (Steven Pressfield)
+- [ ] With the Old Breed: At Peleliu and Okinawa (E.B. Sledge) #memoir #war #Marine 
+- [ ] The Last Stand of Fox Company: A True Story of U.S. Marines in Combat (Bob Drury, Tom Clavin) #war #history #must 
 
 ## Movements
 - [ ] Unbroken Wholeness: Six Pathways to the Beloved Community: Integrating Social Justice, Emotional Healing, and Spiritual Practice (John Bell) #must #spirituality 
@@ -1167,6 +1206,7 @@ My book reading list.
 - [ ] The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness
 - [ ] The Book You Wish Your Parents Had Read: (and Your Children Will Be Glad That You Did) (Philippa Perry) #psychology  #must 
 - [ ] Mother Brain: How Neuroscience Is Rewriting the Story of Parenthood (Chelsea Conaboy)
+- [ ] Acid Reflux in Children: How Healthy Eating Can Fix Your Child's Asthma, Allergies, Obesity, Nasal Congestion, Cough & Croup (Dr. Jamie Koufman MD, Dr. Julie L Wei MD, Dr. Karen Zur MD) #health #food
 
 ### Motherhood
 - [ ] I Cannot Control Everything Forever: A Memoir of Motherhood, Science, and Art (Emily C. Bloom) #memoir #must 
@@ -1385,6 +1425,7 @@ My book reading list.
 - [ ] 我媽媽的寄生蟲 (林蔚昀) #essay #must 
 - [ ] The Book You Want Everyone You Love to Read: Sane And Sage Advice to Help You Navigate All of Your Most Important Relationships (Philippa Perry) #psychology  #must 
 - [ ] Games People Play: The Psychology of Human Relationships (Eric Berne)
+- [ ] How to Win Friends & Influence People (Dale Carnegie) #must 
 
 ## Religion
 - [ ] Conversations With God (Neale Donald Walsch)
@@ -1436,6 +1477,7 @@ My book reading list.
 - [ ] Philosophy of Science: A Very Short Introduction (Samir Okasha) #philosophy 
 - [ ] Anaximander: And the Birth of Science (Carlo Rovelli) #history 
 - [ ] The Panic Virus: A True Story of Medicine, Science, and Fear (Seth Mnookin) #disinformation
+- [ ] How Nature Works: The Science of Self-organized Criticality (Per Bak)
 
 ### Biology
 - [ ] Rumbles: A Curious History of the Gut
@@ -1462,6 +1504,7 @@ My book reading list.
 
 ### Neuroscience
 - [ ] Seeing the Mind: Spectacular Images from Neuroscience, and What They Reveal about Our Neuronal Selves #must 
+- [ ] Pain: The Science of Suffering (Patrick Wall) #must 
 
 ### Physics
 - [ ] Dancing Wu Li Masters: An Overview of the New Physics #quantum #philosophy
@@ -1497,6 +1540,7 @@ My book reading list.
 - [ ] Tribe Of Mentors: Short Life Advice from the Best in the World (Tim Ferriss) #must #collection
 - [ ] The Way of the SEAL: Think Like an Elite Warrior to Lead and Succeed (Mark Divine, Allyson E. Machate)
 - [ ] The Way to Will Power (Henry Hazlitt)
+- [ ] The War of Art: Break Through the Blocks and Win Your Inner Creative Battles (Steven Pressfield)
 
 ## Sexuality
 - [ ] Testo Junkie: Sex, Drugs, and Biopolitics in the Pharmacopornographic Era #memoir #philosophy #gender 
@@ -1556,7 +1600,6 @@ My book reading list.
 - [ ] War in 140 Characters: How Social Media Is Reshaping Conflict in the Twenty-First Century
 - [ ] It's OK to Be Angry About Capitalism #must 
 - [ ] Women on Porn: One hundred stories. One vital conversation #must 
-- [ ] 制度基因：中国制度与极权主义制度的起源 (Institutional Genes: The Origins of China's Institutions and Totalitarianism) #must 
 - [ ] The Different Drum: Community-making and peace #must 
 - [ ] The New Odyssey (Patrick Kingsley)
 - [ ] Innocents Lost: When Child Soldiers Go To War
@@ -1598,6 +1641,7 @@ My book reading list.
 - [ ] Outraged: Why We Fight About Morality and Politics and How to Find Common Ground (Kurt Gray) #morality #must 
 - [ ] Rat City: Overcrowding and Urban Derangement in the Rodent Universes of John B. Calhoun (Jon Adams, Edmund Ramsden)
 - [ ] Everything to Play For: An Insider's Guide to How Videogames are Changing Our World (Marijam Did) #game 
+- [ ] The Science of Racism: Everything You Need to Know but Probably Don't—Yet (Keon West)
 
 ## Spirituality
 - [ ] Not Quite Nirvana: A Skeptic's Journey to Mindfulness #must #memoir 
@@ -1809,7 +1853,7 @@ My book reading list.
 - [ ] Call Me By My True Names: The Collected Poems of Thich Nhat Hanh #must 
 - [ ] Vietnam: Lotus in a Sea of Fire: A Buddhist Proposal for Peace #history 
 - [ ] Stepping into Freedom: An Introduction to Buddhist Monastic Training #must #practice
-- [ ] At Home in the World: Stories and Essential Teachings from a Monk’s Life #must 
+- [x] At Home in the World: Stories and Essential Teachings from a Monk’s Life #must 
 - [ ] Old Path White Clouds: Walking in the Footsteps of the Buddha #Buddhism #must 
 - [ ] Love in Action: Writings on Nonviolent Social Change (Second Edition)
 - [ ] Answers from the Heart
@@ -1850,6 +1894,10 @@ My book reading list.
 ### 席慕蓉
 - [ ] 英雄時代 #must #poetry
 - [ ] 寫給海日汗的21封信 #must 
+
+### 許成鋼
+- [ ] Institutional Genes: The Origins of China's Institutions and Totalitarianism #history #economy #communism #sociology #must 
+	- [x] 制度基因：中国制度与极权主义制度的起源
 
 ### 野夫
 - [x] 國鎮 #must 
