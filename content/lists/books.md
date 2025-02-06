@@ -295,6 +295,7 @@ My book reading list.
 - [ ] 歐洲的心臟：德國如何改變自己
 - [ ] The Chancellor: The Remarkable Odyssey of Angela Merkel #people #must 
 - [ ] A Demon-Haunted Land: Witches, Wonder Doctors, and the Ghosts of the Past in Post-WWII Germany
+- [ ] Hitler's People: The Faces of the Third Reich (Richard J Evans) #history #biography #WWII 
 
 ### Greece
 - [ ] Women in Ancient Greece: A Sourcebook
@@ -578,7 +579,9 @@ My book reading list.
 - [ ] Who Could Ever Love You: A Family Memoir (Mary L. Trump PhD)
 - [ ] The Truths We Hold: An American Journey (Kamala Harris) #biography #must 
 - [ ] Defectors: The Rise of the Latino Far Right and What It Means for America (Paola Ramos) #politics 
-- [ ] War (Bob Woodward) #politics #must 
+- Bob Woodward
+	- [ ] War #politics #must 
+	- [ ] Fear: Trump in the White House
 - [ ] Behold, America: The Entangled History of "America First" and "the American Dream" (Sarah Churchwell) #history 
 - [ ] Prequel: An American Fight Against Fascism (Rachel Maddow) #history 
 - [ ] The World of Chief Seattle: How Can One Sell The Air? (Warren Jefferson)
@@ -586,6 +589,9 @@ My book reading list.
 - Thomas E. Ricks
 	- [ ] First Principles: What America's Founders Learned from the Greeks and Romans and How That Shaped Our Country #history #must 
 	- [ ] Waging a Good War: A Military History of the Civil Rights Movement, 1954-1968 #strategy #must #military 
+- John Lewis
+	- [ ] Across That Bridge: Life Lessons and a Vision for Change #activism #liberty 
+	- [ ] John Lewis: The Last Interview
 
 ### Vietnam
 - [ ] 越南現代小說選 (羅漪文 譯) #fiction #novel #must 
@@ -607,6 +613,12 @@ My book reading list.
 - [ ] Dutch Girl: Audrey Hepburn and World War II (Robert Matzen) #history #must 
 - [ ] Something Like An Autobiography (Akira Kurosawa) #film #must 
 - [ ] Churchill and Orwell: The Fight for Freedom (Thomas E. Ricks) #history #must 
+- [ ] The Dead Man in the Bunker (Martin Pollack) #fascism #WWII 
+- [ ] Rememberings (Sinéad O'Connor) #activism #music #must 
+- [ ] A Full Life: Reflections at Ninety (Jimmy Carter) #history #politics 
+- [ ] Frida: A Biography of Frida Kahlo (Hayden Herrera) #art
+- [ ] The Girl: Marilyn Monroe, The Seven Year Itch, and the Birth of an Unlikely Feminist (Michelle Morgan) #actor
+- [ ] Unbought and Unbossed (Shirley Chisholm) #politics #racism #must 
 
 ## Business
 - [ ] Facebook: The Inside Story
@@ -619,10 +631,21 @@ My book reading list.
 ### Imagination
 - [ ] Imagination: A Very Short Introduction (Jennifer Gosetti-Ferencei)
 
+## Conversation
+- [ ] Sinéad O'Connor: The Last Interview
+- [ ] Jimmy Carter: The Last Interview
+- [ ] Frida Kahlo: The Last Interview
+- [ ] Marilyn Monroe: The Last Interview
+- [ ] Shirley Chisholm: The Last Interview
+
 ## Creativity
 - Edward De Bono
 	- [ ] Lateral Thinking: Creativity Step by Step #must 
 	- [ ] How to Have Creative Ideas: 62 Exercises to Develop the Mind
+
+## Culture
+- [ ] The Fran Lebowitz Reader (Fran Lebowitz) #essay #humor
+- [ ] Humans: A Monstrous History (Surekha Davies)
 
 ## Economy
 - [ ] A Culture of Growth: The Origins of the Modern Economy
@@ -653,6 +676,10 @@ My book reading list.
 - [ ] Debt: The First 5,000 Years (David Graeber) #history #must 
 - [ ] Who Gets What—and Why: The New Economics of Matchmaking and Market Design (Alvin E. Roth)
 - [ ] Institutions, Institutional Change and Economic Performance (Douglass C. North) #politics #must 
+- Yanis Varoufakis
+	- [ ] Technofeudalism: What Killed Capitalism #must 
+	- [ ] Talking to My Daughter About the Economy: or, How Capitalism Works--and How It Fails #beginner 
+	- [ ] Adults in the Room: My Battle with the European and American Deep Establishment #politics 
 
 ## Education
 - [ ] Unequal Childhoods: Class, Race, and Family Life
@@ -705,6 +732,7 @@ My book reading list.
 - [ ] The Heat Will Kill You First: Life and Death on a Scorched Planet (Jeff Goodell)
 - [ ] Trash Talk: An Eye-Opening Exploration of Our Planet's Dirtiest Problem (Iris Gottlieb)
 - [ ] How to Blow Up a Pipeline (Andreas Malm) #environment #strategy #activism
+- [ ] Heat, a History: Lessons from the Middle East for a Warming Planet (On Barak) #must 
 
 ## Feminism
 - [ ] Down Girl: The Logic of Misogyny
@@ -841,6 +869,7 @@ My book reading list.
 - [ ] Concerning the Future of Souls: 99 Stories of Azrael (Joy Williams)
 - [ ] A Cage Went in Search of a Bird: Ten Kafkaesque Stories
 - [ ] At the Bottom of the River (Jamaica Kincaid)
+- [ ] The Stories of Erskine Caldwell (Erskine Caldwell) #must 
 
 ### Society
 - [ ] Brave New World
@@ -969,6 +998,7 @@ My book reading list.
 	- [ ] Dr. Koufman's Acid Reflux Diet: With 111 All New Recipes Including Vegan & Gluten-Free
 - [ ] Lies My Doctor Told Me Second Edition: Medical Myths That Can Harm Your Health (Dr. Ken Berry)
 - [ ] How to Fix a Broken Heart (Guy Winch) #emotion #self-help 
+- [ ] Live Forever?: A Curious Scientist's Guide to Wellness, Ageing and Death (Prof. John S. Tregoning) #biology #history 
 
 ### Exercise
 - [ ] Kettlebell Axe: High Speed, Low Drag Alternative to HIIT (Pavel Tsatsouline)
@@ -1059,6 +1089,9 @@ My book reading list.
 	- [ ] The Story of Civilization: The Age of Reason Begins
 - [ ] The Secret World: A History of Intelligence (Christopher Andrew) #intelligence #comprehensive
 - [ ] Yalta: The Price of Peace (S. M. Plokhy)
+- Paul Kennedy
+	- [ ] The Rise and Fall of the Great Powers: Economic Change and Military Conflict from 1500 to 2000 #economy #politics #must 
+	- [ ] Engineers of Victory: The Problem Solvers Who Turned The Tide in the Second World War
 
 ### Comparative
 - [ ] Lineages of the Absolutist State (Perry Anderson)
@@ -1076,6 +1109,7 @@ My book reading list.
 	- [ ] Comprehensible and Compelling: The Causes and Effects of Free Voluntary Reading
 	- [ ] English Learners in American Classrooms: 101 Questions, 101 Answers #must 
 - [ ] The Language Learner Guidebook: Powerful Tools to Help You Conquer Any Language (Shane Dixon) #must 
+- [ ] Farnsworth's Classical English Rhetoric (Ward Farnsworth) #examples 
 
 ## Law
 - [ ] The Prosecutor: One Man’s Pursuit of Justice for the Voiceless
@@ -1085,6 +1119,8 @@ My book reading list.
 - [ ] Just Mercy: A Story of Justice and Redemption #memoir #must 
 - [ ] 法律有關係：法律是什麼？怎麼變？如何影響我們生活？
 - [ ] Ancient Law: Its Connection with the Early History of Society, and Its Relation to Modern Ideas (Henry Sumner Maine) #anthropology #classics
+- [ ] How to Think Like a Lawyer--and Why: A Common-Sense Guide to Everyday Dilemmas (Kim Wehle) #self-help 
+- [ ] The Legal Analyst: A Toolkit for Thinking about the Law (Ward Farnsworth) #beginner #tools #must 
 
 ## Leadership
 - [ ] Extreme Ownership: How U.S. Navy SEALs Lead and Win (Jocko Willink, Leif Babin)
@@ -1173,6 +1209,10 @@ My book reading list.
 - [ ] The Warrior Ethos (Steven Pressfield)
 - [ ] With the Old Breed: At Peleliu and Okinawa (E.B. Sledge) #memoir #war #Marine 
 - [ ] The Last Stand of Fox Company: A True Story of U.S. Marines in Combat (Bob Drury, Tom Clavin) #war #history #must 
+- Phillips Payson O'Brien
+	- [ ] How the War Was Won: Air-Sea Power and Allied Victory in World War II #history #must 
+	- [ ] The Strategists: Churchill, Stalin, Roosevelt, Mussolini, and Hitler--How War Made Them and How They Made War #history #biography #strategy 
+- [ ] The Russian-Ukrainian War, 2023: A Second Year of Hell and the Dawn of Drone Warfare (John S Harrel)
 
 ## Movements
 - [ ] Unbroken Wholeness: Six Pathways to the Beloved Community: Integrating Social Justice, Emotional Healing, and Spiritual Practice (John Bell) #must #spirituality 
@@ -1295,6 +1335,10 @@ My book reading list.
 - [ ] On the Suffering of the World (Arthur Schopenhauer, Eugene Thacker: editor)
 - [ ] The Cambridge Companion to Locke (Vere Chappell: editor)
 - [ ] Conversations of Socrates (Xenophon) #slow #ancient #must 
+- [ ] Why Is There Something Rather Than Nothing?: 23 Questions from Great Philosophers (Leszek Kołakowski) #must 
+- Ward Farnsworth
+	- [ ] The Practicing Stoic: A Philosophical User's Manual
+	- [ ] The Socratic Method: A Practitioner's Handbook #must 
 
 ### Enlightenment
 - [ ] The Enlightenment: The Pursuit of Happiness, 1680-1790 (Ritchie Robertson) #history #must 
@@ -1327,7 +1371,6 @@ My book reading list.
 - [ ] Stealing Fire: How Silicon Valley, the Navy SEALs, and Maverick Scientists Are Revolutionizing the Way We Live and Work (Steven Kotler, Jamie Wheal)
 
 ## Politics
-- [ ] The Power of the Powerless
 - [ ] The Opium of the Intellectuals #bumingbai 
 - [ ] The Washington Book: How to Read Politics and Politicians
 - [ ] If We Burn: The Mass Protest Decade and the Missing Revolution
@@ -1356,6 +1399,9 @@ My book reading list.
 - [ ] Mussolini: A Biography (Dennis Mack Smith) #fascism #communism
 - [ ] Lee Kuan Yew: The Grand Master's Insights on China, the United States, and the World (Graham Allison, Robert D. Blackwill, Ali Wyne) #interview #leadership 
 - [ ] 民主的歷史 (許良英, 王來棣) #history 
+
+### Foreign Affairs
+- [ ] World Order (Henry Kissinger) #history #politics 
 
 ## Psychology
 - [ ] Mirror Thinking: How Role Models Make Us Human
@@ -1410,6 +1456,7 @@ My book reading list.
 
 ### Psychoanalysis
 - [ ] Powers of Horror: An Essay on Abjection (Julia Kristeva) #literature #film #must 
+- [ ] The Wretched of the Earth (Frantz Fanon) #colonialism #racism #classics 
 
 ### Psychotherapy
 - [ ] Treating Chronically Traumatized Children: The Sleeping Dogs Method (Arianne Struik)
@@ -1590,7 +1637,6 @@ My book reading list.
 - [ ] The Shadow Commander: Soleimani, the U.S., and Iran s Global Ambitions
 - [ ] 洗腦的歷史：禍害世界的極端思想控制術大解析 #must 
 - [ ] The Code of Capital: How the Law Creates Wealth and Inequality #must 
-- [ ] On Palestine (Noam Chomsky, Ilan Pappé) #must 
 - [x] White Torture: Interviews with Iranian Women Prisoners #must
 - [ ] Economy and Society (Max Weber)
 - [ ] Humankind: A Hopeful History #must 
@@ -1687,6 +1733,8 @@ My book reading list.
 
 ## Teaching
 - [ ] Reading Lessons: The books we read at school, the conversations they spark and why they matter #must 
+- [ ] Think Like Socrates: Using Questions to Invite Wonder and Empathy Into the Classroom, Grades 4-12 (Shanna Peeples) #must 
+- [ ] Socratic Circles: Fostering Critical and Creative Thinking in Middle and High School (Matt Copeland)
 
 ## Technology
 - [ ] The Network State: How To Start a New Country #bumingbai 
@@ -1781,6 +1829,7 @@ My book reading list.
 - [ ] The Amen Corner: A Play
 - [ ] Blues for Mister Charlie: A Play
 - [ ] One Day When I Was Lost: A Scenario Based on Alex Haley's The Autobiography of Malcolm X #screenplay
+- [ ] James Baldwin: The Last Interview
 
 ### Joseph Campbell
 - [ ] The Power of Myth #must
@@ -1792,6 +1841,7 @@ My book reading list.
 - [ ] The Origins of Totalitarianism #bumingbai  #must 
 - [ ] Responsibility and Judgment #philosophy 
 - [ ] The Promise of Politics
+- [ ] Hannah Arendt: The Last Interview
 
 ### Karl Jaspers
 - [ ] The Question of German Guilt #must 
@@ -1811,6 +1861,11 @@ My book reading list.
 - [ ] The Omnivore's Dilemma: A Natural History of Four Meals #foodthink #must 
 - [ ] In Defense of Food: An Eater's Manifesto #foodthink #must 
 - [ ] Cooked: A Natural History of Transformation #foodthink #must 
+
+### Noam Chomsky
+- [ ] On Palestine (Noam Chomsky, Ilan Pappé)
+- [ ] A Livable Future is Possible: Confronting the Threats to Our Survival
+- [ ] Global Discontents: Conversations on the Rising Threats to Democracy
 
 ### Steven Pinker
 - [ ] The Better Angels of Our Nature: Why Violence Has Declined #bumingbai #must 
@@ -1945,6 +2000,12 @@ My book reading list.
 ### Dalai Lama
 - [ ] The Universe in a Single Atom: The Convergence of Science and Spirituality #must 
 
+### Edith Stein
+- [ ] Life in a Jewish Family: Edith Stein - An Autobiography
+- [ ] The Hidden Life: Essays, Meditations, Spiritual Text #must 
+- [ ] Essays On Woman #feminism 
+- [ ] Edith Stein: The Life and Legacy of St. Teresa Benedicta of the Cross (Maria Ruiz Scaperlanda)
+
 ### Edward O. Wilson
 - [ ] Tales from the Ant World #must 
 - [ ] Letters to a Young Scientist
@@ -2005,6 +2066,10 @@ My book reading list.
 - [ ] Principles: Life and Work #must 
 - [ ] Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail #must #economy #monetary
 - [ ] Principles for Navigating Big Debt Crises #economy 
+- [ ] Principles: Investment and Economic
+
+### Simone Weil
+- [ ] The Need for Roots: Prelude to a Declaration of Obligations Towards the Human Being #philosophy 
 
 ### Stacey Abrams
 - [ ] Rogue Justice: A Thriller #politics 
@@ -2030,6 +2095,12 @@ My book reading list.
 ### Timothy Garton Ash
 - [ ] Homelands: A Personal History of Europe
 - [ ] The Polish Revolution: Solidarity #must #history #Poland
+
+### Václav Havel
+- [ ] The Power of the Powerless #activism #must 
+- [ ] Disturbing the Peace: A Conversation with Karel Huizdala #memoir #politics 
+- [ ] To the Castle and Back: A Memoir
+- [ ] Havel: A Life (Michael Zantovsky) #biography  #must 
 
 ### Wendy Doniger O'Flaherty
 - [ ] Hindu Myths: A Sourcebook Translated from the Sanskrit

@@ -27,6 +27,7 @@ tags:
 ## Society
 - Assembly Required with Stacey Abrams
 - Letters from an American
+- Bright Minds: from the John Adams Institute
 
 ## Technology
 - Quantum Tech Pod
