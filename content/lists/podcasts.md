@@ -6,6 +6,9 @@ tags:
 ## Education
 - The Annenberg Learner Podcast
 
+## Finance
+- [System Trader](https://systemtrader.show)
+
 ## Food
 - gastropod.com
 

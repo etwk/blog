@@ -23,6 +23,7 @@ My book reading list.
 - [ ] My Life as a Spy: Investigations in a Secret Police File #memoir 
 - [ ] Ultrasociety: How 10,000 Years of War Made Humans the Greatest Cooperators on Earth
 - [ ] Men: Evolutionary and Life History (Richard G. Bribiescas)
+- [ ] The Gift (Marcel Mauss) #sociology #culture #foodthink 
 
 ## Areas
 ### Afghanistan
@@ -261,11 +262,16 @@ My book reading list.
 - [ ] 武漢 (廖亦武) #novel 
 - [ ] Invisible China: How the Urban-Rural Divide Threatens China’s Rise (Scott Rozelle, Natalie Hell) #economy #sociology 
 - [ ] Overreach: How China Derailed Its Peaceful Rise (Susan L. Shirk) #politics #must 
+- [ ] In Search of Green China (Ma Tianjie) #environment #foodthink 
 
 #### Fiction
 - [ ] 米拉蒂 (严歌苓) #novel #must 
 - [ ] 官場現形記 #fiction 
 - [ ] 老殘游記 #fiction 
+
+#### History
+- [ ] Victims of the Cultural Revolution: Testimonies of China's Tragedy (王友琴)
+- [ ] Scarlet Memorial: Tales Of Cannibalism In Modern China (Zheng Yi)
 
 ### Cyprus
 - [ ] Cypria: A Journey to the Heart of the Mediterranean (Alex Christofi) #travel #history 
@@ -291,11 +297,18 @@ My book reading list.
 - [ ] Terror: The French Revolution and Its Demons (Michel Biard, Marisa Linton) #history 
 - [ ] The Sans-Culottes (Albert Soboul) #history 
 
+### Gaza
+- [ ] The Eyes of Gaza: A Diary of Resilience (Plestia Alaqad) #record #must 
+- [ ] Daybreak in Gaza: Stories of Palestinian Lives and Culture (Mahmoud Muna: editor, Matthew Teller: editor) #stories #must 
+- [ ] Gaza Medic: A War Surgeon's Story (Richard Villar) #contemporary #must 
+
 ### Germany
 - [ ] 歐洲的心臟：德國如何改變自己
 - [ ] The Chancellor: The Remarkable Odyssey of Angela Merkel #people #must 
 - [ ] A Demon-Haunted Land: Witches, Wonder Doctors, and the Ghosts of the Past in Post-WWII Germany
 - [ ] Hitler's People: The Faces of the Third Reich (Richard J Evans) #history #biography #WWII 
+- [ ] Iron Kingdom: The Rise and Downfall of Prussia, 1600–1947 (Christopher Clark) #history #must 
+- [ ] They Thought They Were Free: The Germans, 1933-45 (Milton Sanford Mayer) #interview #fascism #history #bumingbai #must 
 
 ### Greece
 - [ ] Women in Ancient Greece: A Sourcebook
@@ -320,6 +333,7 @@ My book reading list.
 - [ ] The Incarcerations: BK-16 and the Search for Democracy in India
 - [ ] The Golden Road: How Ancient India Transformed the World (William Dalrymple) #history #math #must 
 - [ ] The Argumentative Indian: Writings on Indian History, Culture and Identity (Amartya Sen) #history 
+- [ ] India Unboxed: 75 Quirky Aspects That Define the Nation (Safir Anand) #culture #beginner 
 
 ### Iran
 - [ ] Prison in Iran: A Known Unknown
@@ -336,6 +350,8 @@ My book reading list.
 - [ ] Until We Are Free: My Fight for Human Rights in Iran #must #memoir 
 - [ ] Reading Lolita in Tehran: A Memoir in Books #memoir #must 
 - [ ] Target Tehran: How Mossad Is Using Sabotage, Cyberwarfare, Assassination – and Secret Diplomacy – to Realign the Middle East (Yonah Jeremy Bob, Ilan Evyatar) #history 
+- [ ] Iranian Women and Gender in the Iran-Iraq War (Mateo Mohammad Farzaneh)
+- [ ] Iran in Revolt: Revolutionary Aspirations in a Post-Democratic World (Hamid Dabashi) #sociology #politics 
 
 ### Japan
 - [ ] The Book of Japanese Folklore: An Encyclopedia of the Spirits, Monsters, and Yokai of Japanese Myth
@@ -433,6 +449,7 @@ My book reading list.
 
 ### Syria
 - [ ] The Daughters of Kobani: A Story of Rebellion, Courage, and Justice #war #Islamic #female #must 
+- [ ] Syria: Civil War to Holy War? (Charles Glass) #contemporary 
 
 ### Taiwan
 - [ ] 台灣地方政治讀本：來自青年世代的提問、實踐與反思 #politics 
@@ -492,6 +509,9 @@ My book reading list.
 - [ ] 夜遊：解嚴前夕一個國中女生的身體時代記 #essay #youth #politics #history 
 - [ ] 李登輝執政告白實錄
 - [ ] 末代女礦工：海山煤礦，與一位社會學者對礦工阿嬤的生命考掘 (戴伯芬) #people #history 
+- [ ] 張忠謀自傳 #biography #technology #bumingbai #must 
+- [ ] 台灣戰後經濟發展的源起：後進發展的為何與如何 (瞿宛文) #economy #bumingbai 
+- [ ] 晶片島上的光芒：台積電、半導體與晶片戰，我的30年採訪筆記 (林宏文) #reporting #technology #bumingbai 
 
 ### Tibet
 - [ ] 殺劫：不可碰觸的記憶禁區，鏡頭下的西藏文革，第一次披露 #must 
@@ -506,6 +526,7 @@ My book reading list.
 - [ ] Empireworld: How British Imperialism Has Shaped the Globe #history 
 - [ ] Keir Starmer: The Biography #people #must 
 - [ ] King John: England's Evil King? (Ralph V Turner) #history 
+- [ ] Get In: The Inside Story of Labour Under Starmer (Patrick Maguire) #politics 
 
 ### Ukraine
 - [x] Zelensky: A Biography (Serhii Rudenko) #people 
@@ -533,6 +554,8 @@ My book reading list.
 - [ ] The Language of War (Oleksandr Mykhed) #record
 - [ ] The Wild West of Eastern Europe: A Ukrainian Guide on Breaking Free from Empire
 - [ ] Night Train to Odesa: Covering the Human Cost of Russia’s War Hardcover (Jen Stout) #reporting #must 
+- [ ] Looking at Women Looking at War: A War and Justice Diary (Victoria Amelina) #memoir #must 
+- [ ] Inside Ukraine: A Portrait of a Country and Its People (Ukraïner) #travel 
 
 ### USA
 - [ ] Civilizing Torture: An American Tradition
@@ -592,6 +615,9 @@ My book reading list.
 - John Lewis
 	- [ ] Across That Bridge: Life Lessons and a Vision for Change #activism #liberty 
 	- [ ] John Lewis: The Last Interview
+- [ ] Lessons of Hope: How to Fix Our Schools (Joel Klein) #education #memoir #must 
+- [ ] Democracy in America (Alexis de Tocqueville) #bumingbai 
+- [ ] Money, Lies, and God: Inside the Movement to Destroy American Democracy (Katherine Stewart) #contemporary #politics #history 
 
 ### Vietnam
 - [ ] 越南現代小說選 (羅漪文 譯) #fiction #novel #must 
@@ -607,6 +633,7 @@ My book reading list.
 - [ ] Divine Gardens: Mayumi Oda and the San Francisco Zen Center #must #essay
 - [ ] The Roots of Romanticism (Isaiah Berlin) #bumingbai
 - [ ] Color: A Natural History of the Palette (Victoria Finlay) #history 
+- [ ] A World of Our Own: Women Artists Against the Odds (Frances Borzello) #history #feminism 
 
 ## Biography
 - [ ] The Elements of Marie Curie: How the Glow of Radium Lit a Path for Women in Science (Dava Sobel) #science #female #must 
@@ -619,15 +646,23 @@ My book reading list.
 - [ ] Frida: A Biography of Frida Kahlo (Hayden Herrera) #art
 - [ ] The Girl: Marilyn Monroe, The Seven Year Itch, and the Birth of an Unlikely Feminist (Michelle Morgan) #actor
 - [ ] Unbought and Unbossed (Shirley Chisholm) #politics #racism #must 
+- [ ] Source Code: My Beginnings (Bill Gates) #technology #must 
+- [ ] Force of Nature: The Life of Linus Pauling (Thomas Hager) #science #must 
+- [ ] A Feeling for the Organism, 10th Aniversary Edition: The Life and Work of Barbara McClintock (Evelyn Fox Keller) #genetics #science #female 
 
 ## Business
 - [ ] Facebook: The Inside Story
 - [ ] The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success (William N. Thorndike Jr.) #investment #must 
 
+### Marketing
+- [ ] Hoodwinked: How Marketers Use the Same Tactics as Cults (Mara Einstein) #choice
+
 ## Communication
 - [ ] Talking to Strangers: What We Should Know about the People We Don't Know (Malcolm Gladwell)
 
 ## Consciousness
+- [ ] The Scout Mindset: Why Some People See Things Clearly and Others Don't (Julia Galef) #decision-making #must 
+
 ### Imagination
 - [ ] Imagination: A Very Short Introduction (Jennifer Gosetti-Ferencei)
 
@@ -651,13 +686,13 @@ My book reading list.
 - [ ] A Culture of Growth: The Origins of the Modern Economy
 - [ ] Manias, Panics, and Crashes: A History of Financial Crises #must #history 
 - [ ] The Great Leveler: Violence and the History of Inequality from the Stone Age to the Twenty-First Century
-- [ ] The Price of Peace: Money, Democracy, and the Life of John Maynard Keynes #people #must #history 
+- [ ] The Price of Peace: Money, Democracy, and the Life of John Maynard Keynes #biography #history #politics #must 
 - [ ] The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you #business #must 
 - [ ] Keynes Hayek: The Clash that Defined Modern Economics #bumingbai 
 - [ ] The Capital Order: How Economists Invented Austerity and Paved the Way to Fascism #capitalism
 - [ ] The Globalization Paradox: Democracy and the Future of the World Economy #history 
 - [ ] Why Nations Fail: The Origins of Power, Prosperity, and Poverty #politics #history #must 
-- [ ] Chip War: The Fight for the World's Most Critical Technology #history 
+- [ ] Chip War: The Fight for the World's Most Critical Technology #history #bumingbai 
 - [ ] Slouching Towards Utopia: An Economic History of the Twentieth Century #history 
 - [ ] The System: Who Rigged It, How We Fix It (Robert B. Reich) #must 
 - Ludwig Von Mises
@@ -680,6 +715,8 @@ My book reading list.
 	- [ ] Technofeudalism: What Killed Capitalism #must 
 	- [ ] Talking to My Daughter About the Economy: or, How Capitalism Works--and How It Fails #beginner 
 	- [ ] Adults in the Room: My Battle with the European and American Deep Establishment #politics 
+- [ ] The Lever of Riches: Technological Creativity and Economic Progress (Joel Mokyr) #history #technology #bumingbai #must 
+- [ ] Making Sense of Chaos: A Better Economics for a Better World (J. Doyne Farmer)
 
 ## Education
 - [ ] Unequal Childhoods: Class, Race, and Family Life
@@ -705,8 +742,19 @@ My book reading list.
 - [ ] A Charlotte Mason Companion: Personal Reflections on the Gentle Art of Learning (Karen Andreola)
 - [ ] Six Voices, One Story: The Heart of AmblesideOnline (AmblesideOnline Educational Foundation)
 
+### Learning
+- [ ] Understanding Reading: A Psycholinguistic Analysis of Reading and Learning to Read (Frank Smith)
+
+### School
+- [ ] Exam Nation: Why Our Obsession with Grades Fails Everyone – and a Better Way to Think About School (Sammy Wright) #UK #policy #must 
+
 ### Teaching
 - [ ] The Growth Mindset Coach: A Teacher's Month-by-Month Handbook for Empowering Students to Achieve (Annie Brock, Heather Hundley)
+- [ ] Reading Lessons: The books we read at school, the conversations they spark and why they matter #must 
+- [ ] Think Like Socrates: Using Questions to Invite Wonder and Empathy Into the Classroom, Grades 4-12 (Shanna Peeples) #must 
+- [ ] Socratic Circles: Fostering Critical and Creative Thinking in Middle and High School (Matt Copeland)
+- [ ] The Science of Learning: 99 Studies That Every Teacher Needs to Know (Edward Watson, Bradley Busch) #learning #must 
+- [ ] Learning to See: Inside the World's Leading Art and Design Schools (Keith Sawyer) #art
 
 ## Environment
 - [x] A Life on Our Planet: My Witness Statement and a Vision for the Future #must
@@ -733,6 +781,12 @@ My book reading list.
 - [ ] Trash Talk: An Eye-Opening Exploration of Our Planet's Dirtiest Problem (Iris Gottlieb)
 - [ ] How to Blow Up a Pipeline (Andreas Malm) #environment #strategy #activism
 - [ ] Heat, a History: Lessons from the Middle East for a Warming Planet (On Barak) #must 
+- Alan Weisman 
+	- [ ] The World Without Us
+	- [ ] Hope Dies Last: Visionary People Across the World, Fighting to Find Us a Future
+
+### Climate
+- [ ] Glacial: The Inside Story of Climate Politics (Chelsea Henderson) #policy #must 
 
 ## Feminism
 - [ ] Down Girl: The Logic of Misogyny
@@ -802,6 +856,7 @@ My book reading list.
 - [ ] My Body (Emily Ratajkowski) #memoir #must 
 - [ ] Entitled: How Male Privilege Hurts Women #philosophy 
 - [ ] Sister in Law: Fighting for Justice in a System Designed by Men (Harriet Wistrich) #law #justice #real-stories 
+- [ ] Looking for Lorraine: The Radiant and Radical Life of Lorraine Hansberry (Imani Perry) #biography #lesbian
 
 ## Fiction
 - [ ] All Quiet on the Western Front
@@ -848,6 +903,7 @@ My book reading list.
 - [ ] Contrarian Investment Strategies: The Psychological Edge (David Dreman)
 - [ ] Shane (Jack Schaefer)
 - [ ] Conclave: A novel (Robert Harris)
+- [ ] Water of the Hills (Marcel Pagnol) #film #French
 
 ### Plays
 - [ ] English / Wish You Were Here: Two Plays #must 
@@ -856,8 +912,10 @@ My book reading list.
 - [ ] Antigone (Jean Anouilh) #translation #French #tyranny #must 
 - [ ] The Man from Earth (Richard Schenkman: adapter, Jerome Bixby) #film #sci-fi #must 
 
-### Science
+### Sci-Fi
 - [ ] The Journeys of Socrates: An Adventure #must 
+- [ ] The Player of Games (Iain M. Banks) (Culture) #series #must 
+- [ ] Slaughterhouse-Five: A Novel (Kurt Vonnegut) #bumingbai 
 
 ### Short Stories
 - [ ] The Lost Salt Gift of Blood (Alistair MacLeod) 
@@ -870,6 +928,7 @@ My book reading list.
 - [ ] A Cage Went in Search of a Bird: Ten Kafkaesque Stories
 - [ ] At the Bottom of the River (Jamaica Kincaid)
 - [ ] The Stories of Erskine Caldwell (Erskine Caldwell) #must 
+- [ ] A Century of Fiction in The New Yorker: 1925-2025 (Deborah Treisman: editor)
 
 ### Society
 - [ ] Brave New World
@@ -883,6 +942,20 @@ My book reading list.
 ## Finance
 - [ ] The Algebra of Wealth: A Simple Formula for Financial Security #must 
 - [ ] The Price of Time: The Real Story of Interest (Edward Chancellor) #history  #must 
+- [ ] Dollars and Sense: How We Misthink Money and How to Spend Smarter (Dan Ariely, Jeff Kreisler) #management #beginner #psychology 
+- [ ] Options, Futures, and Other Derivatives (John Hull) #textbook 
+- [ ] The Inevitability of Becoming Rich: An Interview with a Master (Scott Welsh)
+
+### Crypto
+- [ ] CryptoWorld Narratives: Eight False Narratives that Prop-up Cryptocurrencies (Ezra Zask) #crypto #must 
+- [ ] Going Infinite: The Rise and Fall of a New Tycoon (Michael Lewis) #biography 
+
+### Hedging
+- [ ] Derivatives Demystified: A Step-by-Step Guide to Forwards, Futures, Swaps and Options (Andrew M. Chisholm) #must #beginner 
+- [ ] Hedge Funds For Dummies (Ann C. Logue)
+- [ ] All About Hedge Funds (Ezra Zask) #history 
+- [ ] More Money Than God: Hedge Funds and the Making of a New Elite (Sebastian Mallaby) #history 
+- [ ] The Little Book of Currency Trading: How to Make Big Profits in the World of Forex (Kathy Lien) #must 
 
 ### Investing
 - [x] 100 Baggers: Stocks that Return 100-to-1 and How to Find Them (Christopher W. Mayer)
@@ -942,6 +1015,14 @@ My book reading list.
 	- [ ] The All Weather Trader: Mr. Serenity’s Thoughts on Trading Come Rain or Shine #must 
 	- [ ] Trend Following Mindset: The Genius of Legendary Trader Tom Basso (Michael Covel)
 - [ ] Devil Take the Hindmost: A History of Financial Speculation (Edward Chancellor) #must 
+- [ ] The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution (Gregory Zuckerman) #biography 
+- [ ] Buffett and Munger Unscripted: Three Decades of Investment and Business Insights from the Berkshire Hathaway Shareholder Meetings (Alex W. Morris) #dialogue #business #wisedom
+- [ ] Confessions of Stock Market Wizards (Safir Anand) #interview #India #experience #must 
+- [ ] Price Catalysts: Proven strategies for spotting profitable stock investments (Jim Osman)
+- [ ] The Little Book of Impact Investing: Aligning Profit and Purpose to Change the World (Priya Parrish)
+- [ ] Stop Waiting, Start Investing: Build Wealth With 10 Minutes Of Work (Ryan King) #beginner 
+- [ ] How Not To Invest: The ideas, numbers, and behaviors that destroy wealth - and how to avoid them (Barry Ritholtz)
+- [ ] Dividend Investing: Dependable Income to Navigate All Market Environments (Jenny Harrington)
 
 ### Monetary
 - [ ] The Ascent of Money: A Financial History of the World (Niall Ferguson)
@@ -952,6 +1033,11 @@ My book reading list.
 	- [ ] How Global Currencies Work: Past, Present, and Future
 	- [ ] Exorbitant Privilege: The Rise and Fall of the Dollar and the Future of the International Monetary System
 - [ ] Tokens: The Future of Money in the Age of the Platform #future #must
+- Paul A. Volcker
+	- [ ] Keeping At It: The Quest for Sound Money and Good Government #policy #leadership #biography #must 
+	- [ ] Volcker: The Triumph of Persistence (William L. Silber) #biography 
+	- [ ] Changing Fortunes: The World's Money and the Threat to American Leadership #history 
+- [ ] The Power of Gold: The History of an Obsession (Peter L. Bernstein)
 
 ### Trading
 - [ ] Automated Stock Trading Systems: A Systematic Approach for Traders to Make Money in Bull, Bear and Sideways Markets (Laurens Bensdorp)
@@ -959,6 +1045,17 @@ My book reading list.
 	- [ ] Trading in the Zone: Master the Market with Confidence, Discipline, and a Winning Attitude #must 
 	- [ ] The Disciplined Trader: Developing Winning Attitudes
 - [ ] Technical Analysis of Stock Trends (Robert D. Edwards, John Magee, W.H.C. Bassetti) #textbook #classics 
+- [ ] Advanced Techniques in Day Trading: A Practical Guide to High Probability Strategies and Methods (Andrew Aziz)
+- [ ] Hands-On AI Trading with Python, QuantConnect, and AWS (Jiri Pik, Ernest P. Chan, Jared Broad, Philip Sun, Vivek Singh)
+- [ ] Prop Trading Secrets: How Successful Traders are Living off the Markets (Kathy Lien, Etienne Crete) #interview #must 
+- [ ] Millionaire Traders: How Everyday People Are Beating Wall Street at Its Own Game (Kathy Lien, Boris Schlossberg) #interview
+- [ ] Option Volatility and Pricing: Advanced Trading Strategies and Techniques (Sheldon Natenberg) #textbook 
+- Robert Carver
+	- [ ] Advanced Futures Trading Strategies #examples #must 
+	- [ ] Leveraged Trading: A professional approach to trading FX, stocks on margin, CFDs, spread bets and futures for all traders #must 
+	- [ ] Smart Portfolios: A practical guide to building and maintaining intelligent investment portfolios
+	- [ ] Systematic Trading: A unique new method for designing trading and investing systems
+- [ ] Street Smarts: High Probability Short-Term Trading Strategies (Linda Bradford Raschke, Laurence A. Connors )
 
 ## Food
 - [ ] Eat Like The Animals: What Nature Teaches Us About the Science of Healthy Eating
@@ -974,6 +1071,9 @@ My book reading list.
 - [ ] The Art of Fermentation (Sandor Ellix Katz) #science #must 
 - [ ] The Third Plate: Field Notes on the Future of Food #agriculture #must 
 - [ ] Frostbite: How Refrigeration Changed Our Food, Our Planet, and Ourselves (Nicola Twilley)
+- [ ] Why We Eat (Too Much): The New Science of Appetite (Dr Andrew Jenkinson) #foodthink 
+- [ ] Eating to Extinction: The World's Rarest Foods and Why We Need to Save Them (Dan Saladino) #foodthink #must 
+- [ ] Free Food: Wild Plants and How to Eat Them (Mo Wilde) #foodthink #nature 
 
 ### Cooking
 - [ ] East: 120 Vegan and Vegetarian Recipes from Bangalore to Beijing (Meera Sodha)
@@ -999,10 +1099,22 @@ My book reading list.
 - [ ] Lies My Doctor Told Me Second Edition: Medical Myths That Can Harm Your Health (Dr. Ken Berry)
 - [ ] How to Fix a Broken Heart (Guy Winch) #emotion #self-help 
 - [ ] Live Forever?: A Curious Scientist's Guide to Wellness, Ageing and Death (Prof. John S. Tregoning) #biology #history 
+- [ ] How Not to Age: The Scientific Approach to Getting Healthier as You Get Older (Michael Greger M.D. FACLM) #diets #longevity
+- [ ] Lifespan: Why We Age―and Why We Don't Have To (David A. Sinclair PhD, Matthew D. LaPlante) #longevity 
+- [ ] How to Live Longer and Feel Better (Linus Pauling) #diets 
+- [ ] Subtle Body (Cyndi Dale) #energy #alternative
+- [ ] Rethinking Medications: Truth, Power, and the Drugs You Take (Jerry Avorn MD)
 
 ### Exercise
 - [ ] Kettlebell Axe: High Speed, Low Drag Alternative to HIIT (Pavel Tsatsouline)
+- [ ] What You Must Know About Vitamins, Minerals, Herbs and So Much More: Choosing the Nutrients That Are Right for You (Pamela Wartian Smith)
+- [ ] The Real Vitamin and Mineral Book: The Definitive Guide to Designing Your Personal Supplement Program (Shari Lieberman, Nancy Pauling Bruning)
 - [ ] Aging Backwards: Fast Track: 6 Ways in 30 Days to Look and Feel Younger (Miranda Esmonde-White)
+
+### Nutrition
+- [ ] An Evidence-Based Approach to Vitamins and Minerals: Health Benefits and Intake Recommendations (Jane Higdon, Victoria J. Drake)
+- [ ] Cracking the Vitamin Code: How to Build your Own Supplement Stack (Dr. Ernesto Martinez)
+
 
 ## History
 - [ ] How the World Really Works: A Scientist’s Guide to Our Past, Present and Future
@@ -1092,6 +1204,9 @@ My book reading list.
 - Paul Kennedy
 	- [ ] The Rise and Fall of the Great Powers: Economic Change and Military Conflict from 1500 to 2000 #economy #politics #must 
 	- [ ] Engineers of Victory: The Problem Solvers Who Turned The Tide in the Second World War
+- [ ] The Age of Extremes: A History of the World, 1914-1991 (Eric Hobsbawm)
+- [ ] After 1177 B.C.: The Survival of Civilizations (Eric H. Cline) #anthropology  
+- [ ] Lost to Time: Unforgettable Stories That History Forgot (Martin W. Sandler) #must 
 
 ### Comparative
 - [ ] Lineages of the Absolutist State (Perry Anderson)
@@ -1121,6 +1236,7 @@ My book reading list.
 - [ ] Ancient Law: Its Connection with the Early History of Society, and Its Relation to Modern Ideas (Henry Sumner Maine) #anthropology #classics
 - [ ] How to Think Like a Lawyer--and Why: A Common-Sense Guide to Everyday Dilemmas (Kim Wehle) #self-help 
 - [ ] The Legal Analyst: A Toolkit for Thinking about the Law (Ward Farnsworth) #beginner #tools #must 
+- [ ] The Lockerbie Bombing: A Father's Search for Justice (Jim Swire, Peter Biddulph) #must 
 
 ## Leadership
 - [ ] Extreme Ownership: How U.S. Navy SEALs Lead and Win (Jocko Willink, Leif Babin)
@@ -1200,6 +1316,9 @@ My book reading list.
 - [ ] The Truths We Hold: An American Journey (Kamala Harris) #must 
 - [ ] Freedom: Memoirs 1954 – 2021 (Angela Merkel) #must 
 - [ ] Home in the World: A Memoir (Amartya Sen) #economy #must 
+- [ ] The Education of an Idealist: A Memoir (Samantha Power) #human-rights #diplomacy #must 
+- [ ] The Choice: Embrace the Possible (Dr. Edith Eva Eger) #WWII #self-help #must 
+- [ ] Boat Baby: A Memoir (Vicky Nguyen) #refugee #female 
 
 ## Military
 - [ ] On War (Carl von Clausewitz) #classics #strategy
@@ -1219,6 +1338,7 @@ My book reading list.
 
 ## Mythology
 - [ ] Faust (Johann Wolfgang Von Goethe) #plays #must 
+- [ ] The Egyptian Myths: A Guide to the Ancient Gods and Legends (Garry J. Shaw) #beginner #must 
 
 ## Nature
 - [ ] Biological Exuberance: Animal Homosexuality and Natural Diversity
@@ -1247,6 +1367,7 @@ My book reading list.
 - [ ] The Book You Wish Your Parents Had Read: (and Your Children Will Be Glad That You Did) (Philippa Perry) #psychology  #must 
 - [ ] Mother Brain: How Neuroscience Is Rewriting the Story of Parenthood (Chelsea Conaboy)
 - [ ] Acid Reflux in Children: How Healthy Eating Can Fix Your Child's Asthma, Allergies, Obesity, Nasal Congestion, Cough & Croup (Dr. Jamie Koufman MD, Dr. Julie L Wei MD, Dr. Karen Zur MD) #health #food
+- [ ] Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Involved Parents (Lindsay C. Gibson) #psychology #self-help #relationship #must 
 
 ### Motherhood
 - [ ] I Cannot Control Everything Forever: A Memoir of Motherhood, Science, and Art (Emily C. Bloom) #memoir #must 
@@ -1346,6 +1467,10 @@ My book reading list.
 - [ ] The Enlightenment: History of an Idea (Vincenzo Ferrone)
 - [ ] Revolutionary Ideas: An Intellectual History of the French Revolution from The Rights of Man to Robespierre (Jonathan Israel) #history #must 
 - [ ] Three Critics of the Enlightenment: Vico, Hamann, Herder (Isaiah Berlin)
+- [ ] A Culture of Growth: The Origins of the Modern Economy (Joel Mokyr) #economy #history 
+
+### Ethics
+- [ ] The Moral Circle: Who Matters, What Matters, and Why (Jeff Sebo) #science #morality #must 
 
 ## Photography
 - [ ] I Am Home: Portraits of Immigrant Teenagers
@@ -1399,6 +1524,10 @@ My book reading list.
 - [ ] Mussolini: A Biography (Dennis Mack Smith) #fascism #communism
 - [ ] Lee Kuan Yew: The Grand Master's Insights on China, the United States, and the World (Graham Allison, Robert D. Blackwill, Ali Wyne) #interview #leadership 
 - [ ] 民主的歷史 (許良英, 王來棣) #history 
+- [ ] The Light That Failed: Why the West Is Losing the Fight for Democracy (Stephen Holmes, Ivan Krastev) #must 
+- [ ] The Children of Light and the Children of Darkness: A Vindication of Democracy and a Critique of Its Traditional Defense (Reinhold Niebuhr) #philosophy #bumingbai #must 
+- [ ] Small Acts of Resistance: How Courage, Tenacity, and Ingenuity Can Change the World (Steve Crawshaw, John Jackson) #stories #activism 
+- [ ] What's the Big Idea?: 30 Years of the Australia Institute (Anna Chang: editor, Alice Grundy: editor)
 
 ### Foreign Affairs
 - [ ] World Order (Henry Kissinger) #history #politics 
@@ -1431,9 +1560,6 @@ My book reading list.
 - [ ] Trauma And Recovery: The Aftermath Of Violence- From Domestic Abuse To Political Terror #trauma #must 
 - [ ] The Art of Loving (Erich Fromm) #love #theory  #must 
 - [ ] The Psychology of Secrets: My Adventures with Murderers, Cults and Influencers (Andrew Gold) #interactions #social-science
-- Annie Duke
-	- [ ] Quit: The Power of Knowing When to Walk Away #trading #decision-making #must 
-	- [ ] Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts #decision-making #business  #trading #must 
 - [ ] Thinking, Fast and Slow (Daniel Kahneman) #trading #must 
 - [ ] The Human Mind: A Brief Tour of Everything We Know (Paul Bloom)
 - Timothy D. Wilson
@@ -1441,6 +1567,16 @@ My book reading list.
 	- [ ] Strangers to Ourselves: Discovering the Adaptive Unconscious
 - [ ] The Social Animal (Elliot Aronson, Joshua Aronson)
 - [ ] The Interpretation of Dreams: The Complete and Definitive Text (Sigmund Freud)
+- [ ] Mistakes Were Made (but Not By Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts (Carol Tavris, Elliot Aronson) #social-psychology
+- [ ] Superforecasting: The Art and Science of Prediction (Philip E. Tetlock, Dan Gardner) #decision-making #must 
+
+### Behavior
+- Annie Duke
+	- [ ] Quit: The Power of Knowing When to Walk Away #trading #decision-making #must 
+	- [ ] Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts #decision-making #business  #trading #must 
+- [ ] The Optimist's Telescope: Thinking Ahead in a Reckless Age (Bina Venkataraman) #decision-making #must 
+- [ ] Nudge (Richard H. Thaler, Cass R. Sunstein) #decision-making #business #must 
+- [ ] Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions (Dan Ariely) #must 
 
 ### Neuropsychology
 - [ ] Neurofeedback in the Treatment of Developmental Trauma: Calming the Fear-Driven Brain (Sebern F. Fisher)
@@ -1482,6 +1618,7 @@ My book reading list.
 ### Christianity
 - [ ] The Gospel of Thomas: The Hidden Sayings of Jesus (Marvin W. Meyer, Harold Bloom #untold 
 - [ ] All Things in Common: The Economic Practices of the Early Christians (Roman A. Montero)
+- [ ] Beyond (Martin Nowak) #science #poetry #socratic
 
 ### Islam
 - [ ] Faith at War: A Journey on the Frontlines of Islam, from Baghdad to Timbuktu (Yaroslav Trofimov) #history 
@@ -1489,6 +1626,7 @@ My book reading list.
 
 ## Rights
 - [ ] The Lives of Animals (J. M. Coetzee) #fiction #must 
+- [ ] "A Problem from Hell": America and the Age of Genocide (Samantha Power) #human-rights #must 
 
 ## Science
 - [ ] Why Animals Talk: The New Science of Animal Communication (Arik Kershenbaum)
@@ -1548,10 +1686,11 @@ My book reading list.
 
 ### Logic
 - [ ] Philosophical and Mathematical Logic (Harrie de Swart)
+- [ ] The Art of Thinking Clearly (Rolf Dobelli) #cognitive-bias #must 
 
 ### Neuroscience
 - [ ] Seeing the Mind: Spectacular Images from Neuroscience, and What They Reveal about Our Neuronal Selves #must 
-- [ ] Pain: The Science of Suffering (Patrick Wall) #must 
+- [ ] Pain: The Science of Suffering (Patrick Wall) #manual #must 
 
 ### Physics
 - [ ] Dancing Wu Li Masters: An Overview of the New Physics #quantum #philosophy
@@ -1560,6 +1699,7 @@ My book reading list.
 	- [x] Seven Brief Lessons on Physics
 	- [ ] The Order of Time
 - [ ] The Beauty of Falling: A Life in Pursuit of Gravity #life #memoir  #must
+- [ ] The Art of Physics: Eight elegant ideas to make sense of almost everything (Zahaan Bharmal) #idea 
 
 ### Quantum
 - [ ] Quantum Theory: A Very Short Introduction (John Polkinghorne)
@@ -1570,9 +1710,14 @@ My book reading list.
 	- [ ] Reality Is Not What It Seems: The Journey to Quantum Gravity
 - [ ] Quanta and Fields: The Biggest Ideas in the Universe (Sean M. Carroll) #must 
 - [ ] Einstein's Unfinished Revolution: The Search for What Lies Beyond the Quantum (Lee Smolin)
+- [ ] Introduction to Quantum Mechanics with Applications to Chemistry (Linus Pauling, E. Bright Wilson) #beginner 
+
+### Statistics
+- [ ] The Black Swan: Second Edition: The Impact of the Highly Improbable (Nassim Nicholas Taleb) #must 
 
 ### Unity
 - [ ] Consilience: The Unity of Knowledge (Edward O.Willson) #must 
+- [ ] SuperCooperators: Altruism, Evolution, and Why We Need Each Other to Succeed (Martin Nowak, Roger Highfield) #sociology #philosophy #coporation #must 
 
 ## Security
 - [x] Scam Me If You Can: Simple Strategies to Outsmart Today's Rip-off Artists
@@ -1588,6 +1733,8 @@ My book reading list.
 - [ ] The Way of the SEAL: Think Like an Elite Warrior to Lead and Succeed (Mark Divine, Allyson E. Machate)
 - [ ] The Way to Will Power (Henry Hazlitt)
 - [ ] The War of Art: Break Through the Blocks and Win Your Inner Creative Battles (Steven Pressfield)
+- [ ] The Art of Clear Thinking: A Stealth Fighter Pilot's Timeless Rules for Making Tough Decisions (Hasard Lee) #decision-making 
+- [ ] Fierce Vulnerability: Healing from Trauma, Emerging through Collapse (Kazu Haga) #meditation #contemporary 
 
 ## Sexuality
 - [ ] Testo Junkie: Sex, Drugs, and Biopolitics in the Pharmacopornographic Era #memoir #philosophy #gender 
@@ -1600,6 +1747,7 @@ My book reading list.
 - [ ] She Said: Breaking the Sexual Harassment Story That Helped Ignite a Movement #sociology #journalism #must 
 - [x] The T Guide: Our Trans Experiences and a Celebration of Gender Expression—Man, Woman, Nonbinary, and Beyond #transgender 
 - [ ] The Erotic Mind: Unlocking the Inner Sources of Passion and Fulfillment (Jack Morin) #psychology #self-help #must 
+- [ ] What a Girl Wants: A (True) Story of Sexuality and Self-discovery (Roxy Bourdillon) #memoir 
 
 ### Sex
 - [ ] Beyond Satisfied: A Sex Hacker's Guide to Endless Orgasms, Mind-Blowing Connection, and Lasting Confidence
@@ -1649,7 +1797,7 @@ My book reading list.
 - [ ] The Different Drum: Community-making and peace #must 
 - [ ] The New Odyssey (Patrick Kingsley)
 - [ ] Innocents Lost: When Child Soldiers Go To War
-- [ ] The Power Broker: Robert Moses and the Fall of New York #history 
+- [ ] The Power Broker: Robert Moses and the Fall of New York #history #biography #must 
 - [ ] Emotional Justice: A Roadmap for Racial Healing #must 
 - [ ] Cold Intimacies: The Making of Emotional Capitalism
 - [ ] A Necessary Kindness: Stories From the Frontline of Abortion Care
@@ -1688,6 +1836,8 @@ My book reading list.
 - [ ] Rat City: Overcrowding and Urban Derangement in the Rodent Universes of John B. Calhoun (Jon Adams, Edmund Ramsden)
 - [ ] Everything to Play For: An Insider's Guide to How Videogames are Changing Our World (Marijam Did) #game 
 - [ ] The Science of Racism: Everything You Need to Know but Probably Don't—Yet (Keon West)
+- [ ] Misbelief: What Makes Rational People Believe Irrational Things (Dan Ariely) #psychology #communication 
+- [ ] Invisible Doctrine: The Secret History of Neoliberalism (George Monbiot, Peter Hutchison) #politics #must 
 
 ## Spirituality
 - [ ] Not Quite Nirvana: A Skeptic's Journey to Mindfulness #must #memoir 
@@ -1698,6 +1848,7 @@ My book reading list.
 - [ ] Nothing To It: Ten Ways to Be at Home with Yourself (Brother Phap Hai)
 - David R. Hawkins
 	- [ ] Power vs. Force: The Hidden Determinants of Human Behavior #must 
+- [ ] A Lamp unto Yourself: A Beginner's Guide to Asian Spiritual Practices, from Advaita and Buddhism to Yoga and Zen (C. Pierce Salguero) #self-help #comparative #Asian
 
 ### Buddhism
 - [ ] Tell Me Something about Buddhism: Questions and Answers for the Curious Beginner #must #Buddhism #Zen
@@ -1731,11 +1882,6 @@ My book reading list.
 - [ ] Prisoner's Dilemma: John von Neumann, Game Theory, and the Puzzle of the Bomb (William Poundstone) #biography 
 - [ ] Playing with Reality: How Games Have Shaped Our World (Kelly Clancy) #must 
 
-## Teaching
-- [ ] Reading Lessons: The books we read at school, the conversations they spark and why they matter #must 
-- [ ] Think Like Socrates: Using Questions to Invite Wonder and Empathy Into the Classroom, Grades 4-12 (Shanna Peeples) #must 
-- [ ] Socratic Circles: Fostering Critical and Creative Thinking in Middle and High School (Matt Copeland)
-
 ## Technology
 - [ ] The Network State: How To Start a New Country #bumingbai 
 - [ ] Glow Kids: How Screen Addiction Is Hijacking Our Kids-and How to Break the Trance #must 
@@ -1767,6 +1913,8 @@ My book reading list.
 - [ ] You Can Negotiate Anything: The World's Best Negotiator Tells You How To Get What You Want
 - [ ] How to Become a Rainmaker: The Rules for Getting and Keeping Customers and Clients
 - [ ] Negotiation Genius: How to Overcome Obstacles and Achieve Brilliant Results at the Bargaining Table and Beyond
+- [ ] Influence, New and Expanded: The Psychology of Persuasion (Robert B Cialdini) #psychology #must 
+- [ ] Kissinger the Negotiator: Lessons from Dealmaking at the Highest Level (James K Sebenius, R. Nicholas Burns, Robert H. Mnookin) #diplomacy #history #politics 
 
 ### Robot
 - [ ] Imagination: A Manifesto #future 
@@ -1796,6 +1944,12 @@ My book reading list.
 
 ### E. B. White
 - [ ] One Man's Meat
+
+### Francis Fukuyama 
+- [ ] The Origins of Political Order: From Prehuman Times to the French Revolution #comparative
+- [ ] Political Order and Political Decay: From the Industrial Revolution to the Globalization of Democracy
+- [ ] Identity: The Demand for Dignity and the Politics of Resentment
+- [ ] After the End of History: Conversations with Francis Fukuyama (Mathilde Fasting: editor) #interview 
 
 ### Frank Dikotter
 - [ ] The Tragedy of Liberation: A History of the Chinese Revolution, 1945-57 #bumingbai #must 
@@ -2032,6 +2186,7 @@ My book reading list.
 
 ### Margaret Atwood
 - [ ] The Handmaid's Tale #fiction #novel #dystopian #feminism 
+- [ ] Old Babes in the Wood: Stories #short-stories 
 
 ### Milan Kundera
 - [ ] The Unbearable Lightness of Being: A Novel
@@ -2152,7 +2307,8 @@ My book reading list.
 - [ ] 2021 — “Moving Up Without Losing Your Way” by Jennifer Morton
 - [ ] 2022 — “Every Day the River Changes” by Jordan Salama
 - [x] 2023 — How to Stand Up to a Dictator: The Fight for our Future
-- [ ] 2024 — The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI #must 
+- [ ] 2024 — The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI 
+- [ ] 2025 — On the Fringe: Where Science Meets Pseudoscience (Michael D. Gordin)
 
 ## Series
 - [ ] Why It Matters (https://www.amazon.com/dp/B08BF9MK61)
@@ -2166,6 +2322,7 @@ My book reading list.
 - Princeton
 	- [ ] The University Center for Human Values Series
 - [ ] Guides to the Good Life: https://www.amazon.com/dp/B08CMFV8MH
+- [ ] Myths (Thames & Hudson): https://www.amazon.com/dp/B0CPLBHFHZ
 
 - Mindfulness Essentials - How To
 	- [ ] How to Sit #must 
@@ -2181,6 +2338,13 @@ My book reading list.
 - HBR's 10 Must Reads
 	- [ ] on Lifelong Learning
 	- [ ] on Managing Yourself
+
+- World of Art (https://www.amazon.com/dp/B08R6845XS)
+	- [ ] Islamic Art and Architecture
+
+- The Shortest History
+	- [ ] France
+	- [ ] Sex
 
 ## Magazines
 - [ ] 中国民主季刊 #China 
