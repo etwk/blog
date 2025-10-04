@@ -3,6 +3,10 @@ title: Podcasts
 tags:
   - podcast
 ---
+## Contemporary
+- Tahrir Podcast #middle-east
+- The David Frum Show #USA
+
 ## Education
 - The Annenberg Learner Podcast
 
