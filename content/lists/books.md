@@ -143,7 +143,7 @@ My book reading list.
 - [ ] 尋找家園 (高爾泰) #bumingbai #must  
 - [ ] 毛澤東的大饑荒：中國浩劫史1958-1962
 - [ ] Life and Death in Shanghai (Nien Cheng) #dasheng 
-- [ ] I Have No Enemies: The Life and Legacy of Liu Xiaobo #must 
+- [ ] I Have No Enemies: The Life and Legacy of Liu Xiaobo #must #bumingbai 
 - 高耀洁
 	- [ ] 血殇 #must 
 	- [ ] 高潔的靈魂 #bumingbai #must 
@@ -276,6 +276,8 @@ My book reading list.
 - [ ] On Xi Jinping: How Xi's Marxist Nationalism is Shaping China and the World (Kevin Rudd) #politics 
 - [ ] Apple in China: The Capture of the World's Greatest Company (Patrick McGee) #technology #business 
 - [ ] 走向共产党之后的中国：转型八论 (吴国光) #politics #must 
+- [ ] The Broken China Dream: How Reform Revived Totalitarianism (Minxin Pei) #bumingbai 
+- [ ] The Highest Exam: How the Gaokao Shapes China (Ruixue Jia, Hongbin Li, Claire Cousineau) #bumingbai #education #must 
 
 #### Fiction
 - [ ] 米拉蒂 (严歌苓) #novel #must 
@@ -304,6 +306,7 @@ My book reading list.
 	- [ ] Roller-Coaster: Europe, 1950-2017
 - [ ] Iron Curtain: The Crushing of Eastern Europe, 1944-1956 #history #must 
 - [ ] Blood of Others: Stalin's Crimean Atrocity and the Poetics of Solidarity #literary-criticism #history #must 
+- [ ] Lost Fatherland: Europeans between Empire and Nation-States, 1867–1939 (Iryna Vushko) #history #must 
 
 ### France
 - [ ] The Last Duel: A True Story of Crime, Scandal, and Trial by Combat (Eric Jager) #history 
@@ -342,7 +345,7 @@ My book reading list.
 	- [ ] 獨立路上：從前蘇聯省思香港未來 #dasheng 
 	- [ ] 香港第一課 #dasheng 
 - [ ] 反抗的共同體：二〇一九香港反送中運動 #dasheng 
-- [ ] The Troublemaker: How Jimmy Lai Became a Billionaire, Hong Kong's Greatest Dissident, and China's Most Feared Critic (Mark L. Clifford) #must 
+- [ ] The Troublemaker: How Jimmy Lai Became a Billionaire, Hong Kong's Greatest Dissident, and China's Most Feared Critic (Mark L. Clifford) #must #bumingbai 
 
 ### India
 - [ ] Ants Among Elephants: An Untouchable Family and the Making of Modern India
@@ -377,6 +380,7 @@ My book reading list.
 - [ ] Iran in Revolt: Revolutionary Aspirations in a Post-Democratic World (Hamid Dabashi) #sociology #politics 
 - [ ] Iran's Grand Strategy: A Political History (Vali Nasr) #must 
 - [ ] The Evin Prison Bakers' Club: Surviving Iran's Most Notorious Prisons in 16 Recipes (Sepideh Gholian)
+- [ ] The Blind Owl (Sadegh Hedayat (Author), Naveed Noori (Translator)) #fiction 
 
 ### Japan
 - [ ] The Book of Japanese Folklore: An Encyclopedia of the Spirits, Monsters, and Yokai of Japanese Myth
@@ -434,7 +438,7 @@ My book reading list.
 
 ### Russia
 - [ ] All the Kremlin's Men: Inside the Court of Vladimir Putin
-- [ ] Illness and Inhumanity in Stalin's Gulag
+- [ ] Illness and Inhumanity in Stalin's Gulag (Golfo Alexopoulos) #history 
 - [ ] Nothing Is True and Everything Is Possible: The Surreal Heart of the New Russia #must 
 - [ ] Black Wind, White Snow: The Rise of Russia's New Nationalism #must 
 - [ ] Making Sense of War: The Second World War and the Fate of the Bolshevik Revolution
@@ -593,6 +597,7 @@ My book reading list.
 - [ ] Ordinary People Don't Carry Machine Guns: Thoughts on War (Artem Chapeye) #philosophy 
 - [ ] Ukraine in Histories and Stories: Essays by Ukrainian Intellectuals (Volodymyr Yermolenko)
 - [ ] Strong Roots: A Ukrainian Family Story of War, Exile and Hope (Olia Hercules) #memoir 
+- [ ] UKRAINE The Forging of a Nation (Yaroslav Hrytsak) #history #general
 
 ### USA
 - [ ] Civilizing Torture: An American Tradition
@@ -664,6 +669,7 @@ My book reading list.
 - [ ] American Nations: A History of the Eleven Rival Regional Cultures of North America (Colin Woodard) #source
 - [ ] Oath and Honor: A Memoir and a Warning (Liz Cheney) #contemporary 
 - [ ] Comply with Me: Trump's Hypnosis Toolkit Exposed (Lisa Morgan) #inquest
+- [ ] The Campaign Finance Cases: Buckley, McConnell, Citizens United, and McCutcheon (Melvin I. Urofsky) #law #politics 
 
 ### Vietnam
 - [ ] 越南現代小說選 (羅漪文 譯) #fiction #novel #must 
@@ -709,6 +715,9 @@ My book reading list.
 - [ ] Into the Wild (Jon Krakauer) #travel
 - [ ] Along the Way: The Journey of a Father and Son (Martin Sheen, Emilio Estevez, Hope Edelman)
 - [ ] Baldwin: A Love Story (Nicholas Boggs)
+- [ ] Mother Teresa: A Complete Authorized Biography (Kathryn Spink)
+- [ ] Mark Twain (Ron Chernow)
+- [ ] Born to Run (Bruce Springsteen) #must 
 
 ## Business
 - [ ] Facebook: The Inside Story
@@ -791,6 +800,14 @@ My book reading list.
 - [ ] The Road to Freedom: Economics and the Good Society (Joseph E. Stiglitz) #must 
 - [ ] Our Dollar, Your Problem: An Insider's View of Seven Turbulent Decades of Global Finance, and the Road Ahead (Kenneth Rogoff)
 - [ ] The Twilight Before the Storm: From the Fractured 1930s to Today's Crisis Culture (Viktor Shvets)
+- [ ] The Power of Creative Destruction: Economic Upheaval and the Wealth of Nations (Philippe Aghion) #must 
+- [ ] Two Paths to Prosperity: Culture and Institutions in Europe and China, 1000–2000 (Avner Greif, Joel Mokyr, Guido Tabellini) #history 
+- Joel Mokyr
+	- [ ] The Enlightened Economy: An Economic History of Britain 1700-1850 #bumingbai #history #must 
+	- [ ] A Culture of Growth: The Origins of the Modern Economy (Joel Mokyr) #history #bumingbai 
+- [ ] 1929: Inside the Greatest Crash in Wall Street History--and How It Shattered a Nation (Andrew Ross Sorkin) 
+- [ ] Crashed: How a Decade of Financial Crises Changed the World (Adam Tooze) #history #must 
+- [ ] Value(s): Building a Better World for All (Mark Carney) #politics 
 
 ## Education
 - [ ] Unequal Childhoods: Class, Race, and Family Life
@@ -865,6 +882,9 @@ My book reading list.
 - [ ] Vandana Shiva: Creative Civil Disobedience (Lionel Astruc) #agriculture #biography 
 - [ ] Is a River Alive? (Robert Macfarlane) #must 
 - [ ] Letters to My Grandchildren (David Suzuki)
+- Barbara J. King
+	- [ ] Animals' Best Friends: Putting Compassion to Work for Animals in Captivity and in the Wild
+	- [ ] How Animals Grieve
 
 ### Climate
 - [ ] Glacial: The Inside Story of Climate Politics (Chelsea Henderson) #policy #must 
@@ -940,6 +960,7 @@ My book reading list.
 - [ ] Entitled: How Male Privilege Hurts Women #philosophy 
 - [ ] Sister in Law: Fighting for Justice in a System Designed by Men (Harriet Wistrich) #law #justice #real-stories 
 - [ ] Looking for Lorraine: The Radiant and Radical Life of Lorraine Hansberry (Imani Perry) #biography #lesbian
+- [ ] Patriarchy Inc.: What We Get Wrong About Gender Equality?and Why Men Still Win at Work (Cordelia Fine)
 
 ## Fiction
 - [ ] All Quiet on the Western Front
@@ -1004,6 +1025,7 @@ My book reading list.
 - [ ] The Journeys of Socrates: An Adventure #must 
 - [ ] The Player of Games (Iain M. Banks) (Culture) #series #must 
 - [ ] Slaughterhouse-Five: A Novel (Kurt Vonnegut) #bumingbai 
+- [ ] Ender's Game (Orson Scott Card)
 
 ### Short Stories
 - [ ] The Lost Salt Gift of Blood (Alistair MacLeod) 
@@ -1020,6 +1042,7 @@ My book reading list.
 - [ ] Twelve Post-War Tales (Graham Swift)
 - [ ] Men in the Sun and Other Palestinian Stories (Ghassan Kanafani)
 - [ ] Voices of the Fallen Heroes: And Other Stories (Yukio Mishima)
+- [ ] Here in Our Auschwitz and Other Stories (Tadeusz Borowski) #history #must 
 
 ### Society
 - [ ] Brave New World
@@ -1159,6 +1182,14 @@ My book reading list.
 - Edward O. Thorp
 	- [ ] A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market #biography #must 
 	- [ ] Beat the Dealer: A Winning Strategy for the Game of Twenty-One #classics 
+
+## Flourishing
+- [ ] Bullshit Jobs: A Theory (David Graeber) #labor #must 
+- [ ] Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist (Kate Raworth) #economy #must 
+- [ ] Moral Ambition: Stop Wasting Your Talent and Start Making a Difference (Rutger Bregman) #focuse 
+- [ ] Animal Liberation Now (Peter Singer) #classics 
+- [ ] Less is More: How Degrowth Will Save the World (Jason Hickel) #economy 
+- [ ] Abundance (Ezra Klein, Derek Thompson) #policy 
 
 ## Food
 - [ ] Eat Like The Animals: What Nature Teaches Us About the Science of Healthy Eating
@@ -1339,6 +1370,7 @@ My book reading list.
 - [ ] Ghosts of Hiroshima (Charles Pellegrino) #must 
 - [ ] Fascism: The History of a Word (Federico Marcon)
 - [ ] Crack-Up Capitalism: Market Radicals and the Dream of a World Without Democracy (Quinn Slobodian) #must 
+- [ ] Chernobyl: The History of a Nuclear Catastrophe (Serhii Plokhy)
 
 ### Comparative
 - [ ] Lineages of the Absolutist State (Perry Anderson)
@@ -1417,6 +1449,7 @@ My book reading list.
 - [ ] Sonny Boy: A Memoir (Al Pacino) #must 
 - [ ] The Soul of a Butterfly: Reflections on Life's Journey (Muhammad Ali, Hana Yasmeen Ali) #memoir #must 
 - [ ] Ali: A Life (Jonathan Eig) #must 
+- [ ] A Marriage at Sea: A True Story of Love, Obsession, and Shipwreck (Sophie Elmhirst)
 
 ## Literature
 - [ ] The Jane Austen Insult Guide for Well-Bred Women: Serving Tea with a Side of Scorn (Emily Reed)
@@ -1431,6 +1464,7 @@ My book reading list.
 ## Media
 - [ ] 真相製造：從聖戰士媽媽、極權政府、網軍教練、境外勢力、打假部隊、內容農場主人到政府小編
 - [ ] When the Hood Comes Off: Racism and Resistance in the Digital Age #racism 
+- [ ] The Sirens' Call: How Attention Became the World's Most Endangered Resource (Chris Hayes) #sociology
 
 ## Meditation
 - [ ] Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life (Jon Kabat-Zinn PhD) #mindfulness #must #trading
@@ -1455,19 +1489,9 @@ My book reading list.
 - [ ] My Next Breath: A Memoir (Jeremy Renner)
 - [ ] Bonobo Handshake: A Memoir of Love and Adventure in the Congo (Vanessa Woods)
 - [ ] Politics On the Edge (Rory Stewart) #insider
-
-## Military
-- [ ] On War (Carl von Clausewitz) #classics #strategy
-- [ ] Warfighting: The US Marine Corps Book of Strategy #must 
-- [ ] Making the Corps (Thomas E. Ricks) #history #Marine
-- [ ] One Bullet Away: The Making of a Marine Officer (Nathaniel C. Fick) #memoir #must 
-- [ ] The Warrior Ethos (Steven Pressfield)
-- [ ] With the Old Breed: At Peleliu and Okinawa (E.B. Sledge) #memoir #war #Marine 
-- [ ] The Last Stand of Fox Company: A True Story of U.S. Marines in Combat (Bob Drury, Tom Clavin) #war #history #must 
-- Phillips Payson O'Brien
-	- [ ] How the War Was Won: Air-Sea Power and Allied Victory in World War II #history #must 
-	- [ ] The Strategists: Churchill, Stalin, Roosevelt, Mussolini, and Hitler--How War Made Them and How They Made War #history #biography #strategy 
-- [ ] The Russian-Ukrainian War, 2023: A Second Year of Hell and the Dawn of Drone Warfare (John S Harrel)
+- [ ] Eastward, Westward: A Life in Law (Jerome A. Cohen) #conjunction #bumingbai #must 
+- [ ] Paper Girl: A Memoir of Home and Family in a Fractured America (Beth Macy)
+- [ ] The Black Seasons (Michal Glowinski)
 
 ## Movements
 - [ ] Unbroken Wholeness: Six Pathways to the Beloved Community: Integrating Social Justice, Emotional Healing, and Spiritual Practice (John Bell) #must #spirituality 
@@ -1681,6 +1705,7 @@ My book reading list.
 - [ ] What's the Big Idea?: 30 Years of the Australia Institute (Anna Chang: editor, Alice Grundy: editor)
 - [ ] Lessons from Cats for Surviving Fascism (Stewart Reynolds)
 - [ ] Disaster Nationalism: The Downfall of Liberal Civilization (Richard Seymour)
+- [ ] Strongmen: Mussolini to the Present (Ruth Ben-Ghiat) #history #must
 
 ### Foreign Affairs
 - [ ] World Order (Henry Kissinger) #history #politics 
@@ -1732,7 +1757,11 @@ My book reading list.
 	- [ ] Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts #decision-making #business  #trading #must 
 - [ ] The Optimist's Telescope: Thinking Ahead in a Reckless Age (Bina Venkataraman) #decision-making #must 
 - [ ] Nudge (Richard H. Thaler, Cass R. Sunstein) #decision-making #business #must 
+- [ ] The Winner's Curse: Behavioral Economics Anomalies, Then and Now (Richard H. Thaler, Alex Imas) #economy 
 - [ ] Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions (Dan Ariely) #must 
+- Shane Parrish
+	- [ ] Clear Thinking: Turning Ordinary Moments into Extraordinary Results #decision-making #must 
+	- [ ] The Great Mental Models, Volume 1: General Thinking Concepts
 
 ### Neuropsychology
 - [ ] Neurofeedback in the Treatment of Developmental Trauma: Calming the Fear-Driven Brain (Sebern F. Fisher)
@@ -1749,10 +1778,14 @@ My book reading list.
 ### Psychoanalysis
 - [ ] Powers of Horror: An Essay on Abjection (Julia Kristeva) #literature #film #must 
 - [ ] The Wretched of the Earth (Frantz Fanon) #colonialism #racism #classics 
+- [ ] Man and His Symbols (Carl Gustav Jung) #must 
 
 ### Psychotherapy
 - [ ] Treating Chronically Traumatized Children: The Sleeping Dogs Method (Arianne Struik)
 - [ ] From Skepticism to Competence: How American Psychiatrists Learn Psychotherapy (Mariana Craciun)
+
+### Social
+- [ ] ENVY: A Theory of Social Behaviour (Helmut Schoeck)
 
 ## Relationship
 - [ ] Never Eat Alone, Expanded and Updated: And Other Secrets to Success, One Relationship at a Time
@@ -1765,6 +1798,7 @@ My book reading list.
 - [ ] The Book You Want Everyone You Love to Read: Sane And Sage Advice to Help You Navigate All of Your Most Important Relationships (Philippa Perry) #psychology  #must 
 - [ ] Games People Play: The Psychology of Human Relationships (Eric Berne)
 - [ ] How to Win Friends & Influence People (Dale Carnegie) #must 
+- [ ] How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen (David Brooks)
 
 ## Religion
 - [ ] Conversations With God (Neale Donald Walsch)
@@ -1837,6 +1871,9 @@ My book reading list.
 	- [ ] The Trouble With Testosterone: And Other Essays On The Biology Of The Human Predicament
 - [ ] Where Biology Ends and Bias Begins: Lessons on Belonging from Our DNA (Shoumita Dasgupta) #genetics
 - [ ] Unreliable: Bias, Fraud, and the Reproducibility Crisis in Biomedical Research (Csaba Szabo) #critique #must 
+- [ ] Do Fish Feel Pain? (Victoria Braithwaite)
+- [ ] Elephant Don: The Politics of a Pachyderm Posse (Caitlin O'Connell)
+- [ ] Evolution: A View from the 21st Century. Fortified. (James A Shapiro)
 
 ### Children's Book
 - Lucy Hawking & Stephen Hawking
@@ -1865,6 +1902,7 @@ My book reading list.
 	- [ ] Brain Bugs: How the Brain's Flaws Shape Our Lives
 - [ ] The Neural Mind: How Brains Think (George Lakoff, Srini Narayanan)
 - [ ] The Evolutionary Road to Human Memory (Elisabeth A. Murray, Steven P. Wise, Mary K. L. Baldwin, Kim S. Graham)
+- [ ] How to Change a Memory: One Neuroscientist’s Quest to Alter the Past (Prof. Steve Ramirez)
 
 ### Physics
 - [ ] Dancing Wu Li Masters: An Overview of the New Physics #quantum #philosophy
@@ -1889,6 +1927,7 @@ My book reading list.
 - [ ] Why Nobody Understands Quantum Physics: And Everyone Needs to Know Something About It (Frank Verstraete, Céline Broeckaert) #beginner #must 
 - [ ] From Shiva to Schrödinger: Unravelling Cosmic Secrets with Trika Shaivism & Quantum Insights (Dr Mrittunjoy Guha Majumdar) #conjunction #must 
 - [ ] Quantum Programming in Depth: Solving problems with Q# and Qiskit (Mariia Mykhailova) #software
+- [ ] Beyond the Quantum: A Quest for the Origin and Hidden Meaning of Quantum Mechanics (Antony Valentini)
 
 ### Statistics
 - [ ] The Black Swan: Second Edition: The Impact of the Highly Improbable (Nassim Nicholas Taleb) #must 
@@ -1913,6 +1952,7 @@ My book reading list.
 - [ ] The Way to Will Power (Henry Hazlitt)
 - [ ] The War of Art: Break Through the Blocks and Win Your Inner Creative Battles (Steven Pressfield)
 - [ ] The Art of Clear Thinking: A Stealth Fighter Pilot's Timeless Rules for Making Tough Decisions (Hasard Lee) #decision-making 
+- [ ] A Mind of Its Own: How Your Brain Distorts and Deceives (Cordelia Fine)
 
 ## Sexuality
 - [ ] Testo Junkie: Sex, Drugs, and Biopolitics in the Pharmacopornographic Era #memoir #philosophy #gender 
@@ -2023,6 +2063,8 @@ My book reading list.
 - [ ] Inside Terrorism (Bruce Hoffman) #history 
 - [ ] Amusing Ourselves to Death: Public Discourse in the Age of Show Business (Neil Postman) #must 
 - [ ] Somebodies and Nobodies: Overcoming the Abuse of Rank (Robert W. Fuller) #must 
+- [ ] Antifa: The Anti-Fascist Handbook (Mark Bray)
+- [ ] Uneasy Street: The Anxieties of Affluence (Rachel Sherman) #interview 
 
 ## Spirituality
 - [ ] Not Quite Nirvana: A Skeptic's Journey to Mindfulness #must #memoir 
@@ -2115,6 +2157,7 @@ My book reading list.
 - [ ] Kissinger the Negotiator: Lessons from Dealmaking at the Highest Level (James K Sebenius, R. Nicholas Burns, Robert H. Mnookin) #diplomacy #history #politics 
 - [ ] Difficult Conversations: How to Discuss What Matters Most (Douglas Stone, Bruce Patton, Sheila Heen)
 - [ ] Getting to Yes: Negotiating Agreement Without Giving In (Roger Fisher, William L. Ury, Bruce Patton) #must 
+- [ ] Win Every Argument: The Art of Debating, Persuading, and Public Speaking (Mehdi Hasan)
 
 ### Robot
 - [ ] Imagination: A Manifesto #future 
@@ -2189,6 +2232,7 @@ My book reading list.
 ### Jane Goodall
 - [ ] The Book of Hope: A Survival Guide for an Endangered Planet (Jane Goodall, Douglas Abrams, Gail Hudson)
 - [ ] Jane Goodall: A Biography (Meg Greene)
+- [ ] Through a Window
 
 ### Joseph Campbell
 - [ ] The Power of Myth #must
@@ -2321,8 +2365,20 @@ My book reading list.
 ## Travel
 - [ ] Ocean of Insight: A Sailor's Voyage from Despair to Hope
 
-## Writing
-- [ ] On Connection (Kae Tempest) #creativity #meditation 
+## Warfare
+- [ ] On War (Carl von Clausewitz) #classics #strategy
+- [ ] Warfighting: The US Marine Corps Book of Strategy #must 
+- [ ] Making the Corps (Thomas E. Ricks) #history #Marine
+- [ ] One Bullet Away: The Making of a Marine Officer (Nathaniel C. Fick) #memoir #must 
+- [ ] The Warrior Ethos (Steven Pressfield)
+- [ ] With the Old Breed: At Peleliu and Okinawa (E.B. Sledge) #memoir #war #Marine 
+- [ ] The Last Stand of Fox Company: A True Story of U.S. Marines in Combat (Bob Drury, Tom Clavin) #war #history #must 
+- Phillips Payson O'Brien
+	- [ ] How the War Was Won: Air-Sea Power and Allied Victory in World War II #history #must 
+	- [ ] The Strategists: Churchill, Stalin, Roosevelt, Mussolini, and Hitler--How War Made Them and How They Made War #history #biography #strategy 
+	- [ ] War and Power: Who Wins Wars―and Why #strategy #must 
+- [ ] The Russian-Ukrainian War, 2023: A Second Year of Hell and the Dawn of Drone Warfare (John S Harrel)
+- [ ] The Doomsday Machine: Confessions of a Nuclear War Planner (Daniel Ellsberg) #legendary
 
 ## Work
 - [ ] The Idealist's Survival Kit: 75 Simple Ways to Avoid Burnout #social-work
@@ -2332,6 +2388,10 @@ My book reading list.
 - [ ] Follow Your Dreams: 100 Inspiring And Extraordinary Jobs #must 
 
 ## Writers
+
+## Writing
+- [ ] On Connection (Kae Tempest) #creativity #meditation 
+
 ### Aleksandr Solzhenitsyn
 - [ ] The Gulag Archipelago #must 
 - [ ] In the First Circle #novel #fiction 
