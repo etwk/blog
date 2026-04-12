@@ -29,6 +29,7 @@ My book reading list.
 	- [ ] Moral Origins: The Evolution of Virtue, Altruism, and Shame
 	- [ ] Hierarchy in the Forest: The Evolution of Egalitarian Behavior
 - [ ] The Gift: How the Creative Spirit Transforms the World (Lewis Hyde) #must 
+- [ ] Slavery and Social Death: A Comparative Study (Orlando Patterson) #examples #must 
 
 ## Areas
 ### Afghanistan
@@ -188,7 +189,7 @@ My book reading list.
 	- [ ] The Search for Modern China
 	- [ ] Chinese Roundabout: Essays in History and Culture
 	- [ ] The Chinese Century: A Photographic History of the Last Hundred Years
-- [ ] The Kingdom of Women: Life, Love and Death in China's Hidden Mountains
+- [ ] The Kingdom of Women: Life, Love and Death in China's Hidden Mountains #sociology #must 
 - [ ] 一百個人的十年 #Cultural-Revolution
 - [ ] 草根蝉鸣 (刘国凯) #Cultural-Revolution  #must 
 - 喻智官
@@ -485,6 +486,7 @@ My book reading list.
 ### Syria
 - [ ] The Daughters of Kobani: A Story of Rebellion, Courage, and Justice #war #Islamic #female #must 
 - [ ] Syria: Civil War to Holy War? (Charles Glass) #contemporary 
+- [ ] Defiance: A Memoir of Awakening, Rebellion, and Survival in Syria (Loubna Mrie) #memoir 
 
 ### Taiwan
 - [ ] 台灣地方政治讀本：來自青年世代的提問、實踐與反思 #politics 
@@ -670,6 +672,12 @@ My book reading list.
 - [ ] Oath and Honor: A Memoir and a Warning (Liz Cheney) #contemporary 
 - [ ] Comply with Me: Trump's Hypnosis Toolkit Exposed (Lisa Morgan) #inquest
 - [ ] The Campaign Finance Cases: Buckley, McConnell, Citizens United, and McCutcheon (Melvin I. Urofsky) #law #politics 
+- [ ] Leadership: In Turbulent Times (Doris Kearns Goodwin) #people #history #must 
+- [ ] Nonviolent: A Memoir of Resistance, Agitation, and Love (Reverend James Lawson Jr, Emily Yellin) #biography 
+- [ ] A Dream Deferred: Jesse Jackson and the Fight for Black Political Power (Abby Phillip) #biography 
+- [ ] The Threat Matrix: The FBI at War in the Age of Global Terror (Garrett M. Graff) #intelligence 
+- [ ] The Best and the Brightest (David Halberstam) #history #must 
+- [ ] Without Precedent: How Chief Justice Roberts and His Accomplices Rewrote the Constitution and Dismantled Our Rights (Lisa Graves) #law 
 
 ### Vietnam
 - [ ] 越南現代小說選 (羅漪文 譯) #fiction #novel #must 
@@ -718,6 +726,8 @@ My book reading list.
 - [ ] Mother Teresa: A Complete Authorized Biography (Kathryn Spink)
 - [ ] Mark Twain (Ron Chernow)
 - [ ] Born to Run (Bruce Springsteen) #must 
+- [ ] Peacemaker: U Thant and the Forgotten Quest for a Just World (Thant Myint-U) #biography #must 
+- [ ] Bloomberg by Bloomberg (Michael R. Bloomberg) #autobiography #finance 
 
 ## Business
 - [ ] Facebook: The Inside Story
@@ -758,7 +768,8 @@ My book reading list.
 
 ## Culture
 - [ ] The Fran Lebowitz Reader (Fran Lebowitz) #essay #humor
-- [ ] Humans: A Monstrous History (Surekha Davies)
+- [ ] Humans: A Monstrous History (Surekha Davies) #must 
+- [ ] Good Ideas and Power Moves: Ten Lessons for Success from Taylor Swift (Sinéad O'Sullivan)
 
 ## Economy
 - [ ] A Culture of Growth: The Origins of the Modern Economy
@@ -808,6 +819,11 @@ My book reading list.
 - [ ] 1929: Inside the Greatest Crash in Wall Street History--and How It Shattered a Nation (Andrew Ross Sorkin) 
 - [ ] Crashed: How a Decade of Financial Crises Changed the World (Adam Tooze) #history #must 
 - [ ] Value(s): Building a Better World for All (Mark Carney) #politics 
+- [ ] Capitalism: A Global History (Sven Beckert)
+- Nouriel Roubini
+	- [ ] MegaThreats: Ten Dangerous Trends That Imperil Our Future, And How to Survive Them
+	- [ ] Crisis Economics: A Crash Course in the Future of Finance
+- [ ] The Big Short (Michael Lewis) #people #history 
 
 ## Education
 - [ ] Unequal Childhoods: Class, Race, and Family Life
@@ -1026,6 +1042,8 @@ My book reading list.
 - [ ] The Player of Games (Iain M. Banks) (Culture) #series #must 
 - [ ] Slaughterhouse-Five: A Novel (Kurt Vonnegut) #bumingbai 
 - [ ] Ender's Game (Orson Scott Card)
+- [ ] I'm Starting to Worry About This Black Box of Doom (Jason Pargin)
+- [ ] The Three-Body Problem (Cixin Liu)
 
 ### Short Stories
 - [ ] The Lost Salt Gift of Blood (Alistair MacLeod) 
@@ -1262,6 +1280,7 @@ My book reading list.
 - [ ] Frog: The secret diary of a paramedic (Sally Gould) #memoir 
 - [ ] Music as Medicine: How We Can Harness Its Therapeutic Power (Daniel Levitin)
 - [ ] The Speckled Monster: a Historical Tale of Battling Smallpox Paperback (Jennifer Lee Carrell)
+- [ ] Drug Hunters: The Improbable Quest to Discover New Medicines (Donald R. Kirsch, Ogi Ogas) #must 
 
 ### Nutrition
 - [ ] An Evidence-Based Approach to Vitamins and Minerals: Health Benefits and Intake Recommendations (Jane Higdon, Victoria J. Drake)
@@ -1332,7 +1351,7 @@ My book reading list.
 - [ ] Everything Must Go: The Stories We Tell About The End of the World #must 
 - [ ] A Brief History Of Everyone Ever Lived #must 
 - [ ] Hitler and Stalin: The Tyrants and the Second World War #must 
-- [ ] The Dawn of Everything: A New History of Humanity
+- [ ] The Dawn of Everything: A New History of Humanity (David Graeber, David Wengrow) #must 
 - [ ] Affluence Without Abundance: What We Can Learn from the World's Most Successful Civilisation #must 
 - [ ] The Chalice and the Blade: Our History, Our Future
 - [ ] The Superhero Reader (University Press of Mississippi) #must 
@@ -1371,6 +1390,7 @@ My book reading list.
 - [ ] Fascism: The History of a Word (Federico Marcon)
 - [ ] Crack-Up Capitalism: Market Radicals and the Dream of a World Without Democracy (Quinn Slobodian) #must 
 - [ ] Chernobyl: The History of a Nuclear Catastrophe (Serhii Plokhy)
+- [ ] Illness and Inhumanity in Stalin's Gulag (Golfo Alexopoulos)
 
 ### Comparative
 - [ ] Lineages of the Absolutist State (Perry Anderson)
@@ -1407,6 +1427,8 @@ My book reading list.
 ## Leadership
 - [ ] Extreme Ownership: How U.S. Navy SEALs Lead and Win (Jocko Willink, Leif Babin)
 - [ ] Leadership: Six Studies in World Strategy (Henry Kissinger) #must 
+- [ ] Clarity in Crisis: Leadership Lessons from the CIA (Marc E. Polymeropoulos) #must 
+- [ ] On Character: Choices That Define a Life (General Stanley McChrystal)
 
 ## Life
 - [ ] How to be a Happier Parent: Raising a Family, Having a Life, and Loving (Almost) Every Minute
@@ -1450,9 +1472,11 @@ My book reading list.
 - [ ] The Soul of a Butterfly: Reflections on Life's Journey (Muhammad Ali, Hana Yasmeen Ali) #memoir #must 
 - [ ] Ali: A Life (Jonathan Eig) #must 
 - [ ] A Marriage at Sea: A True Story of Love, Obsession, and Shipwreck (Sophie Elmhirst)
+- [ ] Everyday Utopia: What 2,000 Years of Wild Experiments Can Teach Us About the Good Life (Kristen R. Ghodsee) #history #must 
 
 ## Literature
 - [ ] The Jane Austen Insult Guide for Well-Bred Women: Serving Tea with a Side of Scorn (Emily Reed)
+- [ ] Trip to the Moon: Understanding the True Power Of Story (John Yorke) #comparative #must 
 
 ## Math
 - Jordan Ellenberg
@@ -1460,6 +1484,7 @@ My book reading list.
 	- [ ] How Not to Be Wrong: The Power of Mathematical Thinking
 - [ ] Zero: The Biography of a Dangerous Idea
 - [ ] The Music of the Primes: Searching to Solve the Greatest Mystery in Mathematics (Marcus du Sautoy) #history
+- [ ] Mathematica: A Secret World of Intuition and Curiosity (David Bessis) #teaching
 
 ## Media
 - [ ] 真相製造：從聖戰士媽媽、極權政府、網軍教練、境外勢力、打假部隊、內容農場主人到政府小編
@@ -1492,6 +1517,7 @@ My book reading list.
 - [ ] Eastward, Westward: A Life in Law (Jerome A. Cohen) #conjunction #bumingbai #must 
 - [ ] Paper Girl: A Memoir of Home and Family in a Fractured America (Beth Macy)
 - [ ] The Black Seasons (Michal Glowinski)
+- [ ] Nobody's Girl: A Memoir of Surviving Abuse and Fighting for Justice (Virginia Roberts Giuffre) #must 
 
 ## Movements
 - [ ] Unbroken Wholeness: Six Pathways to the Beloved Community: Integrating Social Justice, Emotional Healing, and Spiritual Practice (John Bell) #must #spirituality 
@@ -1645,6 +1671,7 @@ My book reading list.
 
 ### Ethics
 - [ ] The Moral Circle: Who Matters, What Matters, and Why (Jeff Sebo) #science #morality #must 
+- [ ] The Matter of Evil: From Speculative Realism to Ethical Pessimism (Drew M. Dalton)
 
 ## Photography
 - [ ] I Am Home: Portraits of Immigrant Teenagers
@@ -1762,6 +1789,7 @@ My book reading list.
 - Shane Parrish
 	- [ ] Clear Thinking: Turning Ordinary Moments into Extraordinary Results #decision-making #must 
 	- [ ] The Great Mental Models, Volume 1: General Thinking Concepts
+- [ ] The Hour Between Dog and Wolf: How Risk Taking Transforms Us, Body and Mind (John Coates) #must
 
 ### Neuropsychology
 - [ ] Neurofeedback in the Treatment of Developmental Trauma: Calming the Fear-Driven Brain (Sebern F. Fisher)
@@ -1855,6 +1883,9 @@ My book reading list.
 - [ ] How Nature Works: The Science of Self-organized Criticality (Per Bak)
 - [ ] Painting the Cosmos: How Art and Science Intersect to Reveal the Secrets of the Universe (Nia Imara) #conjunction 
 - [ ] Notes on Complexity: A Scientific Theory of Connection, Consciousness, and Being (Neil Theise)
+- Karl Popper 
+	- [ ] The Logic of Scientific Discovery #must 
+	- [ ] Conjectures and Refutations: The Growth of Scientific Knowledge
 
 ### Biology
 - [ ] Rumbles: A Curious History of the Gut
@@ -1874,6 +1905,7 @@ My book reading list.
 - [ ] Do Fish Feel Pain? (Victoria Braithwaite)
 - [ ] Elephant Don: The Politics of a Pachyderm Posse (Caitlin O'Connell)
 - [ ] Evolution: A View from the 21st Century. Fortified. (James A Shapiro)
+- [ ] What is Life?: How Chemistry Becomes Biology (Addy Pross) #must 
 
 ### Children's Book
 - Lucy Hawking & Stephen Hawking
@@ -1931,6 +1963,8 @@ My book reading list.
 
 ### Statistics
 - [ ] The Black Swan: Second Edition: The Impact of the Highly Improbable (Nassim Nicholas Taleb) #must 
+- [ ] The Race Variable: How Statistical Practices Reinforce Inequality (Race, Inequality, and Health)
+(Jay Kaufman)
 
 ### Unity
 - [ ] Consilience: The Unity of Knowledge (Edward O.Willson) #must 
@@ -1953,6 +1987,7 @@ My book reading list.
 - [ ] The War of Art: Break Through the Blocks and Win Your Inner Creative Battles (Steven Pressfield)
 - [ ] The Art of Clear Thinking: A Stealth Fighter Pilot's Timeless Rules for Making Tough Decisions (Hasard Lee) #decision-making 
 - [ ] A Mind of Its Own: How Your Brain Distorts and Deceives (Cordelia Fine)
+- [ ] Thinking Sideways: How to Think Like a Chess Player and Win at Life (Jennifer Shahade)
 
 ## Sexuality
 - [ ] Testo Junkie: Sex, Drugs, and Biopolitics in the Pharmacopornographic Era #memoir #philosophy #gender 
@@ -2065,6 +2100,8 @@ My book reading list.
 - [ ] Somebodies and Nobodies: Overcoming the Abuse of Rank (Robert W. Fuller) #must 
 - [ ] Antifa: The Anti-Fascist Handbook (Mark Bray)
 - [ ] Uneasy Street: The Anxieties of Affluence (Rachel Sherman) #interview 
+- [ ] Enshittification: Why Everything Suddenly Got Worse and What to Do About It (Cory Doctorow) #must 
+- [ ] We Are Not Able to Live in the Sky: The Seductive Promise of Microfinance (Mara Kardas-Nelson) #finance
 
 ## Spirituality
 - [ ] Not Quite Nirvana: A Skeptic's Journey to Mindfulness #must #memoir 
@@ -2125,6 +2162,8 @@ My book reading list.
 
 ### AI
 - [ ] AI Engineering: Building Applications with Foundation Models (Chip Huyen)
+- [ ] The Road to Conscious Machines: The Story of AI (Michael Wooldridge) #history 
+- [ ] The Infinity Machine: Demis Hassabis, DeepMind, and the Quest for Superintelligence (Sebastian Mallaby)
 
 ### Computer
 - [ ] Curious Video Game Machines: A Compendium of Rare and Unusual Consoles, Computers and Coin-Ops (Lewis Packwood) #game
@@ -2264,6 +2303,7 @@ My book reading list.
 - [ ] The Omnivore's Dilemma: A Natural History of Four Meals #foodthink #must 
 - [ ] In Defense of Food: An Eater's Manifesto #foodthink #must 
 - [ ] Cooked: A Natural History of Transformation #foodthink #must 
+- [ ] A World Appears: A Journey into Consciousness
 
 ### Noam Chomsky
 - [ ] On Palestine (Noam Chomsky, Ilan Pappé)
@@ -2379,6 +2419,7 @@ My book reading list.
 	- [ ] War and Power: Who Wins Wars―and Why #strategy #must 
 - [ ] The Russian-Ukrainian War, 2023: A Second Year of Hell and the Dawn of Drone Warfare (John S Harrel)
 - [ ] The Doomsday Machine: Confessions of a Nuclear War Planner (Daniel Ellsberg) #legendary
+- [ ] Intelligence Collection: How to Plan and Execute Intelligence Collection in Complex Environments (Wayne Michael Hall, Gary Citrenbaum) #intelligence 
 
 ## Work
 - [ ] The Idealist's Survival Kit: 75 Simple Ways to Avoid Burnout #social-work
@@ -2495,14 +2536,14 @@ My book reading list.
 ### Stacey Abrams
 - [ ] Rogue Justice: A Thriller #politics 
 
-### Steven Pinker
-- [ ] The Better Angels of Our Nature: Why Violence Has Declined #bumingbai 
-- [ ] Enlightenment Now: The Case for Reason, Science, Humanism, and Progress
-- [ ] Rationality: What It Is, Why It Seems Scarce, Why It Matters
-- [ ] How the Mind Works
-- [ ] The Blank Slate: The Modern Denial of Human Nature
-- [ ] The Language Instinct: How The Mind Creates Language
-- [ ] Words and Rules: The Ingredients Of Language
+### ~~Steven Pinker~~
+- [ ] ~~The Better Angels of Our Nature: Why Violence Has Declined #bumingbai~~ 
+- [ ] ~~Enlightenment Now: The Case for Reason, Science, Humanism, and Progress~~
+- [ ] ~~Rationality: What It Is, Why It Seems Scarce, Why It Matters~~
+- [ ] ~~How the Mind Works~~
+- [ ] ~~The Blank Slate: The Modern Denial of Human Nature~~
+- [ ] ~~The Language Instinct: How The Mind Creates Language~~
+- [ ] ~~Words and Rules: The Ingredients Of Language~~
 
 ### Richard Dawkins
 - [ ] The Genetic Book of the Dead: A Darwinian Reverie #must 
